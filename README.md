@@ -1,7 +1,7 @@
 # Xpm_metabolic_model
-Xanthomonas phaseoli pv. manihotis metabolic model repository
+Repository of Xanthomonas phaseoli pv. manihotis metabolic models and maps (constructed in Escher).
 
-•	Metabolic map of the central metabolism and carbohydrate sources of Xpm constructed in Escher: Xpm_Central_metabolism_map.json
+•	Metabolic map of the central metabolism and carbohydrate sources of Xpm : Xpm_Central_metabolism_map.json
 
 •	Metabolic map of amino acid biosynthesis of Xpm constructed in Escher: Xpm-Aminoacid_map.json
 
