@@ -1,0 +1,122 @@
+5-FCL-like protein
+Acetyl-CoA fermentation to Butyrate
+Alkanesulfonate assimilation
+Alkanesulfonates Utilization
+Arginine Biosynthesis -- gjo
+Arginine Biosynthesis extended
+Arginine and Ornithine Degradation
+Aromatic amino acid degradation
+BarA-UvrY(SirA) two-component regulatory system
+Butanol Biosynthesis
+Butyrate metabolism cluster
+Choline and Betaine Uptake and Betaine Biosynthesis
+Choline uptake and conversion to betaine clusters
+Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.
+Cobalamin synthesis
+Coenzyme A Biosynthesis
+Coenzyme B12 biosynthesis
+Colicin V and Bacteriocin Production Cluster
+Cysteine Biosynthesis
+D-Galacturonate and D-Glucuronate Utilization
+D-galactonate catabolism
+D-gluconate and ketogluconates metabolism
+DNA Repair Base Excision
+DNA repair, bacterial
+DNA repair, bacterial RecFOR pathway
+DNA topoisomerases, Type II, ATP-dependent
+Dehydrogenase complexes
+Entner-Doudoroff Pathway
+Fatty Acid Biosynthesis FASII
+Fatty acid metabolism cluster
+Formate hydrogenase
+GABA and putrescine metabolism from cluters
+Glutamate and Aspartate uptake in Bacteria
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutathione-dependent pathway of formaldehyde detoxification
+Glutathione: Non-redox reactions
+Glutathione: Redox cycle
+Glycerol and Glycerol-3-phosphate Uptake and Utilization
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+Glycine Biosynthesis
+Glycine and Serine Utilization
+Glycine cleavage system
+Glycogen metabolism
+Glycolysis and Gluconeogenesis
+HMG CoA Synthesis
+Histidine Biosynthesis
+Inorganic Sulfur Assimilation
+Isoleucine degradation
+KDO2-Lipid A biosynthesis
+L-fucose utilization temp
+LSU ribosomal proteins cluster
+Leucine Degradation and HMG-CoA Metabolism
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway, GJO scratch
+Macromolecular synthesis operon
+Maltose and Maltodextrin Utilization
+Mannose Metabolism
+Methionine Biosynthesis
+Methionine Degradation
+Methylcitrate cycle
+Methylglyoxal Metabolism
+Muconate lactonizing enzyme family
+Mycobacterium virulence operon involved in protein synthesis (LSU ribosomal proteins)
+Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins)
+NADH ubiquinone oxidoreductase
+Nitrate and nitrite ammonification
+NusA-TFII Cluster
+Osmoregulation
+Oxidative stress
+Pentose phosphate pathway
+Phosphate metabolism
+Polyadenylation bacterial
+Polyamine Metabolism
+Polyhydroxybutyrate metabolism
+Potassium homeostasis
+Proline, 4-hydroxyproline uptake and utilization
+Propionate-CoA to Succinate Module
+Protection from Reactive Oxygen Species
+Pterin carbinolamine dehydratase
+Purine Utilization
+Purine conversions
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyruvate Alanine Serine Interconversions
+Pyruvate metabolism I: anaplerotic reactions, PEP
+Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate
+RNA modification cluster
+RNA polymerase bacterial
+RNA pseudouridine syntheses
+Redox-dependent regulation of nucleus processes
+Resistance to fluoroquinolones
+Respiratory Complex I
+Respiratory dehydrogenases 1
+Rhamnose containing glycans
+Riboflavin synthesis cluster
+Ribosomal protein S12p Asp methylthiotransferase
+Ribosomal protein S5p acylation
+Ribosome LSU bacterial
+Ribosome SSU bacterial
+Salicylate and gentisate catabolism
+Salicylate ester degradation
+Succinate dehydrogenase
+TCA Cycle
+Terminal cytochrome O ubiquinol oxidase
+Terminal cytochrome oxidases
+Thiamin biosynthesis
+Thioredoxin-disulfide reductase
+Threonine degradation
+Transcription factors bacterial
+Trehalose Biosynthesis
+Triacylglycerol metabolism
+Ubiquinone Biosynthesis
+Ubiquinone Biosynthesis - gjo
+Valine degradation
+Xanthan Exopolysaccharide Biosynthesis and Export
+Zinc regulated enzymes
+cAMP signaling in bacteria
+dTDP-rhamnose synthesis
+pyrimidine conversions
+tRNA aminoacylation, Trp
+tRNA modification Bacteria
+tRNA nucleotidyltransferase
+tRNA processing

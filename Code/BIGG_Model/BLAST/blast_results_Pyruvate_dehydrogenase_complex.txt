@@ -1,0 +1,1385 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Xam_Proteome.fasta
+           4,337 sequences; 1,317,730 total letters
+
+
+
+Query= sp|P0AFG8|ODP1_ECOLI Pyruvate dehydrogenase E1 component
+OS=Escherichia coli (strain K12) GN=aceE PE=1 SV=2
+
+Length=887
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  lcl|aceE-xanmn_chr03_0256 acc=xanmn_chr03_0256 locus_tag=xanmn_...  1033    0.0  
+  lcl|tktA-xanmn_chr11_0086 acc=xanmn_chr11_0086 locus_tag=xanmn_...  48.5    2e-06
+  lcl|cheR-xanmn_chr10_0079 acc=xanmn_chr10_0079 locus_tag=xanmn_...  28.9    1.4  
+  lcl|glgB1-xanmn_chr02_0071 acc=xanmn_chr02_0071 locus_tag=xanmn...  28.9    1.7  
+  lcl|lysS-xanmn_chr05_0236 acc=xanmn_chr05_0236 locus_tag=xanmn_...  27.7    3.7  
+  lcl|gumF-xanmn_chr08_0036 acc=xanmn_chr08_0036 locus_tag=xanmn_...  26.9    5.6  
+  lcl|xanmn_chr02_0124-xanmn_chr02_0124 acc=xanmn_chr02_0124 locu...  27.3    5.7  
+  lcl|xanmn_chr10_0437-xanmn_chr10_0437 acc=xanmn_chr10_0437 locu...  25.8    7.3  
+
+
+> lcl|aceE-xanmn_chr03_0256 acc=xanmn_chr03_0256 locus_tag=xanmn_chr03_0256 
+len=895 sp=xanmn type=protein begin=273285 end=275972 
+strand=+ chr=xanmn_chr03 def=pyruvate dehydrogenase subunit 
+E1 
+Length=895
+
+ Score = 1033 bits (2671),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 504/892 (57%), Positives = 658/892 (74%), Gaps = 11/892 (1%)
+
+Query  1    MSERFPNDVDPIETRDWLQAIESVIREEGVERAQYLIDQLLAEARKGGVNVAAGTGISNY  60
+            ++E   ND +P+ET++WL++I++VI  EG ERA  L++ ++ + R+ G  +   +  + Y
+Sbjct  4    LNEVLHNDPNPLETQEWLESIKAVIDVEGPERAHQLLEGMVEQTRRAGAYLPF-SPTTEY  62
+
+Query  61   INTIPVEEQPEYPGNLELERRIRSAIRWNAIMTVLRASKKDLELGGHMASFQSSATIYDV  120
+            +NTI    + + PG+  LE +IRS IRWNA+ TV+RA++K  +LGGH+ASF SSAT+YDV
+Sbjct  63   VNTIAPANEAKNPGDSALEWKIRSIIRWNAMATVVRANRKPGDLGGHIASFASSATLYDV  122
+
+Query  121  CFNHFFRARNEQDGGDLVYFQGHISPGVYARAFLEGRLTQEQLDNFRQEVHGNGLSSYPH  180
+             FNHF+RA ++   GDL++ QGH +PG+YARAFLEGR++Q QLDNFR EV G G+SSYPH
+Sbjct  123  GFNHFWRAPSDSHPGDLLFIQGHSAPGIYARAFLEGRISQSQLDNFRMEVDGQGISSYPH  182
+
+Query  181  PKLMPEFWQFPTVSMGLGPIGAIYQAKFLKYLEHRGLKDTSKQTVYAFLGDGEMDEPESK  240
+            P LMPEFWQ PTVSMGLGP+ AIYQA+F++YLE+RGL + S + V+ F+GDGE DEPE+ 
+Sbjct  183  PWLMPEFWQTPTVSMGLGPLAAIYQAQFMRYLENRGLIEKSDRKVWCFIGDGESDEPETL  242
+
+Query  241  GAITIATREKLDNLVFVINCNLQRLDGPVTGNGKIINELEGIFEGAGWNVIKVMWGSRWD  300
+            GAI +A RE LDNL+FV+NCNLQRLDGPV GNGKII ELEG+F G GWNVIK++WG  WD
+Sbjct  243  GAIALAGREGLDNLIFVVNCNLQRLDGPVRGNGKIIQELEGVFRGGGWNVIKLLWGGYWD  302
+
+Query  301  ELLRKDTSGKLIQLMNETVDGDYQTFKSKDGAYVREHFFGKYPETAALVADWTDEQIWAL  360
+             LL KDT G L +LM ETVDG+YQ  K+  GAY R +FFGKYPETAA+VA  +D+ IW L
+Sbjct  303  ALLAKDTDGVLRKLMMETVDGEYQNCKAFGGAYTRANFFGKYPETAAMVAGLSDDDIWRL  362
+
+Query  361  NRGGHDPKKIYAAFKKAQETKGKATVILAHTIKGYGMGDAAEGKNIAHQVKKMNMDGVRH  420
+            NRGGHDP K+YAA+ +A  T G  TVILA T+KGYGMG A E  N  HQ KK++   V+H
+Sbjct  363  NRGGHDPHKVYAAYHQAVNTTGMPTVILAKTVKGYGMGSAGEALNPTHQTKKLDDAAVKH  422
+
+Query  421  IRDRFNVPVSDADIE--KLPYITFPEGSEEHTYLHAQRQKLHGYLPSRQPNFTEKLELPS  478
+             RDRFN+PV+DA +E  ++P+    E S E  YL  +R  L G+LPSR+P  ++    P+
+Sbjct  423  FRDRFNIPVTDAQLEDGQVPFYHPGEDSPEVQYLKERRNVLGGFLPSRRPKASKSFVAPT  482
+
+Query  479  LQDFGALLEEQS-KEISTTIAFVRALNVMLKNKSIKDRLVPIIADEARTFGMEGLFRQIG  537
+            L  F  LL++   +  STT++FV++LN+ L++K +  R+VPI+ADEARTFGMEG+FRQIG
+Sbjct  483  LDKFERLLKDSGERSYSTTMSFVQSLNIALRDKELGPRIVPIVADEARTFGMEGMFRQIG  542
+
+Query  538  IYSPNGQQYTPQDREQVAYYKEDEKGQILQEGINELGAGCSWLAAATSYSTNNLPMIPFY  597
+            IY+P GQ+Y P D +Q+ YY+ED+ GQ+LQ+GI+E GA  SW+AA TSYS +++PM+PFY
+Sbjct  543  IYAPFGQKYKPVDADQLMYYREDQTGQVLQQGISEPGAIASWMAAGTSYSVSDVPMLPFY  602
+
+Query  598  IYYSMFGFQRIGDLCWAAGDQQARGFLIGGTSGRTTLNGEGLQHEDGHSHIQSLTIPNCI  657
+            IYYSMFGFQR+GD+ W A D + RGFL+GGT+GRTTLNGEGLQHEDG S + + +IPN  
+Sbjct  603  IYYSMFGFQRVGDIAWQAADMRTRGFLLGGTAGRTTLNGEGLQHEDGFSQVIAGSIPNVR  662
+
+Query  658  SYDPAYAYEVAVIMHDGLERMYGEKQENVYYYITTLNENYHMPAMPEGAEEGIRKGIYKL  717
+            SYDP + +EV VIM  G++ M  E Q + YYYIT +NENY  P MP+GA EGI KG+Y L
+Sbjct  663  SYDPTFGFEVTVIMQHGMKAMM-EDQIDEYYYITLMNENYAHPGMPDGAAEGIIKGMYLL  721
+
+Query  718  ETIEGSKG---KVQLLGSGSILRHVREAAEILAKDYGVGSDVYSVTSFTELARDGQDCER  774
+            +     K    +VQLLGSG+ILR    AAE+L KD+GV +D++S  S  E+ RDG   ER
+Sbjct  722  KDAGKPKKGELRVQLLGSGTILREATAAAELLDKDFGVTADIWSCPSLNEVRRDGYAVER  781
+
+Query  775  WNMLHPLETPRVPYIAQVM--NDAPAVASTDYMKLFAEQVRTYVPADDYRVLGTDGFGRS  832
+            WN LHP    R PY+ Q++     PA+A+TDY++ FA+Q+R +VP   Y VLGTDGFGRS
+Sbjct  782  WNRLHPEAEQRKPYVTQLLEGRQGPAIAATDYVRAFADQIRAFVPM-TYTVLGTDGFGRS  840
+
+Query  833  DSRENLRHHFEVDASYVVVAALGELAKRGEIDKKVVADAIAKFNIDADKVNP  884
+            D+R NLR  FEVD  Y+  AA+  LAK G++  K VA AI ++ ID +K NP
+Sbjct  841  DTRANLRRFFEVDRYYIAHAAIAALAKDGKMTGKDVARAIKQYKIDPEKANP  892
+
+
+> lcl|tktA-xanmn_chr11_0086 acc=xanmn_chr11_0086 locus_tag=xanmn_chr11_0086 
+len=666 sp=xanmn type=protein begin=93911 end=95911 
+strand=- chr=xanmn_chr11 def=transketolase, probable 
+Length=666
+
+ Score = 48.5 bits (114),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 65/236 (28%), Positives = 94/236 (40%), Gaps = 29/236 (12%)
+
+Query  80   RRIRSAIRWNAIMTVLRASKKDLELGGHMASFQSSATIYDVCFNHFFR--ARNEQ--DGG  135
+            R++ +AIR+      L A   +    GH       A I +V +N F+R    N Q  +  
+Sbjct  7    RQLANAIRF------LAADAVEAAKSGHPGMPMGMADIAEVLWNDFYRHNPNNPQWFNRD  60
+
+Query  136  DLVYFQGHISPGVYARAFLEG-RLTQEQLDNFRQEVHGNGLSSYPHPKLMPEFWQFPTVS  194
+              V   GH S   YA   L G  L  EQL  FRQ +H             PE  + P V 
+Sbjct  61   RFVLSNGHGSMLQYALLHLSGYDLPIEQLKQFRQ-LHSKTAGH-------PERSETPGVE  112
+
+Query  195  MGLGPIGAIYQ--------AKFLKYLEHRGLKDTSKQTVYAFLGDGEMDEPESKGAITIA  246
+               GP+G  +          K L    +R   +      + F+GDG + E  S  A ++A
+Sbjct  113  TTTGPLGQGFANAVGFALAEKLLAQRYNRPELEIVDHRTWVFMGDGCLMEGISHEAASLA  172
+
+Query  247  TREKLDNLVFVINCNLQRLDGPVTGNGKIINELEGIFEGAGWNVIKVMWGSRWDEL  302
+                L  LV   + N   +DG     G   ++    FE  GW+VI+ + G   D++
+Sbjct  173  GTWGLGKLVAFWDNNQISIDGNTA--GWFSDDTPARFEAYGWHVIRDVDGHDADKI  226
+
+
+ Score = 38.9 bits (89),  Expect = 0.002, Method: Compositional matrix adjust.
+ Identities = 125/503 (25%), Positives = 189/503 (38%), Gaps = 72/503 (14%)
+
+Query  364  GHDPKKIYAAFKKAQETKGKATVILAHTIKGYGMGDAAEGKNIAHQVKKMNMDGVRHIRD  423
+            GHD  KI AA + A E   K T+I   T  G+G    A GK  +H    +  D +   R 
+Sbjct  220  GHDADKIKAAIETALENTDKPTLICCRTKIGFGAPTKA-GKESSHGA-PLGKDELEGARK  277
+
+Query  424  RFNVPVSDADIEKLPYITFPEGSEEHTYLHAQRQKLHGYLPSRQPNFTEKL------ELP  477
+                P    +I +  Y  +  G    T   A+ ++L      +  +  ++L      ELP
+Sbjct  278  ALEWPYGPFEIPEEIYAGWRAGG-TGTLRQAEWEQLFDKYAKQYASEADELTRRSHGELP  336
+
+Query  478  SLQDFGALLE---EQSKEISTTIAFVRALNVMLKN-KSIKDRLVPIIADEARTFGMEGLF  533
+            +  DF A  +    +++E   TIA  +A  + ++    +   L+   AD A +       
+Sbjct  337  A--DFIAKADAYIAKAQEEGQTIASRKASQLAIEAFAPLLPELIGGSADLAHS-------  387
+
+Query  534  RQIGIYSPNGQQYTPQDREQVAYYKEDEKGQILQEGINELGAGCSWLAAATSYSTNNLPM  593
+              + ++  +    T        YY           G+ E G     + A  +    +   
+Sbjct  388  -NLTLWKASKSVATDDPDANYVYY-----------GVREFG-----MTAIANGLALHGGF  430
+
+Query  594  IPFYIYYSMFG-FQRIGDLCWAAGDQQARGFLIGGTSGRTTLNGEGLQHEDGHSHIQSLT  652
+            IPF   + +F  + R G    A     A       + G   L  +G  H+    H+ SL 
+Sbjct  431  IPFDATFLVFSDYARNGVRMSALNPAHAIHVYTHDSIG---LGEDGPTHQP-VEHLASLR  486
+
+Query  653  -IPNCISYDPAYAYEVAVIMHDGLERMYGEKQENVYYYITTLNENYHMPAMPEGAEEGIR  711
+             IPN   + P  A E AV     + R  G         I +     H P   E  +  I 
+Sbjct  487  YIPNNDVWRPGDAVESAVSWKAAITRKDGPS-----CLIFSRQNLQHQPRSAEQIKL-IE  540
+
+Query  712  KGIYKLETIEGSKGKVQLLGSGSILRHVREAAEILAKDYGVGSDVYSVTSFTELARDGQD  771
+            +G Y L   EGS   V L+ +GS +    EA + L    G+ + V S+ S     R  QD
+Sbjct  541  RGGYVLADAEGSTPDVILIATGSEVGLAVEAKKTLDAS-GLKTRVVSMPSTDVFDR--QD  597
+
+Query  772  CE-RWNMLHPLETPRVPYIAQVMNDAPAVASTDYMKLFAEQVRTYVPADDYRVLGTDGFG  830
+               R ++L      RV   A V         T +        R YV  D   V+G D FG
+Sbjct  598  AAYRESVLPNAVRKRVAVEAGV---------TGFW-------RKYVGLDG-DVVGMDTFG  640
+
+Query  831  RSDSRENLRHHFEVDASYVVVAA  853
+             S   + L  +F++ A +VV AA
+Sbjct  641  ASAPADQLYAYFKITAEHVVAAA  663
+
+
+> lcl|cheR-xanmn_chr10_0079 acc=xanmn_chr10_0079 locus_tag=xanmn_chr10_0079 
+len=275 sp=xanmn type=protein begin=85245 end=86072 
+strand=+ chr=xanmn_chr10 def=methylase of chemotaxis methyl-accepting 
+proteins CheR 
+Length=275
+
+ Score = 28.9 bits (63),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 17/51 (33%), Positives = 28/51 (55%), Gaps = 1/51 (2%)
+
+Query  39   QLLAEARKGGVNVAAGTGISN-YINTIPVEEQPEYPGNLELERRIRSAIRW  88
+            ++LA+AR G   +    GI   Y+    +  Q EY G L +ERR+R  +++
+Sbjct  150  RVLAKARTGHYALQRIDGIPQAYLKRYCLRGQGEYDGTLLVERRLRERVQF  200
+
+
+> lcl|glgB1-xanmn_chr02_0071 acc=xanmn_chr02_0071 locus_tag=xanmn_chr02_0071 
+len=731 sp=xanmn type=protein begin=100152 end=102347 
+strand=+ chr=xanmn_chr02 def=putative 1,4-alpha-glucan 
+branching enzyme 
+Length=731
+
+ Score = 28.9 bits (63),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 16/62 (26%), Positives = 30/62 (48%), Gaps = 11/62 (18%)
+
+Query  498  AFVRALNVMLKNKSIKDRLVPIIADEART-----------FGMEGLFRQIGIYSPNGQQY  546
+            +++R  +V L    + DRL+P +AD   T           FG    ++ +G+++P  +  
+Sbjct  259  SWLREADVDLDWDGLADRLIPYVADMGFTHVELMPVSEHPFGGSWGYQPLGLFAPTARFG  318
+
+Query  547  TP  548
+            TP
+Sbjct  319  TP  320
+
+
+> lcl|lysS-xanmn_chr05_0236 acc=xanmn_chr05_0236 locus_tag=xanmn_chr05_0236 
+len=505 sp=xanmn type=protein begin=282103 end=283620 
+strand=+ chr=xanmn_chr05 def=Lysyl-tRNA synthetase 
+Length=505
+
+ Score = 27.7 bits (60),  Expect = 3.7, Method: Compositional matrix adjust.
+ Identities = 26/88 (30%), Positives = 38/88 (43%), Gaps = 17/88 (19%)
+
+Query  333  YVREHFFGKYPETAALVADWTDEQIWALNR-----GGHDPKKIY--AAFKKAQETKGKAT  385
+            +VREHF G      A    WT E + A  R     G    K++   A+F + Q+  G+  
+Sbjct  39   FVREHFAGDLQAEFADADTWTPEALEASGRTVRMAGRLMAKRVMGKASFAQIQDESGRVQ  98
+
+Query  386  VILAHTI--------KGYGMGD--AAEG  403
+            + L   +        KG+ +GD  A EG
+Sbjct  99   LFLQGNVLGDAYAAFKGWDVGDIVAVEG  126
+
+
+> lcl|gumF-xanmn_chr08_0036 acc=xanmn_chr08_0036 locus_tag=xanmn_chr08_0036 
+len=364 sp=xanmn type=protein begin=32340 end=33434 
+strand=- chr=xanmn_chr08 def=xanthan biosynthesis acetyltransferase 
+
+Length=364
+
+ Score = 26.9 bits (58),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 20/64 (31%), Positives = 26/64 (41%), Gaps = 11/64 (17%)
+
+Query  622  GFLIGGTSGRTTLNGEGLQHEDGHSHIQSLTIPNCISYDPAYAYEVAVIMHDGLERMYGE  681
+            G+L  G +  TT    GL       H++SL +P    Y   YAY +       L R  GE
+Sbjct  71   GWLAAGYASTTT----GLDRRSVGRHVRSLLLPYVTFYLLGYAYWL-------LTRNIGE  119
+
+Query  682  KQEN  685
+            K   
+Sbjct  120  KAAR  123
+
+
+> lcl|xanmn_chr02_0124-xanmn_chr02_0124 acc=xanmn_chr02_0124 locus_tag=xanmn_chr02_0124 
+len=434 sp=xanmn type=protein begin=163502 
+end=164806 strand=- chr=xanmn_chr02 def=putative type 
+III effector, HopG1 family.  N- terminal & internal fragment 
+
+Length=434
+
+ Score = 27.3 bits (59),  Expect = 5.7, Method: Compositional matrix adjust.
+ Identities = 17/61 (28%), Positives = 35/61 (57%), Gaps = 1/61 (2%)
+
+Query  472  EKLELPSLQDFGALLEEQSKEISTTIAFVR-ALNVMLKNKSIKDRLVPIIADEARTFGME  530
+            EK+ + +L D G L +EQ+  I  T+ F   +++V+ +N SI   L+  +  + ++  ++
+Sbjct  317  EKVIMKTLIDNGLLSQEQTDRIDATLMFEDPSISVLKRNTSIAGPLLQKLETKIQSRRLQ  376
+
+Query  531  G  531
+            G
+Sbjct  377  G  377
+
+
+> lcl|xanmn_chr10_0437-xanmn_chr10_0437 acc=xanmn_chr10_0437 locus_tag=xanmn_chr10_0437 
+len=111 sp=xanmn type=protein begin=475478 
+end=475813 strand=- chr=xanmn_chr10 def=putative two-component 
+system regulatory protein, C-terminal fragment 
+Length=111
+
+ Score = 25.8 bits (55),  Expect = 7.3, Method: Composition-based stats.
+ Identities = 11/23 (48%), Positives = 14/23 (61%), Gaps = 0/23 (0%)
+
+Query  733  GSILRHVREAAEILAKDYGVGSD  755
+            G + RH R  A +LA+DY  G D
+Sbjct  76   GLLSRHSRIIAAVLARDYARGRD  98
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.136    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 730387170
+
+
+Query= sp|P06959|ODP2_ECOLI Dihydrolipoyllysine-residue acetyltransferase
+component of pyruvate dehydrogenase complex OS=Escherichia coli
+(strain K12) GN=aceF PE=1 SV=3
+
+Length=630
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  lcl|xanmn_chr13_0067-xanmn_chr13_0067 acc=xanmn_chr13_0067 locu...  366     8e-124
+  lcl|xanmn_chr04_0254-xanmn_chr04_0254 acc=xanmn_chr04_0254 locu...  140     2e-38 
+  lcl|xanmn_chr13_0068-xanmn_chr13_0068 acc=xanmn_chr13_0068 locu...  82.4    4e-20 
+  lcl|xanmn_chr13_0065-xanmn_chr13_0065 acc=xanmn_chr13_0065 locu...  87.0    9e-19 
+  lcl|xanmn_chr03_0107-xanmn_chr03_0107 acc=xanmn_chr03_0107 locu...  76.3    1e-16 
+  lcl|xanmn_chr04_0255-xanmn_chr04_0255 acc=xanmn_chr04_0255 locu...  43.9    1e-06 
+  lcl|czcB-xanmn_chr15_0152 acc=xanmn_chr15_0152 locus_tag=xanmn_...  35.8    0.009 
+  lcl|gcvH-xanmn_chr10_0270 acc=xanmn_chr10_0270 locus_tag=xanmn_...  28.9    0.56  
+  lcl|xanmn_chr10_0180-xanmn_chr10_0180 acc=xanmn_chr10_0180 locu...  28.1    1.9   
+  lcl|xanmn_chr03_0708-xanmn_chr03_0708 acc=xanmn_chr03_0708 locu...  28.1    2.0   
+  lcl|hrcC-xanmn_chr03_0075 acc=xanmn_chr03_0075 locus_tag=xanmn_...  27.7    3.1   
+  lcl|xanmn_chr06_0337-xanmn_chr06_0337 acc=xanmn_chr06_0337 locu...  26.9    3.7   
+  lcl|xanmn_chr08_0059-xanmn_chr08_0059 acc=xanmn_chr08_0059 locu...  25.0    6.1   
+  lcl|hrpB1-xanmn_chr03_0068 acc=xanmn_chr03_0068 locus_tag=xanmn...  25.8    6.8   
+  lcl|xanmn_chr06_0053-xanmn_chr06_0053 acc=xanmn_chr06_0053 locu...  26.2    6.8   
+  lcl|toxG-xanmn_chr11_0031 acc=xanmn_chr11_0031 locus_tag=xanmn_...  26.2    7.8   
+  lcl|xanmn_chr09_0121-xanmn_chr09_0121 acc=xanmn_chr09_0121 locu...  25.8    8.4   
+
+
+> lcl|xanmn_chr13_0067-xanmn_chr13_0067 acc=xanmn_chr13_0067 locus_tag=xanmn_chr13_0067 
+len=319 sp=xanmn type=protein begin=63522 
+end=64481 strand=- chr=xanmn_chr13 def=Probable dihydrolipoyllysine-residue 
+acetyltransferase [C-terminal fragment] 
+
+Length=319
+
+ Score = 366 bits (940),  Expect = 8e-124, Method: Compositional matrix adjust.
+ Identities = 177/308 (57%), Positives = 232/308 (75%), Gaps = 8/308 (3%)
+
+Query  328  HATPLIRRLAREFGVNLAKVKGTGRKGRILREDVQAYVKEAIKRAEAAPAATG-----GG  382
+            +A+P++R  ARE GV+L ++KG+ + GRI REDVQ +VK A+     A A         G
+Sbjct  15   YASPVVRVFARELGVDLNQLKGSEKGGRITREDVQRFVKAALSGGVPAAAGAAPAGGGNG  74
+
+Query  383  IPGMLPWPKVDFSKFGEIEEVELGRIQKISGANLSRNWVMIPHVTHFDKTDITELEAFRK  442
+            +  +L WPKVDFSKFGE E   L RI+KISGANL+RNW MIPHVT F+  DIT+LEA R 
+Sbjct  75   L-NLLAWPKVDFSKFGETETQPLSRIKKISGANLARNWAMIPHVTQFESADITDLEALRV  133
+
+Query  443  QQNEEAAKRKLDVKITPVVFIMKAVAAALEQMPRFNSSLSEDGQRLTLKKYINIGVAVDT  502
+              N+E    K  +K+T + F++KA AAAL++ P FN+SL   G+ LTLKKY +IG A DT
+Sbjct  134  ALNKE--NEKAGIKLTMLAFLIKASAAALKKFPEFNASLDAAGENLTLKKYFHIGFAADT  191
+
+Query  503  PNGLVVPVFKDVNKKGIIELSRELMTISKKARDGKLTAGEMQGGCFTISSIGGLGTTHFA  562
+            PNGLVVPV +DV+KKG++++++E   ++KKARDGKL   +M GGCF+ISS+GG+G T F 
+Sbjct  192  PNGLVVPVIRDVDKKGVLQIAQESGELAKKARDGKLGPADMSGGCFSISSLGGIGGTAFT  251
+
+Query  563  PIVNAPEVAILGVSKSAMEPVWNGKEFVPRLMLPISLSFDHRVIDGADGARFITIINNTL  622
+            PI+NAPEVAILGVSKSAM+PVWNGK+F P+LMLP+SLS+DHRVIDGA  ARF T ++  L
+Sbjct  252  PIINAPEVAILGVSKSAMQPVWNGKDFAPKLMLPLSLSYDHRVIDGALAARFTTYLSQVL  311
+
+Query  623  SDIRRLVM  630
+            +D+RR+++
+Sbjct  312  ADMRRVLL  319
+
+
+> lcl|xanmn_chr04_0254-xanmn_chr04_0254 acc=xanmn_chr04_0254 locus_tag=xanmn_chr04_0254 
+len=290 sp=xanmn type=protein begin=269702 
+end=270574 strand=- chr=xanmn_chr04 def=dihydrolipoamide 
+acetyltransferase  C-terminal fragment 
+Length=290
+
+ Score = 140 bits (353),  Expect = 2e-38, Method: Compositional matrix adjust.
+ Identities = 89/290 (31%), Positives = 151/290 (52%), Gaps = 24/290 (8%)
+
+Query  341  GVNLAKVKGTGRKGRILREDVQAYVKEAIKRAEAAPAATGGGIPGMLPWPKVDFSKFGEI  400
+            GV+ ++V+GTGR+G + +ED+  + K          A   G   G  P            
+Sbjct  23   GVDPSQVEGTGRRGAVTKEDIVNFAK----------AGGVGKASGARPE-----------  61
+
+Query  401  EEVELGRIQKISGANLSRNWVMIPHVTHFDKTDITELEAFRKQQNEEAAKRKLDVKITPV  460
+            E V + R++K     L  +      +T F++ ++ ++ A RK+  +E  K    +K+  +
+Sbjct  62   ERVPMTRVRKTIAKRLMESKNSTAMLTTFNEVNLAKVSAARKELQDEFQKAH-GIKLGFM  120
+
+Query  461  VFIMKAVAAALEQMPRFNSSLSEDGQRLTLKKYINIGVAVDTPNGLVVPVFKDVNKKGII  520
+             F +KA A AL++ P  N+S+  DG  +    Y +I +AV T  GLV PV ++V ++   
+Sbjct  121  SFFVKAAANALQRFPLVNASI--DGDDIIYHGYSDISIAVSTDKGLVTPVLRNVERQSFA  178
+
+Query  521  ELSRELMTISKKARDGKLTAGEMQGGCFTISSIGGLGTTHFAPIVNAPEVAILGVSKSAM  580
+            ++ + +   + KAR GKL   ++QGG FTI++ G  G+    PI+N P+ AILG+     
+Sbjct  179  DVEQGIADYAAKARAGKLGLDDLQGGTFTITNGGTFGSLLSTPIINPPQSAILGMHAIKE  238
+
+Query  581  EPVWNGKEFVPRLMLPISLSFDHRVIDGADGARFITIINNTLSDIRRLVM  630
+             P+    + V   M+ ++LS+DHR+IDG D  +F+  I N L +  R++ 
+Sbjct  239  RPIAENGQVVIAPMMYLALSYDHRIIDGKDSVQFLVDIKNQLENPGRMLF  288
+
+
+> lcl|xanmn_chr13_0068-xanmn_chr13_0068 acc=xanmn_chr13_0068 locus_tag=xanmn_chr13_0068 
+len=85 sp=xanmn type=protein begin=65060 
+end=65317 strand=- chr=xanmn_chr13 def=Probable dihydrolipoyllysine-residue 
+acetyltransferase [N-terminal fragment] 
+
+Length=85
+
+ Score = 82.4 bits (202),  Expect = 4e-20, Method: Compositional matrix adjust.
+ Identities = 44/78 (56%), Positives = 58/78 (74%), Gaps = 1/78 (1%)
+
+Query  204  AGVKEVNVPDIGG-DEVEVTEVMVKVGDKVAAEQSLITVEGDKASMEVPAPFAGVVKELK  262
+            A +KE  VPDIG   +V V EV+V VGD V+ +QSL+T+E DKA+MEVP+  AGVVKE+K
+Sbjct  2    AEIKEALVPDIGDYSDVPVIEVLVSVGDTVSKDQSLVTLESDKATMEVPSSVAGVVKEIK  61
+
+Query  263  VNVGDKVKTGSLIMIFEV  280
+            V VGD +  G+L+ + EV
+Sbjct  62   VKVGDSLSQGALVALIEV  79
+
+
+ Score = 82.0 bits (201),  Expect = 5e-20, Method: Compositional matrix adjust.
+ Identities = 45/79 (57%), Positives = 57/79 (72%), Gaps = 1/79 (1%)
+
+Query  103  AAAKDVNVPDIGS-DEVEVTEILVKVGDKVEAEQSLITVEGDKASMEVPAPFAGTVKEIK  161
+            A  K+  VPDIG   +V V E+LV VGD V  +QSL+T+E DKA+MEVP+  AG VKEIK
+Sbjct  2    AEIKEALVPDIGDYSDVPVIEVLVSVGDTVSKDQSLVTLESDKATMEVPSSVAGVVKEIK  61
+
+Query  162  VNVGDKVSTGSLIMVFEVA  180
+            V VGD +S G+L+ + EVA
+Sbjct  62   VKVGDSLSQGALVALIEVA  80
+
+
+ Score = 77.4 bits (189),  Expect = 2e-18, Method: Compositional matrix adjust.
+ Identities = 41/73 (56%), Positives = 53/73 (73%), Gaps = 1/73 (1%)
+
+Query  7   VPDIG-ADEVEITEILVKVGDKVEAEQSLITVEGDKASMEVPSPQAGIVKEIKVSVGDKT  65
+           VPDIG   +V + E+LV VGD V  +QSL+T+E DKA+MEVPS  AG+VKEIKV VGD  
+Sbjct  9   VPDIGDYSDVPVIEVLVSVGDTVSKDQSLVTLESDKATMEVPSSVAGVVKEIKVKVGDSL  68
+
+Query  66  QTGALIMIFDSAD  78
+             GAL+ + + A+
+Sbjct  69  SQGALVALIEVAE  81
+
+
+> lcl|xanmn_chr13_0065-xanmn_chr13_0065 acc=xanmn_chr13_0065 locus_tag=xanmn_chr13_0065 
+len=578 sp=xanmn type=protein begin=61125 
+end=62861 strand=- chr=xanmn_chr13 def=Probable dihydrolipoamide 
+dehydrogenase 
+Length=578
+
+ Score = 87.0 bits (214),  Expect = 9e-19, Method: Compositional matrix adjust.
+ Identities = 50/89 (56%), Positives = 63/89 (71%), Gaps = 3/89 (3%)
+
+Query  206  VKEVNVPDIGG-DEVEVTEVMVKVGDKVAAEQSLITVEGDKASMEVPAPFAGVVKELKVN  264
+            V E+ VPDIG   +V V EV+V VGD VA  Q L+T+E DKA++EVP+  AGVVKELKV 
+Sbjct  3    VIEIKVPDIGDYSDVPVIEVLVAVGDSVAKGQGLVTLESDKATLEVPSSAAGVVKELKVK  62
+
+Query  265  VGDKVKTGSLIMIFEVEGAAPAAAPAKQE  293
+            VGD +  G+L+++ E EG   AA PAK E
+Sbjct  63   VGDTLSEGALVLLLETEG--EAAVPAKAE  89
+
+
+ Score = 84.0 bits (206),  Expect = 9e-18, Method: Compositional matrix adjust.
+ Identities = 48/88 (55%), Positives = 64/88 (73%), Gaps = 3/88 (3%)
+
+Query  3   IEIKVPDIG-ADEVEITEILVKVGDKVEAEQSLITVEGDKASMEVPSPQAGIVKEIKVSV  61
+           IEIKVPDIG   +V + E+LV VGD V   Q L+T+E DKA++EVPS  AG+VKE+KV V
+Sbjct  4   IEIKVPDIGDYSDVPVIEVLVAVGDSVAKGQGLVTLESDKATLEVPSSAAGVVKELKVKV  63
+
+Query  62  GDKTQTGALIMIFDSADGAADAAPAQAE  89
+           GD    GAL+++ ++ +G A A PA+AE
+Sbjct  64  GDTLSEGALVLLLET-EGEA-AVPAKAE  89
+
+
+ Score = 80.1 bits (196),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 43/84 (51%), Positives = 58/84 (69%), Gaps = 1/84 (1%)
+
+Query  107  DVNVPDIGS-DEVEVTEILVKVGDKVEAEQSLITVEGDKASMEVPAPFAGTVKEIKVNVG  165
+            ++ VPDIG   +V V E+LV VGD V   Q L+T+E DKA++EVP+  AG VKE+KV VG
+Sbjct  5    EIKVPDIGDYSDVPVIEVLVAVGDSVAKGQGLVTLESDKATLEVPSSAAGVVKELKVKVG  64
+
+Query  166  DKVSTGSLIMVFEVAGEAGAAAPA  189
+            D +S G+L+++ E  GEA   A A
+Sbjct  65   DTLSEGALVLLLETEGEAAVPAKA  88
+
+
+> lcl|xanmn_chr03_0107-xanmn_chr03_0107 acc=xanmn_chr03_0107 locus_tag=xanmn_chr03_0107 
+len=222 sp=xanmn type=protein begin=121169 
+end=121837 strand=- chr=xanmn_chr03 def=branched-chain 
+alpha-keto acid dehydrogenase subunit E2  C-terminal fragment 
+
+Length=222
+
+ Score = 76.3 bits (186),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 48/159 (30%), Positives = 80/159 (50%), Gaps = 10/159 (6%)
+
+Query  461  VFIMKAVAAALEQMPRFNSSLSEDGQRLTLKKYINIGVAVDTPNGLVVPVFKD---VNKK  517
+            V +++ +  A   +P  N+    D    TL   ++IG+AVDT  GL VP  ++   +++ 
+Sbjct  57   VRLVRGIVRACHAVPALNAWFDGDALSRTLHHQVDIGIAVDTEEGLFVPALRNADMLDEH  116
+
+Query  518  GIIELSRELMTISKKARDGKLTAGEMQGGCFTISSIGGLGTTHFAPIVNAPEVAIL--GV  575
+            GI E    L    ++     + A E+ G   ++S+ G     +  P+V  P VAI+  G 
+Sbjct  117  GIREGVNRL---RQQVESRSIAASELSGYTISLSNFGMFAGRYATPVVVPPCVAIVAAGR  173
+
+Query  576  SKSAMEPVWNGKEFVPRLMLPISLSFDHRVIDGADGARF  614
+            ++  + PV  G E     ++P+SL+FDHR   G + ARF
+Sbjct  174  ARYQLTPVMGGVE--THKVMPLSLTFDHRAATGGEAARF  210
+
+
+> lcl|xanmn_chr04_0255-xanmn_chr04_0255 acc=xanmn_chr04_0255 locus_tag=xanmn_chr04_0255 
+len=70 sp=xanmn type=protein begin=270582 
+end=270794 strand=- chr=xanmn_chr04 def=dihydrolipoamide 
+acetyltransferase  N-terminal fragment 
+Length=70
+
+ Score = 43.9 bits (102),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 25/64 (39%), Positives = 38/64 (59%), Gaps = 2/64 (3%)
+
+Query  1   MAIEIKVPDI--GADEVEITEILVKVGDKVEAEQSLITVEGDKASMEVPSPQAGIVKEIK  58
+           MA E+KVP +     +  I     K G+ V+ +++L+ +E DK  +EVPSP  G++KEIK
+Sbjct  1   MATEVKVPVLPESVSDATIASWHKKAGEAVKRDENLVDLETDKVVLEVPSPIDGVLKEIK  60
+
+Query  59  VSVG  62
+              G
+Sbjct  61  FDTG  64
+
+
+ Score = 41.2 bits (95),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 18/46 (39%), Positives = 31/46 (67%), Gaps = 0/46 (0%)
+
+Query  126  KVGDKVEAEQSLITVEGDKASMEVPAPFAGTVKEIKVNVGDKVSTG  171
+            K G+ V+ +++L+ +E DK  +EVP+P  G +KEIK + G  V++ 
+Sbjct  25   KAGEAVKRDENLVDLETDKVVLEVPSPIDGVLKEIKFDTGSTVTSN  70
+
+
+ Score = 40.8 bits (94),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 18/46 (39%), Positives = 30/46 (65%), Gaps = 0/46 (0%)
+
+Query  227  KVGDKVAAEQSLITVEGDKASMEVPAPFAGVVKELKVNVGDKVKTG  272
+            K G+ V  +++L+ +E DK  +EVP+P  GV+KE+K + G  V + 
+Sbjct  25   KAGEAVKRDENLVDLETDKVVLEVPSPIDGVLKEIKFDTGSTVTSN  70
+
+
+> lcl|czcB-xanmn_chr15_0152 acc=xanmn_chr15_0152 locus_tag=xanmn_chr15_0152 
+len=423 sp=xanmn type=protein begin=193639 end=194910 
+strand=- chr=xanmn_chr15 def=cation efflux system protein 
+
+Length=423
+
+ Score = 35.8 bits (81),  Expect = 0.009, Method: Compositional matrix adjust.
+ Identities = 24/63 (38%), Positives = 34/63 (54%), Gaps = 4/63 (6%)
+
+Query  120  VTEILVKVGDKVEAEQSLITVEGDKA--SMEVPAPFAGTVKEIKVNVGDKVSTGSLIMVF  177
+            V  + V VGD+V A Q L TVE + +  +  V AP +GTV     ++G   S G  +  F
+Sbjct  205  VRSLRVNVGDQVRAGQVLATVESNLSLTTYAVSAPISGTVLARNASLGSNASEGQAL--F  262
+
+Query  178  EVA  180
+            E+A
+Sbjct  263  EIA  265
+
+
+ Score = 33.5 bits (75),  Expect = 0.045, Method: Compositional matrix adjust.
+ Identities = 18/53 (34%), Positives = 29/53 (55%), Gaps = 2/53 (4%)
+
+Query  126  KVGDKVEAEQSLITVEGDKASMEVPAPFAGTVKEIKVNVGDKVSTGSLIMVFE  178
+             + D+ E +  L   EG +A  +  A F G V+ ++VNVGD+V  G ++   E
+Sbjct  176  SIADQHEVQGLLTPAEGAQA--QATARFPGPVRSLRVNVGDQVRAGQVLATVE  226
+
+
+ Score = 33.1 bits (74),  Expect = 0.051, Method: Compositional matrix adjust.
+ Identities = 19/45 (42%), Positives = 28/45 (62%), Gaps = 3/45 (7%)
+
+Query  236  QSLIT-VEGDKASMEVPAPFAGVVKELKVNVGDKVKTGSLIMIFE  279
+            Q L+T  EG +A  +  A F G V+ L+VNVGD+V+ G ++   E
+Sbjct  184  QGLLTPAEGAQA--QATARFPGPVRSLRVNVGDQVRAGQVLATVE  226
+
+
+ Score = 30.8 bits (68),  Expect = 0.33, Method: Compositional matrix adjust.
+ Identities = 21/62 (34%), Positives = 31/62 (50%), Gaps = 4/62 (6%)
+
+Query  221  VTEVMVKVGDKVAAEQSLITVEGDKA--SMEVPAPFAGVVKELKVNVGDKVKTGSLIMIF  278
+            V  + V VGD+V A Q L TVE + +  +  V AP +G V     ++G     G    +F
+Sbjct  205  VRSLRVNVGDQVRAGQVLATVESNLSLTTYAVSAPISGTVLARNASLGSNASEGQ--ALF  262
+
+Query  279  EV  280
+            E+
+Sbjct  263  EI  264
+
+
+ Score = 28.9 bits (63),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 22/62 (35%), Positives = 31/62 (50%), Gaps = 3/62 (5%)
+
+Query  17   ITEILVKVGDKVEAEQSLITVEGDKA--SMEVPSPQAGIVKEIKVSVGDKTQTG-ALIMI  73
+            +  + V VGD+V A Q L TVE + +  +  V +P +G V     S+G     G AL  I
+Sbjct  205  VRSLRVNVGDQVRAGQVLATVESNLSLTTYAVSAPISGTVLARNASLGSNASEGQALFEI  264
+
+Query  74   FD  75
+             D
+Sbjct  265  AD  266
+
+
+> lcl|gcvH-xanmn_chr10_0270 acc=xanmn_chr10_0270 locus_tag=xanmn_chr10_0270 
+len=131 sp=xanmn type=protein begin=279745 end=280140 
+strand=- chr=xanmn_chr10 def=glycine cleavage system 
+protein H 
+Length=131
+
+ Score = 28.9 bits (63),  Expect = 0.56, Method: Compositional matrix adjust.
+ Identities = 17/44 (39%), Positives = 25/44 (57%), Gaps = 0/44 (0%)
+
+Query  24  VGDKVEAEQSLITVEGDKASMEVPSPQAGIVKEIKVSVGDKTQT  67
+           VGD V+       VE  KA+ +V SP +G V E+  ++ DK +T
+Sbjct  48  VGDTVQVGNGAAVVESVKAASDVYSPVSGTVVEVNSALSDKPET  91
+
+
+ Score = 27.7 bits (60),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 17/44 (39%), Positives = 24/44 (55%), Gaps = 0/44 (0%)
+
+Query  127  VGDKVEAEQSLITVEGDKASMEVPAPFAGTVKEIKVNVGDKVST  170
+            VGD V+       VE  KA+ +V +P +GTV E+   + DK  T
+Sbjct  48   VGDTVQVGNGAAVVESVKAASDVYSPVSGTVVEVNSALSDKPET  91
+
+
+> lcl|xanmn_chr10_0180-xanmn_chr10_0180 acc=xanmn_chr10_0180 locus_tag=xanmn_chr10_0180 
+len=479 sp=xanmn type=protein begin=180474 
+end=181913 strand=+ chr=xanmn_chr10 def=RNA polymerase 
+sigma factor 54 
+Length=479
+
+ Score = 28.1 bits (61),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 21/65 (32%), Positives = 34/65 (52%), Gaps = 5/65 (8%)
+
+Query  260  ELKVNVGDKVKTGSLIMIFEVEGAAPAAAPAKQEAAAPAPAAKAEAPAAAPAAKAEGKSE  319
+            EL+V + + V+T  L+     E A  AA  A   A   +P+A AEAP     A AE   +
+Sbjct  32   ELEVEIAEAVETNPLL-----EWADEAAHAASDIAVDASPSASAEAPQREEVAPAERDED  86
+
+Query  320  FAEND  324
+            +++++
+Sbjct  87   WSQDE  91
+
+
+> lcl|xanmn_chr03_0708-xanmn_chr03_0708 acc=xanmn_chr03_0708 locus_tag=xanmn_chr03_0708 
+len=609 sp=xanmn type=protein begin=744849 
+end=746678 strand=- chr=xanmn_chr03 def=GTP-binding 
+protein 
+Length=609
+
+ Score = 28.1 bits (61),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 26/91 (29%), Positives = 37/91 (41%), Gaps = 3/91 (3%)
+
+Query  266  GDKVKTGSLIMIFEVEGAAPAAAPAKQEAAAPAPAAKAEAPAAAPAAKA--EGKSEFAEN  323
+            GD V  G L+ I   +      A   +       + K +A    PA K   E   +F E+
+Sbjct  520  GDNVYEGQLVGIHSKDNDLTVNAIKTKPLTNMRASGKDDAIKLTPAIKYTLEQALDFIED  579
+
+Query  324  DAYVHATPLIRRLAREFGVNLAKVKGTGRKG  354
+            D  V  TP   RL ++F +  +  K  GR G
+Sbjct  580  DELVEVTPKEIRLRKKF-LTESDRKRAGRSG  609
+
+
+> lcl|hrcC-xanmn_chr03_0075 acc=xanmn_chr03_0075 locus_tag=xanmn_chr03_0075 
+len=607 sp=xanmn type=protein begin=76482 end=78305 
+strand=+ chr=xanmn_chr03 def=Type III secretion system 
+protein HrcC 
+Length=607
+
+ Score = 27.7 bits (60),  Expect = 3.1, Method: Compositional matrix adjust.
+ Identities = 16/46 (35%), Positives = 27/46 (59%), Gaps = 0/46 (0%)
+
+Query  536  GKLTAGEMQGGCFTISSIGGLGTTHFAPIVNAPEVAILGVSKSAME  581
+            G LTA     G + ++ +  L TT+ A IV++P+VA L   ++ M+
+Sbjct  429  GTLTAVLGDAGRYLMTRVSALETTNKAKIVSSPQVATLDNVEAVMD  474
+
+
+> lcl|xanmn_chr06_0337-xanmn_chr06_0337 acc=xanmn_chr06_0337 locus_tag=xanmn_chr06_0337 
+len=310 sp=xanmn type=protein begin=397773 
+end=398705 strand=+ chr=xanmn_chr06 def=membrane fusion 
+protein, probable  C-terminal fragment 
+Length=310
+
+ Score = 26.9 bits (58),  Expect = 3.7, Method: Compositional matrix adjust.
+ Identities = 19/59 (32%), Positives = 30/59 (51%), Gaps = 1/59 (2%)
+
+Query  136  SLITVEGDKASMEVPAPFAGTVKEIKVNVGDKVSTGSLIMVFEVAGEAGAAAPAAKQEA  194
+            ++I V+ ++    VP P AG V  +   +GD V  G ++ V + A  A A + A K  A
+Sbjct  11   AVIEVQPERLVRVVP-PLAGRVVALPKTLGDTVHAGDVLCVLDSAELANAYSEAGKARA  68
+
+
+> lcl|xanmn_chr08_0059-xanmn_chr08_0059 acc=xanmn_chr08_0059 locus_tag=xanmn_chr08_0059 
+len=90 sp=xanmn type=protein begin=63775 
+end=64047 strand=+ chr=xanmn_chr08 def=def= 
+Length=90
+
+ Score = 25.0 bits (53),  Expect = 6.1, Method: Composition-based stats.
+ Identities = 12/37 (32%), Positives = 22/37 (59%), Gaps = 1/37 (3%)
+
+Query  435  TELEAFRKQQNEEAAKRKLDVKITPVVFIMKAVAAAL  471
+            TE+E +R++ NEE  K+ +   +TP  +  +   AA+
+Sbjct  50   TEIERWRREYNEERPKKAIG-GMTPSAYAQQLANAAI  85
+
+
+> lcl|hrpB1-xanmn_chr03_0068 acc=xanmn_chr03_0068 locus_tag=xanmn_chr03_0068 
+len=151 sp=xanmn type=protein begin=70786 end=71241 
+strand=+ chr=xanmn_chr03 def=HrpB1 protein 
+Length=151
+
+ Score = 25.8 bits (55),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 30/101 (30%), Positives = 45/101 (45%), Gaps = 6/101 (6%)
+
+Query  8    PDIGADEVEITEILVKVGDKVEAEQSLITVEGDKASMEVPSPQAGIVKEIKVSVGDKTQT  67
+            PD+ A +     I +K G+ VE  + L  +EGD  S   P  +A +      ++GD++  
+Sbjct  42   PDLKALDTFDAWISIKCGNYVEGARLLRELEGDAGSK--PLCKA-LYACCLFAMGDQSWH  98
+
+Query  68   G---ALIMIFDSADGAADAAPAQAEEKKEAAPAAAPAAAAA  105
+            G    LI     AD  A        +   AAPA AP  ++A
+Sbjct  99   GIADGLIEEDVDADAVALVKALSGRKTPTAAPAEAPVESSA  139
+
+
+> lcl|xanmn_chr06_0053-xanmn_chr06_0053 acc=xanmn_chr06_0053 locus_tag=xanmn_chr06_0053 
+len=377 sp=xanmn type=protein begin=61185 
+end=62318 strand=- chr=xanmn_chr06 def=membrane fusion 
+protein, probable 
+Length=377
+
+ Score = 26.2 bits (56),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 12/27 (44%), Positives = 20/27 (74%), Gaps = 0/27 (0%)
+
+Query  224  VMVKVGDKVAAEQSLITVEGDKASMEV  250
+            VMV+ G KV+A Q+L+ ++ D+A + V
+Sbjct  89   VMVEEGQKVSAGQALVRLDPDRAHLAV  115
+
+
+> lcl|toxG-xanmn_chr11_0031 acc=xanmn_chr11_0031 locus_tag=xanmn_chr11_0031 
+len=356 sp=xanmn type=protein begin=33436 end=34506 
+strand=- chr=xanmn_chr11 def=putative RND superfamily phytotoxin 
+exporter periplasmic subunit 
+Length=356
+
+ Score = 26.2 bits (56),  Expect = 7.8, Method: Compositional matrix adjust.
+ Identities = 14/41 (34%), Positives = 26/41 (63%), Gaps = 1/41 (2%)
+
+Query  236  QSLITVEGDKASMEVPAPFAGVVKELKVNVGDKVKTGSLIM  276
+            QS+ TV   + S+ + A  + VV+++  + GD+VK G L++
+Sbjct  52   QSIATVRA-RESVALTAAVSDVVEQVYFDSGDEVKAGQLLL  91
+
+
+> lcl|xanmn_chr09_0121-xanmn_chr09_0121 acc=xanmn_chr09_0121 locus_tag=xanmn_chr09_0121 
+len=214 sp=xanmn type=protein begin=131604 
+end=132248 strand=- chr=xanmn_chr09 def=IS transposase 
+IS3 family  group IS407 , C- terminal fragment 
+Length=214
+
+ Score = 25.8 bits (55),  Expect = 8.4, Method: Compositional matrix adjust.
+ Identities = 16/51 (31%), Positives = 27/51 (53%), Gaps = 3/51 (6%)
+
+Query  423  IPHVTHFD--KTDITELEAFRKQQNEEAAKRKLDVKITPVVFIMKAVAAAL  471
+            +P V   D  K   TE+E +R++ NEE  K+ +   +TP  +  +   AA+
+Sbjct  160  LPQVIRTDNGKESRTEIERWRREYNEERPKKAIG-GMTPSAYAQQLANAAI  209
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.130    0.356    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 504069717
+
+
+Query= sp|P0A9P0|DLDH_ECOLI Dihydrolipoyl dehydrogenase OS=Escherichia coli
+(strain K12) GN=lpdA PE=1 SV=2
+
+Length=474
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  lcl|xanmn_chr13_0065-xanmn_chr13_0065 acc=xanmn_chr13_0065 locu...  572     0.0   
+  lcl|lpd-xanmn_chr04_0253 acc=xanmn_chr04_0253 locus_tag=xanmn_c...  310     1e-101
+  lcl|xanmn_chr09_0095-xanmn_chr09_0095 acc=xanmn_chr09_0095 locu...  132     8e-35 
+  lcl|gltD-xanmn_chr01_0085 acc=xanmn_chr01_0085 locus_tag=xanmn_...  51.2    1e-07 
+  lcl|xanmn_chr06_0359-xanmn_chr06_0359 acc=xanmn_chr06_0359 locu...  50.8    2e-07 
+  lcl|ahpF-xanmn_chr03_0602 acc=xanmn_chr03_0602 locus_tag=xanmn_...  42.4    5e-05 
+  lcl|xanmn_chr07_0041-xanmn_chr07_0041 acc=xanmn_chr07_0041 locu...  33.9    0.017 
+  lcl|xanmn_chr06_0039-xanmn_chr06_0039 acc=xanmn_chr06_0039 locu...  31.2    0.15  
+  lcl|xanmn_chr15_0043-xanmn_chr15_0043 acc=xanmn_chr15_0043 locu...  30.8    0.22  
+  lcl|xanmn_chr12_0065-xanmn_chr12_0065 acc=xanmn_chr12_0065 locu...  30.8    0.24  
+  lcl|trxB1-xanmn_chr06_0398 acc=xanmn_chr06_0398 locus_tag=xanmn...  28.5    0.89  
+  lcl|xanmn_chr15_0086-xanmn_chr15_0086 acc=xanmn_chr15_0086 locu...  28.5    0.95  
+  lcl|xanmn_chr06_0205-xanmn_chr06_0205 acc=xanmn_chr06_0205 locu...  28.5    0.97  
+  lcl|pedG-xanmn_chr06_0364 acc=xanmn_chr06_0364 locus_tag=xanmn_...  28.5    1.1   
+  lcl|fadH-xanmn_chr03_0716 acc=xanmn_chr03_0716 locus_tag=xanmn_...  28.5    1.2   
+  lcl|xanmn_chr11_0193-xanmn_chr11_0193 acc=xanmn_chr11_0193 locu...  27.7    1.7   
+  lcl|xanmn_chr11_0142-xanmn_chr11_0142 acc=xanmn_chr11_0142 locu...  27.7    1.7   
+  lcl|dadA-xanmn_chr13_0100 acc=xanmn_chr13_0100 locus_tag=xanmn_...  27.3    2.7   
+  lcl|xanmn_chr13_0161-xanmn_chr13_0161 acc=xanmn_chr13_0161 locu...  26.9    3.4   
+  lcl|xanmn_chr05_0059-xanmn_chr05_0059 acc=xanmn_chr05_0059 locu...  26.2    4.2   
+  lcl|xanmn_unk11_0008-xanmn_unk11_0008 acc=xanmn_unk11_0008 locu...  26.6    4.3   
+  lcl|xanmn_chr13_0209-xanmn_chr13_0209 acc=xanmn_chr13_0209 locu...  26.6    4.4   
+  lcl|tdh-xanmn_chr03_0728 acc=xanmn_chr03_0728 locus_tag=xanmn_c...  26.2    4.8   
+  lcl|etfS-xanmn_chr12_0078 acc=xanmn_chr12_0078 locus_tag=xanmn_...  26.2    4.8   
+  lcl|xanmn_chr10_0294-xanmn_chr10_0294 acc=xanmn_chr10_0294 locu...  26.6    4.9   
+  lcl|xanmn_chr03_0535-xanmn_chr03_0535 acc=xanmn_chr03_0535 locu...  26.6    5.3   
+  lcl|xanmn_chr04_0090-xanmn_chr04_0090 acc=xanmn_chr04_0090 locu...  26.2    5.9   
+  lcl|glmU-xanmn_chr13_0048 acc=xanmn_chr13_0048 locus_tag=xanmn_...  25.8    6.9   
+  lcl|purT-xanmn_chr10_0477 acc=xanmn_chr10_0477 locus_tag=xanmn_...  25.4    9.1   
+
+
+> lcl|xanmn_chr13_0065-xanmn_chr13_0065 acc=xanmn_chr13_0065 locus_tag=xanmn_chr13_0065 
+len=578 sp=xanmn type=protein begin=61125 
+end=62861 strand=- chr=xanmn_chr13 def=Probable dihydrolipoamide 
+dehydrogenase 
+Length=578
+
+ Score = 572 bits (1473),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 289/475 (61%), Positives = 361/475 (76%), Gaps = 6/475 (1%)
+
+Query  4    EIKTQVVVLGAGPAGYSAAFRCADLGLETVIVERYNTLGGVCLNVGCIPSKALLHVAKVI  63
+            +I+ ++VVLGAGP GY+AAFR ADLGL+TV++ERY +LGGVCLNVGCIPSKALLH A VI
+Sbjct  104  DIECKMVVLGAGPGGYTAAFRAADLGLDTVLIERYASLGGVCLNVGCIPSKALLHAAAVI  163
+
+Query  64   EEAKALAEHGIVFGEPKTDIDKIRTWKEKVINQLTGGLAGMAKGRKVKVVNGLGKFTGAN  123
+            +E     + G+ FG+PK  +DK+R +KEKV+ +LTGGLA MAK RKV+ V G+  F   N
+Sbjct  164  DEVAHAGDFGVDFGQPKITLDKLREYKEKVVGKLTGGLASMAKQRKVRTVTGVASFVSPN  223
+
+Query  124  TLEVEGENGKT-VINFDNAIIAAGSRPIQLPFIPHEDPRIWDSTDALELKEVPERLLVMG  182
+             LE+ G +G T ++ F++ IIAAGS+ ++LP  P +D R+ DSTDALEL ++P+ LLV+G
+Sbjct  224  ELEIVGADGTTQLLRFEHCIIAAGSQAVKLPNFPWDDKRVMDSTDALELHDIPKTLLVVG  283
+
+Query  183  GGIIGLEMGTVYHALGSQIDVVEMFDQVIPAADKDIVKVFTKRISKK-FNLMLETKVTAV  241
+            GGIIGLEM TVY ALGS++ VVE  DQ++P ADKD+VK    R+ K+   + L+TK T V
+Sbjct  284  GGIIGLEMATVYSALGSKVTVVEFMDQLMPGADKDLVKPLADRLKKQGVEVHLKTKATDV  343
+
+Query  242  EAKEDGIYVTME----GKKAPAEPQRYDAVLVAIGRVPNGKNLDAGKAGVEVDDRGFIRV  297
+            +A   GI V+ E    G+K   +   YD VLVA+GR PNGK + A KAGV + +RGFI V
+Sbjct  344  KADAGGITVSFEAATEGEKLGLQATAYDRVLVAVGRSPNGKKIGADKAGVTITERGFIPV  403
+
+Query  298  DKQLRTNVPHIFAIGDIVGQPMLAHKGVHEGHVAAEVIAGKKHYFDPKVIPSIAYTEPEV  357
+            D+Q+RTNVPHIFAIGDIVG PMLAHK  HEG +AAEV AG+K  +  +VIPS+AYT PE+
+Sbjct  404  DRQMRTNVPHIFAIGDIVGNPMLAHKATHEGKLAAEVAAGEKKEWVARVIPSVAYTNPEI  463
+
+Query  358  AWVGLTEKEAKEKGISYETATFPWAASGRAIASDCADGMTKLIFDKESHRVIGGAIVGTN  417
+            AWVG+TE EAK KG+    A FPWAASGRAI     +G TKLIFD+E+HRVIGGAIVG +
+Sbjct  464  AWVGVTETEAKAKGLKVGVAKFPWAASGRAIGIGRTEGFTKLIFDEETHRVIGGAIVGVH  523
+
+Query  418  GGELLGEIGLAIEMGCDAEDIALTIHAHPTLHESVGLAAEVFEGSITDLPNPKAK  472
+             G+LL EIGLAIEMG +AEDI  TIHAHPTL ESVG+AAEV++G+ITDL  PK K
+Sbjct  524  AGDLLAEIGLAIEMGAEAEDIGHTIHAHPTLSESVGMAAEVYDGTITDLYIPKKK  578
+
+
+> lcl|lpd-xanmn_chr04_0253 acc=xanmn_chr04_0253 locus_tag=xanmn_chr04_0253 
+len=480 sp=xanmn type=protein begin=268148 end=269590 
+strand=- chr=xanmn_chr04 def=dihydrolipoamide dehydrogenase 
+
+Length=480
+
+ Score = 310 bits (793),  Expect = 1e-101, Method: Compositional matrix adjust.
+ Identities = 188/468 (40%), Positives = 266/468 (57%), Gaps = 12/468 (3%)
+
+Query  1    MSTEIKTQVVVLGAGPAGYSAAFRCADLGLETVIVERY------NTLGGVCLNVGCIPSK  54
+            MS + +  VVV+GAGPAGY AA R A LG++   ++          LGG CL VGCIPSK
+Sbjct  1    MSEQEQFDVVVIGAGPAGYHAAIRAAQLGMKVACIDAALGKDGKPALGGTCLRVGCIPSK  60
+
+Query  55   ALLHVAKVIEEAKAL-AEHGIVFGEPKTDIDKIRTWKEKVINQLTGGLAGMAKGRKVKVV  113
+            ALL  ++       L  +HGI F + K D+  +   K+K++ Q TGG+A + K  K+   
+Sbjct  61   ALLDSSRQFWNMGHLFGDHGISFNDAKMDVPTMIGRKDKIVKQFTGGIAMLFKANKITPY  120
+
+Query  114  NGLGKFTGANTLEV-EGENGKTVINFDNAIIAAGSRPIQLPFIPHEDPRIWDSTDALELK  172
+             G G+    N ++V + E G+  +   N I+AAGS  I+LPF   +   I D+   L+  
+Sbjct  121  YGFGQLQPGNIVKVTQHEGGEIELKGTNVILAAGSESIELPFAKFDGDTIVDNVGGLDFT  180
+
+Query  173  EVPERLLVMGGGIIGLEMGTVYHALGSQIDVVEMFDQVIPAADKDIVKVFTKRISKK-FN  231
+             VP+RL V+G G+IGLE+G+V+  LG+++ ++E     +  AD ++ K   K   K+  +
+Sbjct  181  AVPKRLAVIGAGVIGLELGSVWKRLGAEVTILEALPDFLALADAEVAKTALKEFKKQGLD  240
+
+Query  232  LMLETKVTAVE--AKEDGIYVTMEGKKAPAEPQ-RYDAVLVAIGRVPNGKNLDAGKAGVE  288
+            + L  KV+  E     D   V +    A  E     D +LVA+GR    KNL A   GV+
+Sbjct  241  IKLGAKVSKTEITGSGDAKQVVLSYTDATGEQTLTVDKLLVAVGRKAATKNLLAEGTGVK  300
+
+Query  289  VDDRGFIRVDKQLRTNVPHIFAIGDIVGQPMLAHKGVHEGHVAAEVIAGKKHYFDPKVIP  348
+            V DRG I VD    T V  ++AIGD V  PMLAHKG  EG   AE+IAG   + +   IP
+Sbjct  301  VTDRGQIEVDGHCHTGVDGVWAIGDCVRGPMLAHKGFEEGIAVAELIAGLPGHVNFDTIP  360
+
+Query  349  SIAYTEPEVAWVGLTEKEAKEKGISYETATFPWAASGRAIASDCADGMTKLIFDKESHRV  408
+             + YTEPE+AWVG TE++ K +G++Y+  +FP+AA GRA+A     G  K+I D E+ RV
+Sbjct  361  WVIYTEPEIAWVGKTEQQLKAEGVAYKAGSFPFAAIGRAVAMGEPAGFVKVIADAETDRV  420
+
+Query  409  IGGAIVGTNGGELLGEIGLAIEMGCDAEDIALTIHAHPTLHESVGLAA  456
+            +G  +VG    EL+ E  L +E    A+D+A   HAHPTL E++  AA
+Sbjct  421  LGMHLVGVGVSELVHEGVLTMEFNGSADDLARICHAHPTLSEAIHDAA  468
+
+
+> lcl|xanmn_chr09_0095-xanmn_chr09_0095 acc=xanmn_chr09_0095 locus_tag=xanmn_chr09_0095 
+len=456 sp=xanmn type=protein begin=101020 
+end=102390 strand=- chr=xanmn_chr09 def=Probable glutathione 
+reductase 
+Length=456
+
+ Score = 132 bits (332),  Expect = 8e-35, Method: Compositional matrix adjust.
+ Identities = 132/472 (28%), Positives = 211/472 (45%), Gaps = 36/472 (8%)
+
+Query  1    MSTEIKTQVVVLGAGPAGYSAAFRCADLGLETVIVERYNTLGGVCLNVGCIPSKALLHVA  60
+            MS      VV+LG G  G +A FR A  G    I+E  + LGG C+N+GC+P KA+   A
+Sbjct  1    MSARNDYDVVILGGGSGGLAAGFRAARHGARVAIMEP-SELGGTCVNLGCVPKKAMWLAA  59
+
+Query  61   KV---IEEAKALAEHGIVFGEPKTDIDKIRTWKEKVINQLTGGLAGMAKGRKVKVVNGLG  117
+             +   IE A AL   G     P     ++ T ++  I  +            V ++   G
+Sbjct  60   DLAGKIELASAL---GFDLPRPTLAWQELVTHRQGYIANIHASYRRRLNEDGVVLIPQRG  116
+
+Query  118  KFTGANTLEVEGENGKTVINFDNAIIAAGSRPIQLPFIPHEDPRIWDSTDALELKEVPER  177
+                 +T  V G +G  V   ++ +IA G+ P++      E   + D  D   L   PE+
+Sbjct  117  VLQDRHT--VMGSDGVPVTA-EHIVIATGAHPLRPDVQGAEHGEVSD--DFFNLCHAPEQ  171
+
+Query  178  LLVMGGGIIGLEMGTVYHALGSQIDV-------VEMFDQVIPAADKDIVKVFTKRISKKF  230
+            + ++GGG I +E+  +  ALGS++ +       +E FD  +     D ++    R+   F
+Sbjct  172  VAIIGGGCIAVEIAGLLQALGSRVHLFVQGERLLERFDAELTLQLADNLRHLGVRLHFGF  231
+
+Query  231  NLMLETKVTAVEAKEDGIYVTMEGKKAPAEPQR--YDAVLVAIGRVPNGKNLDAGKAGVE  288
+                    TA+E    G          P E     +D    A+GR  N   L     GV 
+Sbjct  232  T------TTALERDLHGALRVHGHSVHPREQCNDVFDKAFFAVGRRANTAGLGLDTVGVA  285
+
+Query  289  VDDRGFIRVDKQLRTNVPHIFAIGDIVGQPMLAHKGVHEGHVAAEVIAGKK--HYFDPKV  346
+            + D+G + VD    TNVP+I AIGD+ G+  L    +  G    + + G +     D + 
+Sbjct  286  LGDKGEVVVDDGQTTNVPNIHAIGDVGGKVGLTPVAIAAGRKLMDRLFGHQPDARMDYEN  345
+
+Query  347  IPSIAYTEPEVAWVGLTEKEAKEKGISYETATFPWAASGRAIASDCADG----MTKLIFD  402
+            +PS+ ++ P +  VGLTE++A+ +   Y  A   + ++ R +    AD     + KL+  
+Sbjct  346  VPSVVFSHPPLGHVGLTEEQARAR---YNGAVRVYRSNFRPMLHALADAPQRSLFKLVCV  402
+
+Query  403  KESHRVIGGAIVGTNGGELLGEIGLAIEMGCDAEDIALTIHAHPTLHESVGL  454
+             E  RV+G  ++G +  E+L    +A++MG    D   T+  HPT  E + L
+Sbjct  403  GEEERVVGVHLLGESADEMLQGFAVAVKMGATKRDFEETVAIHPTSSEEIVL  454
+
+
+> lcl|gltD-xanmn_chr01_0085 acc=xanmn_chr01_0085 locus_tag=xanmn_chr01_0085 
+len=493 sp=xanmn type=protein begin=95130 end=96611 
+strand=- chr=xanmn_chr01 def=Glutamate synthase subunit 
+beta 
+Length=493
+
+ Score = 51.2 bits (121),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 93/372 (25%), Positives = 146/372 (39%), Gaps = 87/372 (23%)
+
+Query  8    QVVVLGAGPAGYSAAFRCADLGLETVIVERYNTLGGVCLNVGCIPSKALLHVAKVIEEAK  67
+            +V V+GAGPAG + A R A  G+E V+ +RY  +GG+                       
+Sbjct  149  RVAVIGAGPAGLACADRLARAGIEAVVYDRYEQIGGL-----------------------  185
+
+Query  68   ALAEHGIVFGEPKTDIDKIRTWKEKVINQLTG--GLAGMAKGRKVKVVNGLGKF------  119
+                  + FG P   +DK    K + I +  G     G+  GR V +   LG++      
+Sbjct  186  ------LQFGIPSFKLDKSVIGKRREILEGMGVQFRLGVEIGRDVSIEQLLGEYDAVFLG  239
+
+Query  120  TGANTLEVEGENGKTVINFDNAIIAAGSRPIQLPFIPH-------EDPR---IWDSTDAL  169
+            TGA       + G    +  N + A       LPF+ H        DP    I    D L
+Sbjct  240  TGAYRYT---DGGLPDQDLKNVLPA-------LPFLVHNSRIVSGNDPHGRPIAGWEDQL  289
+
+Query  170  ELKEVP-ERLLVMGGGIIGLEMGTVYHALG-SQIDVVEMFDQV-IPAADKDIVKVFTKRI  226
+             L ++  +R++V+GGG  G++       LG +++      D+  +P + +++     + +
+Sbjct  290  ALPDLNGKRVVVLGGGDTGMDCVRSAIRLGAAKVTCAYRRDEASMPGSAREVANAREEGV  349
+
+Query  227  SKKFN-----------------LMLETKVTAVEAKEDGIYVTMEGKKAPAEPQRYDAVLV  269
+               FN                  ++ETK+   +A      V +EG ++  E    D V++
+Sbjct  350  RFLFNRQPLSIESGADDEAIGVTVVETKLGEPDASGRRNAVPVEGSESLLE---ADVVII  406
+
+Query  270  AIGRVPNGKNLDAGKAGVEVDDRGFIRVDKQ------LRTNVPHIFAIGDIVGQPMLAHK  323
+            A G  P   +  A + GVE    G I            +T+ P +FA GD V    L   
+Sbjct  407  AFGFSPTLPDWLASQ-GVEAGSNGRIVAPSDGHGRLPYQTSNPRLFAGGDCVRGADLVVT  465
+
+Query  324  GVHEGHVAAEVI  335
+             V EG  AA  I
+Sbjct  466  AVAEGRDAAGSI  477
+
+
+> lcl|xanmn_chr06_0359-xanmn_chr06_0359 acc=xanmn_chr06_0359 locus_tag=xanmn_chr06_0359 
+len=938 sp=xanmn type=protein begin=428666 
+end=431482 strand=- chr=xanmn_chr06 def=Probable nitrite 
+reductase [NAD P H] 
+Length=938
+
+ Score = 50.8 bits (120),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 58/211 (27%), Positives = 94/211 (45%), Gaps = 29/211 (14%)
+
+Query  134  TVINFDNAIIAAGSRPIQLPFIPHEDPR-------IWDSTDALELKEVPERLLVMGGGII  186
+            T   +D  +IA GS P  LP IP  D +       I D+   ++     +  +V+GGG++
+Sbjct  98   TEAEYDRLLIATGSVPFVLP-IPGNDLKGVIGYRDIQDTRTMIDTARTKQHAVVIGGGLL  156
+
+Query  187  GLEMGTVYHALGSQIDVVEMF-----DQVIPAADKDIVKVFTKRISKKFNLMLETKVTAV  241
+            GLE        G ++ VV +       Q+ P A   + +    R    F L   T     
+Sbjct  157  GLEAANGLKLRGMEVTVVHLAGWLLERQLDPVAGNLLQQALRAR-GLHFKLSTATSALLG  215
+
+Query  242  EAKEDGIYVTM-EGKKAPAEPQRYDAVLVAIGRVPNGKNLDAGKAGVEVDDRGFIRVDKQ  300
+             A+ + I V   +G + PA     D V++A G  PN +   A +AG+    RG + V+  
+Sbjct  216  NAQSEVIGVKFADGSEIPA-----DLVVMAAGIRPNTRL--AEEAGIHC-ARGIV-VNDS  266
+
+Query  301  LRTNVPHIFAIGDIVGQPMLAHKGVHEGHVA  331
+            L++  P ++A+G+        H+G+  G VA
+Sbjct  267  LQSFDPRVYAVGECAN-----HRGIAYGLVA  292
+
+
+> lcl|ahpF-xanmn_chr03_0602 acc=xanmn_chr03_0602 locus_tag=xanmn_chr03_0602 
+len=530 sp=xanmn type=protein begin=656666 end=658258 
+strand=- chr=xanmn_chr03 def=alkyl hydroperoxide reductase 
+
+Length=530
+
+ Score = 42.4 bits (98),  Expect = 5e-05, Method: Compositional matrix adjust.
+ Identities = 42/147 (29%), Positives = 70/147 (48%), Gaps = 13/147 (9%)
+
+Query  176  ERLLVMGGGIIGLEMGTVYHALGSQIDVVEMFDQVIPAADKDIVKVFTKRISKKFNLMLE  235
+            +R+ V+GGG  G+E       + + + +VE  D++   AD+    V  +++    N+ + 
+Sbjct  355  KRVAVIGGGNSGVEAAIDLAGIVAHVTLVEFDDKL--RADE----VLQRKLRSLHNVRII  408
+
+Query  236  TKVTAVEAKEDGIYVT--MEGKKAPAEPQR--YDAVLVAIGRVPNGKNLDAGKAGVEVDD  291
+            T     E   DG  VT  +   +   + Q    + V V IG +PN + L   +  V +  
+Sbjct  409  TSAQTTEVLGDGQKVTGLVYKDRTGGDIQHIELEGVFVQIGLLPNTEFL---RGTVALSP  465
+
+Query  292  RGFIRVDKQLRTNVPHIFAIGDIVGQP  318
+            RG I VD + +T+VP +FA GD    P
+Sbjct  466  RGEIIVDDRGQTDVPGVFAAGDATTVP  492
+
+
+> lcl|xanmn_chr07_0041-xanmn_chr07_0041 acc=xanmn_chr07_0041 locus_tag=xanmn_chr07_0041 
+len=320 sp=xanmn type=protein begin=57773 
+end=58735 strand=- chr=xanmn_chr07 def=oxidoreductase 
+internal and C-terminal fragment 
+Length=319
+
+ Score = 33.9 bits (76),  Expect = 0.017, Method: Compositional matrix adjust.
+ Identities = 44/175 (25%), Positives = 73/175 (42%), Gaps = 21/175 (12%)
+
+Query  176  ERLLVMGGGIIGLEMGTVYHALGSQIDVVEMFDQVIPAADKDIVKVFTKRISKKFN-LML  234
+            +R+LV G G + L         G++  V+ + +Q  PAA +       +   K    + L
+Sbjct  26   KRVLVAGSGPLLLASAATLQRHGAR--VLGIHEQTSPAALRQFALQLWRWPGKAAQAVAL  83
+
+Query  235  ETKVTAVEAKEDGIYVTMEGKK--------APAEPQRY--DAVLVAIGRVPNGKNLDAGK  284
+              ++ AV  +   I +   G           P    R   D + V  G VPN +   A  
+Sbjct  84   RLQLRAVAYRAGSIVIAAHGDTQLREVELAGPGGRTRLACDQLAVGYGLVPNTEL--AQL  141
+
+Query  285  AGVEVDDRGF---IRVDKQLRTNVPHIFAIGDIV---GQPMLAHKGVHEGHVAAE  333
+             G ++   G    ++VD  LRT+V  +FA G++    G+     +G   GH+AA+
+Sbjct  142  LGCQLQAYGAHQQVQVDALLRTSVNQVFAAGEVCGIGGRDCAVIEGAMAGHMAAD  196
+
+
+> lcl|xanmn_chr06_0039-xanmn_chr06_0039 acc=xanmn_chr06_0039 locus_tag=xanmn_chr06_0039 
+len=596 sp=xanmn type=protein begin=42385 
+end=44175 strand=- chr=xanmn_chr06 def=Probable succinate 
+dehydrogenase flavoprotein subunit 
+Length=596
+
+ Score = 31.2 bits (69),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 17/35 (49%), Positives = 22/35 (63%), Gaps = 0/35 (0%)
+
+Query  3   TEIKTQVVVLGAGPAGYSAAFRCADLGLETVIVER  37
+           TE K  +VV+GAG AG  A F  A  GL+TV + +
+Sbjct  7   TEHKYDMVVVGAGGAGLRATFGLAQKGLQTVCLTK  41
+
+
+> lcl|xanmn_chr15_0043-xanmn_chr15_0043 acc=xanmn_chr15_0043 locus_tag=xanmn_chr15_0043 
+len=521 sp=xanmn type=protein begin=48095 
+end=49660 strand=+ chr=xanmn_chr15 def=putative tryptophan 
+halogenase protein 
+Length=521
+
+ Score = 30.8 bits (68),  Expect = 0.22, Method: Compositional matrix adjust.
+ Identities = 35/124 (28%), Positives = 55/124 (44%), Gaps = 14/124 (11%)
+
+Query  8    QVVVLGAGPAGYSAAFRCADL---GLETVIVERYNTLGGVCLNVGCIPSKALLHVAKVIE  64
+            +VV+ G G AG+ AA   + L    L+  +VE  + +G V +    IPS    H    I+
+Sbjct  16   RVVIAGGGTAGWMAAAALSKLLGRHLQITLVES-DEIGTVGVGEATIPSLVTFHRLLEID  74
+
+Query  65   EAKALA------EHGIVFGEPKTDIDK--IRTWKEKVINQLTGGLAGMA-KGRKVKVVNG  115
+            EA  +A      + GI F E   D+D+  I ++     +  + G      KGR+  V   
+Sbjct  75   EAMFMAATQATIKLGIAF-EHWRDVDQHYIHSFGHAGTDHWSAGFQHFWLKGRQRGVARD  133
+
+Query  116  LGKF  119
+             G +
+Sbjct  134  FGDY  137
+
+
+> lcl|xanmn_chr12_0065-xanmn_chr12_0065 acc=xanmn_chr12_0065 locus_tag=xanmn_chr12_0065 
+len=549 sp=xanmn type=protein begin=83976 
+end=85625 strand=+ chr=xanmn_chr12 def=Putative flavoprotein-ubiquinone 
+oxidoreductase 
+Length=549
+
+ Score = 30.8 bits (68),  Expect = 0.24, Method: Compositional matrix adjust.
+ Identities = 21/58 (36%), Positives = 31/58 (53%), Gaps = 5/58 (9%)
+
+Query  5   IKTQVVVLGAGPAGYSAAFRCADL--GLETVIVERYNTLGGVCLNVGCI---PSKALL  57
+           ++  VV +GAGPAG S A R   L   +   ++E+ +T+G   L+   I   P  ALL
+Sbjct  19  MEYDVVTVGAGPAGLSFAIRLKQLDPNISVCVIEKSSTIGAHILSGAVIEPGPLDALL  76
+
+
+> lcl|trxB1-xanmn_chr06_0398 acc=xanmn_chr06_0398 locus_tag=xanmn_chr06_0398 
+len=322 sp=xanmn type=protein begin=475586 end=476554 
+strand=+ chr=xanmn_chr06 def=thioredoxin-disulfide reductase 
+
+Length=322
+
+ Score = 28.5 bits (62),  Expect = 0.89, Method: Compositional matrix adjust.
+ Identities = 11/29 (38%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  7   TQVVVLGAGPAGYSAAFRCADLGLETVIV  35
+           +++++LG+GPAG++AA   A   L+ V++
+Sbjct  12  SRLLILGSGPAGWTAAVYAARANLKPVVI  40
+
+
+> lcl|xanmn_chr15_0086-xanmn_chr15_0086 acc=xanmn_chr15_0086 locus_tag=xanmn_chr15_0086 
+len=461 sp=xanmn type=protein begin=101280 
+end=102665 strand=+ chr=xanmn_chr15 def=Putative halogenase 
+
+Length=461
+
+ Score = 28.5 bits (62),  Expect = 0.95, Method: Compositional matrix adjust.
+ Identities = 12/29 (41%), Positives = 20/29 (69%), Gaps = 0/29 (0%)
+
+Query  9   VVVLGAGPAGYSAAFRCADLGLETVIVER  37
+           V+++G GPAG +AA   A+LG    ++E+
+Sbjct  27  VLIVGGGPAGCTAAIALAELGWSVTLLEK  55
+
+
+> lcl|xanmn_chr06_0205-xanmn_chr06_0205 acc=xanmn_chr06_0205 locus_tag=xanmn_chr06_0205 
+len=393 sp=xanmn type=protein begin=228604 
+end=229785 strand=+ chr=xanmn_chr06 def=putative pyridine 
+nucleotide-disulphide oxidoreductase 
+Length=393
+
+ Score = 28.5 bits (62),  Expect = 0.97, Method: Compositional matrix adjust.
+ Identities = 12/39 (31%), Positives = 23/39 (59%), Gaps = 0/39 (0%)
+
+Query  4   EIKTQVVVLGAGPAGYSAAFRCADLGLETVIVERYNTLG  42
+            ++  V+V+GAG AG  +AF     G + ++++  N +G
+Sbjct  2   SMRCDVLVIGAGAAGLMSAFTAGQRGRKVLVIDHANKVG  40
+
+
+> lcl|pedG-xanmn_chr06_0364 acc=xanmn_chr06_0364 locus_tag=xanmn_chr06_0364 
+len=477 sp=xanmn type=protein begin=436659 end=438092 
+strand=+ chr=xanmn_chr06 def=FAD containing monooxygenase 
+
+Length=477
+
+ Score = 28.5 bits (62),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 15/36 (42%), Positives = 20/36 (56%), Gaps = 0/36 (0%)
+
+Query  9   VVVLGAGPAGYSAAFRCADLGLETVIVERYNTLGGV  44
+           V ++GAGP G SAA       L+    ER+  LGG+
+Sbjct  18  VCIIGAGPGGLSAARALKAQRLDYDQFERHGDLGGI  53
+
+
+> lcl|fadH-xanmn_chr03_0716 acc=xanmn_chr03_0716 locus_tag=xanmn_chr03_0716 
+len=679 sp=xanmn type=protein begin=751443 end=753482 
+strand=- chr=xanmn_chr03 def=2,4-dienoyl-CoA reductase 
+
+Length=679
+
+ Score = 28.5 bits (62),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 16/52 (31%), Positives = 26/52 (50%), Gaps = 0/52 (0%)
+
+Query  3    TEIKTQVVVLGAGPAGYSAAFRCADLGLETVIVERYNTLGGVCLNVGCIPSK  54
+            T +  ++ V+GAGPAG + A   A+ G    + +  + +GG       IP K
+Sbjct  380  TAMPKRIAVVGAGPAGLACATVAAERGHRVTLFDASDAIGGQFNVARRIPGK  431
+
+
+ Score = 26.6 bits (57),  Expect = 4.1, Method: Compositional matrix adjust.
+ Identities = 27/104 (26%), Positives = 46/104 (44%), Gaps = 16/104 (15%)
+
+Query  174  VPERLLVMGGGIIGLEMGTVYHALGSQIDVVEMFDQV---------IPAADK--DIVKVF  222
+            +P+R+ V+G G  GL   TV    G ++ + +  D +         IP  ++  + ++ F
+Sbjct  382  MPKRIAVVGAGPAGLACATVAAERGHRVTLFDASDAIGGQFNVARRIPGKEEFNETLRYF  441
+
+Query  223  TKRI-SKKFNLMLETKVTAVEAKEDGIYVTMEGKKAPAEPQRYD  265
+              RI +    L L T V A + K+    V   G     EP++ D
+Sbjct  442  GHRIEATGVQLRLNTPVQADDLKDFDEVVLATG----IEPRKVD  481
+
+
+> lcl|xanmn_chr11_0193-xanmn_chr11_0193 acc=xanmn_chr11_0193 locus_tag=xanmn_chr11_0193 
+len=457 sp=xanmn type=protein begin=222378 
+end=223751 strand=- chr=xanmn_chr11 def=Probable C4-dicarboxylate 
+transport protein 
+Length=457
+
+ Score = 27.7 bits (60),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 25/80 (31%), Positives = 33/80 (41%), Gaps = 21/80 (26%)
+
+Query  78   EPKTDIDKIRTWKEKVINQLTGGLAGMAKGRKVKVVNGLGKFTGANTLEVE---------  128
+            E   D+  +    + + N L G   G       +VVNG  K TG N L+V          
+Sbjct  133  EKSHDLTLVGFLMDIIPNSLIGAFTGD------QVVNG--KLTGPNILQVLFVAVLFGVS  184
+
+Query  129  ----GENGKTVINFDNAIIA  144
+                GE GK V+N   A+IA
+Sbjct  185  LALVGERGKPVLNLLEALIA  204
+
+
+> lcl|xanmn_chr11_0142-xanmn_chr11_0142 acc=xanmn_chr11_0142 locus_tag=xanmn_chr11_0142 
+len=468 sp=xanmn type=protein begin=153043 
+end=154449 strand=- chr=xanmn_chr11 def=Flavin monoamine 
+oxidase-related protein, N- terminal fragment 
+Length=468
+
+ Score = 27.7 bits (60),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 15/35 (43%), Positives = 20/35 (57%), Gaps = 0/35 (0%)
+
+Query  9   VVVLGAGPAGYSAAFRCADLGLETVIVERYNTLGG  43
+           V++LGAG AG SAAF     G    ++E  +  GG
+Sbjct  49  VLILGAGLAGMSAAFELRKAGYRVQLLEYNDRPGG  83
+
+
+> lcl|dadA-xanmn_chr13_0100 acc=xanmn_chr13_0100 locus_tag=xanmn_chr13_0100 
+len=429 sp=xanmn type=protein begin=91016 end=92305 
+strand=- chr=xanmn_chr13 def=D-amino acid dehydrogenase 
+small subunit 
+Length=429
+
+ Score = 27.3 bits (59),  Expect = 2.7, Method: Compositional matrix adjust.
+ Identities = 33/153 (22%), Positives = 59/153 (39%), Gaps = 35/153 (23%)
+
+Query  8    QVVVLGAGPAGYSAAFRCADLGLETVIVER---------YNTLGGVCLNVGC------IP  52
+            +V++LG+G  G ++A+  A  G E  +V+R         Y   G +            +P
+Sbjct  2    RVLILGSGVIGVTSAWYLAQAGCEVTVVDRQPAAALETSYANAGQLSFGYTSPWAAPGVP  61
+
+Query  53   SKALLHVAKVIEEAKALAEHGIVFGEPKTDIDKIRTWKEKVINQLTGGLAGMAKGRKVKV  112
+             KA+  +           +H  +   P  D+ ++  W  +++   T     + K R V++
+Sbjct  62   GKAVKWL---------FEQHAPLSIRPTRDLRQL-AWLSQMLRNCTAERYAVNKARMVRM  111
+
+Query  113  -------VNGLGKFTGANTLEVEGENGKTVINF  138
+                   +N L   TG   +E EG    T   F
+Sbjct  112  SDYSRDCLNALRAETG---IEFEGRQLGTTQLF  141
+
+
+> lcl|xanmn_chr13_0161-xanmn_chr13_0161 acc=xanmn_chr13_0161 locus_tag=xanmn_chr13_0161 
+len=387 sp=xanmn type=protein begin=142950 
+end=144113 strand=+ chr=xanmn_chr13 def=Putative Glutathione-dependent 
+formaldehyde dehydrogenase 
+Length=387
+
+ Score = 26.9 bits (58),  Expect = 3.4, Method: Compositional matrix adjust.
+ Identities = 14/33 (42%), Positives = 20/33 (61%), Gaps = 1/33 (3%)
+
+Query  7    TQVVVLGAGPAGYSAAFRCADLGLETV-IVERY  38
+            + V + GAGP G  AA  C  LG E + +V+R+
+Sbjct  188  STVAIFGAGPVGLMAAACCRMLGAERIFMVDRH  220
+
+
+> lcl|xanmn_chr05_0059-xanmn_chr05_0059 acc=xanmn_chr05_0059 locus_tag=xanmn_chr05_0059 
+len=167 sp=xanmn type=protein begin=79592 
+end=80095 strand=+ chr=xanmn_chr05 def=glycosyltransferase-family 
+protein,  C terminal fragment 
+Length=167
+
+ Score = 26.2 bits (56),  Expect = 4.2, Method: Compositional matrix adjust.
+ Identities = 16/56 (29%), Positives = 24/56 (43%), Gaps = 2/56 (4%)
+
+Query  348  PSIAYTEPEVAWVGLTEKEAKEKGISYETATFPWAASGRAIASDCADGMTKLIFDK  403
+            P+ A   P   W G+ E   +  G         WAA  RA+  D A  +T  +F++
+Sbjct  99   PACALAVPLGDWAGMAEAIRQVLGDDELRLRLAWAAQCRAVREDAA--LTTRLFEQ  152
+
+
+> lcl|xanmn_unk11_0008-xanmn_unk11_0008 acc=xanmn_unk11_0008 locus_tag=xanmn_unk11_0008 
+len=474 sp=xanmn type=protein begin=5965 
+end=7389 strand=+ chr=xanmn_unk11 def=Choline dehydrogenase, 
+C-terminal fragment 
+Length=474
+
+ Score = 26.6 bits (57),  Expect = 4.3, Method: Compositional matrix adjust.
+ Identities = 17/59 (29%), Positives = 25/59 (42%), Gaps = 9/59 (15%)
+
+Query  37   RYNTLGGVCLNVGCIPSKALLHVAKVIEEAKALAEHGIVFGEPKTDIDKIRTWKEKVIN  95
+            RYN L G+ +N  C+P  A             L++    FG+ K  ID      E+ I+
+Sbjct  336  RYNRLAGIGINGECLPQDA---------NRLTLSDERDAFGQRKARIDFTYGPNEQAID  385
+
+
+> lcl|xanmn_chr13_0209-xanmn_chr13_0209 acc=xanmn_chr13_0209 locus_tag=xanmn_chr13_0209 
+len=378 sp=xanmn type=protein begin=192479 
+end=193615 strand=+ chr=xanmn_chr13 def=putative secreted 
+protein 
+Length=378
+
+ Score = 26.6 bits (57),  Expect = 4.4, Method: Compositional matrix adjust.
+ Identities = 17/63 (27%), Positives = 30/63 (48%), Gaps = 8/63 (13%)
+
+Query  140  NAIIAAGSRPIQLPFIPH--------EDPRIWDSTDALELKEVPERLLVMGGGIIGLEMG  191
+            + I+A  ++P  L FIPH         + R+   +DA  +    + + + GG   G+  G
+Sbjct  240  DRIVAVEAQPYDLQFIPHPPSEQALQTELRVLAISDAFTVGGTRDVIAISGGAREGINNG  299
+
+Query  192  TVY  194
+            TV+
+Sbjct  300  TVF  302
+
+
+> lcl|tdh-xanmn_chr03_0728 acc=xanmn_chr03_0728 locus_tag=xanmn_chr03_0728 
+len=340 sp=xanmn type=protein begin=765081 end=766103 
+strand=- chr=xanmn_chr03 def=L-threonine 3-dehydrogenase 
+
+Length=340
+
+ Score = 26.2 bits (56),  Expect = 4.8, Method: Compositional matrix adjust.
+ Identities = 14/37 (38%), Positives = 18/37 (49%), Gaps = 0/37 (0%)
+
+Query  5    IKTQVVVLGAGPAGYSAAFRCADLGLETVIVERYNTL  41
+            I   V++ GAGP G  AA  C  +G   V+V   N  
+Sbjct  163  IGEDVLITGAGPIGIIAAGICKHIGARNVVVTDVNDF  199
+
+
+> lcl|etfS-xanmn_chr12_0078 acc=xanmn_chr12_0078 locus_tag=xanmn_chr12_0078 
+len=248 sp=xanmn type=protein begin=97533 end=98279 
+strand=+ chr=xanmn_chr12 def=Electron transfer flavoprotein 
+beta subunit 
+Length=248
+
+ Score = 26.2 bits (56),  Expect = 4.8, Method: Compositional matrix adjust.
+ Identities = 17/49 (35%), Positives = 25/49 (51%), Gaps = 2/49 (4%)
+
+Query  267  VLVAIGRVPNGKNLDAGKAGVEVDDRGFIRVDKQLRTNVPHIFAIGDIV  315
+            ++VA G+    + +DAG   +EVD    I  D  LR N P    + DI+
+Sbjct  146  LVVADGKATVTREVDAGLETLEVDLPAVITTD--LRLNEPRFIKLPDIM  192
+
+
+> lcl|xanmn_chr10_0294-xanmn_chr10_0294 acc=xanmn_chr10_0294 locus_tag=xanmn_chr10_0294 
+len=853 sp=xanmn type=protein begin=311190 
+end=313751 strand=- chr=xanmn_chr10 def=putative type 
+III secretion system effector protein-xopK family 
+Length=853
+
+ Score = 26.6 bits (57),  Expect = 4.9, Method: Compositional matrix adjust.
+ Identities = 11/25 (44%), Positives = 14/25 (56%), Gaps = 0/25 (0%)
+
+Query  157  HEDPRIWDSTDALELKEVPERLLVM  181
+            H+DP     T A  + + PERLLV 
+Sbjct  718  HDDPHSHGQTPAATVDQAPERLLVQ  742
+
+
+> lcl|xanmn_chr03_0535-xanmn_chr03_0535 acc=xanmn_chr03_0535 locus_tag=xanmn_chr03_0535 
+len=743 sp=xanmn type=protein begin=592883 
+end=595114 strand=+ chr=xanmn_chr03 def=TonB-dependent 
+receptor, probable 
+Length=743
+
+ Score = 26.6 bits (57),  Expect = 5.3, Method: Compositional matrix adjust.
+ Identities = 15/47 (32%), Positives = 26/47 (55%), Gaps = 1/47 (2%)
+
+Query  90   KEKVINQLTGGLAGMAKGRK-VKVVNGLGKFTGANTLEVEGENGKTV  135
+            +E++ NQL   L  + +    V V +  G+FTGA+ + + G +G  V
+Sbjct  66   REQLDNQLVRELKDLFRYTPGVSVTSTSGRFTGASGIRIRGLDGNRV  112
+
+
+> lcl|xanmn_chr04_0090-xanmn_chr04_0090 acc=xanmn_chr04_0090 locus_tag=xanmn_chr04_0090 
+len=416 sp=xanmn type=protein begin=95374 
+end=96624 strand=- chr=xanmn_chr04 def=putative NAD/FAD-binding 
+protein 
+Length=416
+
+ Score = 26.2 bits (56),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 18/60 (30%), Positives = 25/60 (42%), Gaps = 3/60 (5%)
+
+Query  279  NLDAGKAGVEVDDRGFIRVDKQLRTNVPHIFAIGDIVGQPMLAHKGVHEGHVAAEVIAGK  338
+            +LD  +  V   D GFI  + Q    +  +FA  D+  QP      VH+     E  AG 
+Sbjct  47   DLDGQRYAV---DSGFIVFNPQHYPLLTRMFAELDVAAQPTTMSFSVHDARSGLEYNAGS  103
+
+
+> lcl|glmU-xanmn_chr13_0048 acc=xanmn_chr13_0048 locus_tag=xanmn_chr13_0048 
+len=456 sp=xanmn type=protein begin=48601 end=49971 
+strand=- chr=xanmn_chr13 def=UDP-N-acetylglucosamine pyrophosphorylase 
+
+Length=456
+
+ Score = 25.8 bits (55),  Expect = 6.9, Method: Compositional matrix adjust.
+ Identities = 10/24 (42%), Positives = 17/24 (71%), Gaps = 2/24 (8%)
+
+Query  299  KQLRTNVPHIFAIGDIVGQPMLAH  322
+            K++R+++P +     + GQPMLAH
+Sbjct  16   KRMRSSLPKVLQ--PLAGQPMLAH  37
+
+
+> lcl|purT-xanmn_chr10_0477 acc=xanmn_chr10_0477 locus_tag=xanmn_chr10_0477 
+len=400 sp=xanmn type=protein begin=517643 end=518845 
+strand=- chr=xanmn_chr10 def=phosphoribosylglycinamide 
+formyltransferase 
+Length=400
+
+ Score = 25.4 bits (54),  Expect = 9.1, Method: Compositional matrix adjust.
+ Identities = 11/32 (34%), Positives = 18/32 (56%), Gaps = 0/32 (0%)
+
+Query  7   TQVVVLGAGPAGYSAAFRCADLGLETVIVERY  38
+           T+V++LG+G  G   A      G+E +  +RY
+Sbjct  13  TRVLLLGSGELGKEVAIELQRFGVEVIAADRY  44
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.137    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 363939057
+
+
+  Database: Xam_Proteome.fasta
+    Posted date:  Mar 2, 2017  5:23 PM
+  Number of letters in database: 1,317,730
+  Number of sequences in database:  4,337
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

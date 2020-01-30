@@ -1,0 +1,1541 @@
+1 BIOMASS_c <==> 1 BIOMASS_BOUNDARY
+0.003096466851925 fe2_c + 0.184354665339991 pro__L_c + 0.003096466851925 ptrc_c + 0.090831904906845 utp_c + 0.003096466851925 spmd_c + 0.003096466851925 ca2_c + 0.003096466851925 coa_c + 0.079263600073716 his__L_c + 0.375388847540127 leu__L_c + 0.211072732780569 thr__L_c + 0.200830806928348 asn__L_c + 0.003096466851925 zn2_c + 0.003096466851925 pydx5p_c + 0.003096466851925 amet_c + 0.003096466851925 fe3_c + 0.352233189091625 val__L_c + 0.003096466851925 2dmmq8_c + 0.003096466851925 mn2_c + 0.241798510337235 ile__L_c + 0.003096466851925 q8_c + 0.003096466851925 10fthf_c + 0.003096466851925 thmpp_c + 0.003096466851925 ribflv_c + 0.016020671834625 datp_c + 0.509869786991038 gly_c + 35.5403092430435 h2o_c + 0.010648042134188 pe180_c + 0.003096466851925 5mthf_c + 0.025010597710894 MNXM326_c + 0.427934380173264 ala__L_c + 0.003096466851925 fad_c + 0.016020671834625 dgtp_c + 0.016020671834625 dctp_c + 0.219088153012743 gln__L_c + 0.016020671834625 dttp_c + 40.1101757365074 atp_c + 0.200830806928348 asp__L_c + 0.003096466851925 cl_c + 0.025010597710894 colipa_c + 0.003096466851925 mqn8_c + 0.010648042134188 MNXM5124_c + 0.010648042134188 MNXM5129_c + 1 MNXM51417_c + 0.135406821203723 gtp_c + 0.179456352975885 ser__L_c + 0.076146492205648 cys__L_c + 0.003096466851925 MNXM57_c + 0.003096466851925 so4_c + 0.003096466851925 nadp_c + 0.010648042134188 MNXM6175_c + 0.127801422590767 met__L_c + 0.010648042134188 MNXM6297_c + 0.003096466851925 cu2_c + 0.084103615654486 ctp_c + 0.010648042134188 MNXM6440_c + 0.003096466851925 mg2_c + 0.246696822701341 arg__L_c + 0.010648042134188 MNXM7294_c + 0.010648042134188 MNXM7305_c + 0.010648042134188 pg180_c + 0.025010597710894 MNXM7630_c + 0.120676604606612 tyr__L_c + 1 MNXM78334_c + 0.003096466851925 pheme_c + 0.285438020490179 lys__L_c + 0.003096466851925 thf_c + 1 MNXM81014_c + 0.003096466851925 sheme_c + 0.219088153012743 glu__L_c + 0.003096466851925 nad_c + 0.003096466851925 cobalt2_c + 0.003096466851925 adocbl_c + 0.003096466851925 ACP_c + 0.047201919145022 trp__L_c + 0.003096466851925 k_c + 0.154519490031345 phe__L_c --> 1 BIOMASS_c + 0.484600765610933 ppi_c + 0.003096466851925 dmbzid_c + 0.003096466851925 cbi_c + 40.056205209933594 h_c + 0.003096466851925 apoACP_c + 0.025010597710894 MNXM5258_c + 40 adp_c + 39.9969035331481 pi_c
+1 h2o_e <==> 1 h2o_BOUNDARY
+1 o2_e <==> 1 o2_BOUNDARY
+1 pi_e <==> 1 pi_BOUNDARY
+1 co2_e <==> 1 co2_BOUNDARY
+1 ppi_e <==> 1 ppi_BOUNDARY
+1 nh4_e <==> 1 nh4_BOUNDARY
+1 glu__L_e <==> 1 glu__L_BOUNDARY
+1 MNXM7043_e <==> 1 MNXM7043_BOUNDARY
+1 mn2_e <==> 1 mn2_BOUNDARY
+1 gly_e <==> 1 gly_BOUNDARY
+1 zn2_e <==> 1 zn2_BOUNDARY
+1 succ_e <==> 1 succ_BOUNDARY
+1 lys__L_e <==> 1 lys__L_BOUNDARY
+1 asp__L_e <==> 1 asp__L_BOUNDARY
+1 so4_e <==> 1 so4_BOUNDARY
+1 arg__L_e <==> 1 arg__L_BOUNDARY
+1 ser__L_e <==> 1 ser__L_BOUNDARY
+1 cu2_e <==> 1 cu2_BOUNDARY
+1 met__L_e <==> 1 met__L_BOUNDARY
+1 ca2_e <==> 1 ca2_BOUNDARY
+1 orn_e <==> 1 orn_BOUNDARY
+1 trp__L_e <==> 1 trp__L_BOUNDARY
+1 h_e <==> 1 h_BOUNDARY
+1 no2_e <==> 1 no2_BOUNDARY
+1 sucr_e <==> 1 sucr_BOUNDARY
+1 fru_e <==> 1 fru_BOUNDARY
+1 chol_e <==> 1 chol_BOUNDARY
+1 cl_e <==> 1 cl_BOUNDARY
+1 glyc_e <==> 1 glyc_BOUNDARY
+1 fum_e <==> 1 fum_BOUNDARY
+1 ala__D_e <==> 1 ala__D_BOUNDARY
+1 ptrc_e <==> 1 ptrc_BOUNDARY
+1 MNXM2138_e <==> 1 MNXM2138_BOUNDARY
+1 pro__L_e <==> 1 pro__L_BOUNDARY
+1 mal__L_e <==> 1 mal__L_BOUNDARY
+1 4hbz_e <==> 1 4hbz_BOUNDARY
+1 cit_e <==> 1 cit_BOUNDARY
+1 man_e <==> 1 man_BOUNDARY
+1 cobalt2_e <==> 1 cobalt2_BOUNDARY
+1 MNXM146363_e <==> 1 MNXM146363_BOUNDARY
+1 etha_e <==> 1 etha_BOUNDARY
+1 MNXM97018_e <==> 1 MNXM97018_BOUNDARY
+1 2ddglcn_e <==> 1 2ddglcn_BOUNDARY
+1 malt_e <==> 1 malt_BOUNDARY
+1 adn_e <==> 1 adn_BOUNDARY
+1 thymd_e <==> 1 thymd_BOUNDARY
+1 k_e <==> 1 k_BOUNDARY
+1 no3_e <==> 1 no3_BOUNDARY
+1 taur_e <==> 1 taur_BOUNDARY
+1 hdca_e <==> 1 hdca_BOUNDARY
+1 MNXM147495_e <==> 1 MNXM147495_BOUNDARY
+1 hxan_e <==> 1 hxan_BOUNDARY
+1 ins_e <==> 1 ins_BOUNDARY
+1 uri_e <==> 1 uri_BOUNDARY
+1 mg2_e <==> 1 mg2_BOUNDARY
+1 spmd_e <==> 1 spmd_BOUNDARY
+1 tsul_e <==> 1 tsul_BOUNDARY
+1 gam_e <==> 1 gam_BOUNDARY
+1 dgsn_e <==> 1 dgsn_BOUNDARY
+1 MNXM149014_e <==> 1 MNXM149014_BOUNDARY
+1 mnl_e <==> 1 mnl_BOUNDARY
+1 nmn_e <==> 1 nmn_BOUNDARY
+1 cytd_e <==> 1 cytd_BOUNDARY
+1 duri_e <==> 1 duri_BOUNDARY
+1 dad_2_e <==> 1 dad_2_BOUNDARY
+1 glyb_e <==> 1 glyb_BOUNDARY
+1 ser__D_e <==> 1 ser__D_BOUNDARY
+1 sbt__D_e <==> 1 sbt__D_BOUNDARY
+1 cbl1_e <==> 1 cbl1_BOUNDARY
+1 met__D_e <==> 1 met__D_BOUNDARY
+1 dcyt_e <==> 1 dcyt_BOUNDARY
+1 thmmp_e <==> 1 thmmp_BOUNDARY
+1 tre_e <==> 1 tre_BOUNDARY
+1 na1_e <==> 1 na1_BOUNDARY
+1 cd2_e <==> 1 cd2_BOUNDARY
+1 salcn_e <==> 1 salcn_BOUNDARY
+1 ocdca_e <==> 1 ocdca_BOUNDARY
+1 galt_e <==> 1 galt_BOUNDARY
+1 metsox_S__L_e <==> 1 metsox_S__L_BOUNDARY
+1 din_e <==> 1 din_BOUNDARY
+1 arbt_e <==> 1 arbt_BOUNDARY
+1 ttdca_e <==> 1 ttdca_BOUNDARY
+1 fe2_e <==> 1 fe2_BOUNDARY
+1 fe3_e <==> 1 fe3_BOUNDARY
+1 MNXM8825_e <==> 1 MNXM8825_BOUNDARY
+1 MNXM12236_e <==> 1 MNXM12236_BOUNDARY
+1 MNXM6281_c <==> 1 MNXM6281_BOUNDARY
+1 q8_e <==> 1 q8_BOUNDARY
+1 q8h2_e <==> 1 q8h2_BOUNDARY
+1 MNXM01_e <==> 1 h_e
+1 MNXM01_c <==> 1 h_c
+1 ppi_c + 1 h2o_c --> 1 h_c + 2 pi_c
+2 h2o2_c --> 2 h2o_c + 1 o2_c
+1 tre_c + 1 h2o_c <==> 2 MNXM7043_c
+1 co2_c + 1 2ahethmpp_c <-- 1 h_c + 1 pyr_c + 1 thmpp_c
+2 sucr_c <==> 1 MNXM6568_c + 1 MNXM7043_c
+2 ptrc_c <==> 1 hspmd_c + 1 nh4_c
+1 chtbs_c + 1 h2o_c --> 2 MNXM2138_c
+2 glc_bD_c <-- 1 h2o_c + 1 cellb_c
+1 malt_c + 1 h2o_c --> 2 MNXM7043_c
+1 h_c + 2 h2o_c + 1 ppbng_c <-- 2 5aop_c
+2 dmlz_c + 1 h_c --> 1 ribflv_c + 1 4r5au_c
+3 5mta_c + 3 h_c + 1 MNXM2055_c <==> 3 amet_c
+4 fe2_c + 4 h_c + 1 o2_c <==> 4 fe3_c + 2 h2o_c
+4 ficytC_c + 2 h2o_c <==> 4 h_c + 1 o2_c + 4 focytC_c
+1 h2o_c + 4 ppbng_c --> 1 hmbil_c + 4 nh4_c
+1 ppi_c + 1 camp_c <-- 1 atp_c
+1 nadh_c + 2 fe3_c <==> 2 fe2_c + 1 h_c + 1 nad_c
+1 h_c + 1 nadp_c + 1 adp_c <==> 1 atp_c + 1 nad_c
+1 nadh_c + 1 nadp_c <==> 1 nadph_c + 1 nad_c
+1 h_c + 1 akg_c + 1 gln__L_c + 1 nadph_c <==> 1 nadp_c + 2 glu__L_c
+1 gthox_c + 1 h_c + 1 nadph_c <==> 2 MNXM57_c + 1 nadp_c
+1 amp_c + 1 atp_c <==> 2 adp_c
+1 coa_c + 1 h_c + 1 adp_c <-- 1 atp_c + 1 dpcoa_c
+1 urea_c + 2 h_c + 1 h2o_c --> 1 co2_c + 2 nh4_c
+1 co2_c + 1 h2o_c <==> 1 h_c + 1 hco3_c
+1 ppi_c + 1 nad_c <==> 1 h_c + 1 nmn_c + 1 atp_c
+1 cbp_c + 3 h_c + 2 adp_c + 1 pi_c <==> 1 co2_c + 1 h2o_c + 2 atp_c + 1 nh4_c
+1 utp_c + 1 adp_c <==> 1 udp_c + 1 atp_c
+1 udp_c + 1 adp_c <==> 1 atp_c + 1 ump_c
+1 fmn_c + 1 h_c + 1 atp_c --> 1 ppi_c + 1 fad_c
+1 pydx5p_c + 1 h_c + 1 adp_c <==> 1 pydx_c + 1 atp_c
+1 ppi_c + 1 amet_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 met__L_c
+1 co2_c + 1 ametam_c <-- 1 amet_c + 1 h_c
+1 amp_c + 1 h2o_c --> 1 adn_c + 1 pi_c
+1 amp_c + 1 h_c + 1 adp_c <==> 1 adn_c + 1 atp_c
+1 amp_c + 1 pi_c <-- 1 h2o_c + 1 pap_c
+1 ppi_c + 1 amp_c + 1 h_c + 1 nad_c <-- 1 dnad_c + 1 atp_c + 1 nh4_c
+1 ppi_c + 1 amp_c <-- 1 ade_c + 1 prpp_c
+1 MNXM123_c + 1 adn_c <==> 1 ahcys_c + 1 h2o_c
+2 ficytC_c + 1 lac__L_c <==> 2 h_c + 1 pyr_c + 2 focytC_c
+1 amp_c + 2 h_c + 1 pep_c + 1 pi_c <-- 1 pyr_c + 1 h2o_c + 1 atp_c
+1 h_c + 1 pep_c + 1 adp_c <==> 1 pyr_c + 1 atp_c
+1 co2_c + 1 pyr_c + 1 nadph_c <-- 1 nadp_c + 1 mal__L_c
+1 pyr_c + 1 nh4_c <-- 1 ser__L_c
+1 ppi_c + 1 amp_c + 1 accoa_c <==> 1 coa_c + 1 ac_c + 1 atp_c
+1 coa_c + 1 aacoa_c <==> 2 accoa_c
+1 glu5p_c + 1 adp_c <==> 1 atp_c + 1 glu__L_c
+1 atp_c + 1 glu__L_c <==> 1 MNXM4027_c + 1 adp_c
+1 nadh_c + 1 h_c + 1 akg_c + 1 nh4_c <==> 1 h2o_c + 1 glu__L_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 glu__L_c <-- 1 glu5sa_c + 1 h2o_c + 1 nad_c
+1 h_c + 1 gln__L_c + 1 adp_c + 1 pi_c <-- 1 atp_c + 1 nh4_c + 1 glu__L_c
+1 h2o_c + 1 gln__L_c --> 1 nh4_c + 1 glu__L_c
+1 ppi_c + 1 amp_c + 1 h_c + 1 glu__L_c + 1 nad_c <-- 1 h2o_c + 1 dnad_c + 1 gln__L_c + 1 atp_c
+1 coa_c + 1 h_c + 1 acglu_c <-- 1 accoa_c + 1 glu__L_c
+1 glu__D_c <==> 1 glu__L_c
+2 h_c + 1 akg_c + 1 nadph_c <-- 1 h2o_c + 1 nadp_c + 1 MNXM770_c
+1 MNXM1289_c + 1 h_c --> 1 co2_c + 1 akg_c
+2 h_c + 2 o2s_c --> 1 h2o2_c + 1 o2_c
+1 pydx5p_c + 1 h2o2_c + 1 nh4_c <-- 1 h2o_c + 1 pyam5p_c + 1 o2_c
+1 pydx5p_c + 1 h2o2_c <-- 1 pdx5p_c + 1 o2_c
+2 nadh_c + 3 h_c + 1 udpglcur_c <==> 1 h2o_c + 1 udpg_c + 2 nad_c
+1 ppi_c + 1 udpg_c <==> 1 utp_c + 1 h_c + 1 g1p_c
+1 g6p_c + 1 h_c + 1 adp_c <==> 1 atp_c + 1 MNXM7043_c
+1 h2o_c + 1 cellb_c --> 2 MNXM7043_c
+1 fru_c <==> 1 MNXM7043_c
+1 fe2_c + 1 ppp9_c <==> 1 pheme_c
+1 h_c + 1 ac_c + 1 pi_c <-- 1 actp_c + 1 h2o_c
+1 ac_c + 1 nh4_c <-- 1 h2o_c + 1 ad_c
+1 gdp_c + 1 atp_c <==> 1 gtp_c + 1 adp_c
+1 gmp_c + 1 atp_c <==> 1 gdp_c + 1 adp_c
+1 ppgpp_c + 1 h2o_c --> 1 ppi_c + 1 h_c + 1 gdp_c
+1 nadh_c + 1 h_c + 1 oaa_c <==> 1 nad_c + 1 mal__L_c
+1 co2_c + 1 h2o_c + 1 pep_c <==> 1 h_c + 1 oaa_c + 1 pi_c
+1 coa_c + 1 cit_c + 1 h_c <-- 1 accoa_c + 1 h2o_c + 1 oaa_c
+1 accoa_c + 1 oaa_c <==> 1 pyr_c + 1 malcoa_c
+1 MNXM1509_c <==> 1 accoa_c + 1 oaa_c
+1 akg_c + 1 asp__L_c <==> 1 oaa_c + 1 glu__L_c
+1 pyr_c + 1 gly_c <==> 1 ala__L_c + 1 glx_c
+1 2aobut_c + 1 coa_c <==> 1 accoa_c + 1 gly_c
+1 ala__D_c <==> 1 ala__L_c
+1 coa_c + 1 succ_c + 1 atp_c <==> 1 adp_c + 1 succoa_c + 1 pi_c
+1 h_c + 1 succ_c + 1 fad_c <-- 1 fadh2_c + 1 fum_c
+1 micit_c <==> 1 pyr_c + 1 succ_c
+1 aacoa_c + 1 succ_c <==> 1 acac_c + 1 succoa_c
+1 ppi_c + 1 uacgam_c <==> 1 utp_c + 1 h_c + 1 acgam1p_c
+1 h_c + 1 ahdt_c + 1 for_c <-- 1 h2o_c + 1 gtp_c
+1 ppi_c + 2 h_c + 1 for_c + 1 25drapp_c <-- 3 h2o_c + 1 gtp_c
+1 h2o_c + 1 gtp_c --> 1 MNXM53766_c
+1 amp_c + 1 gdptp_c <==> 1 atp_c + 1 gtp_c
+1 co2_c + 1 gdp_c + 1 pep_c <-- 1 oaa_c + 1 gtp_c
+1 co2_c + 1 lys__L_c <==> 1 h_c + 1 26dap__M_c
+1 h_c + 1 pyr_c + 1 nadph_c + 1 lys__L_c <==> 1 h2o_c + 1 MNXM3966_c + 1 nadp_c
+1 lys__L_c <==> 1 lys__D_c
+1 h_c + 1 glx_c + 1 nadph_c <==> 1 glyclt_c + 1 nadp_c
+1 pyr_c + 1 glx_c <==> 1 4h2oglt_c
+1 coa_c + 1 h_c + 1 mal__L_c <-- 1 accoa_c + 1 h2o_c + 1 glx_c
+1 succ_c + 1 glx_c <==> 1 icit_c
+1 4pasp_c + 1 adp_c <==> 1 atp_c + 1 asp__L_c
+1 asn__L_c + 1 h2o_c --> 1 asp__L_c + 1 nh4_c
+1 co2_c + 1 ala_B_c <-- 1 h_c + 1 asp__L_c
+1 h2o_c + 1 MNXM57_c <==> 1 cgly_c + 1 glu__L_c
+1 h_c + 1 MNXM57_c + 1 adp_c + 1 pi_c <-- 1 gly_c + 1 atp_c + 1 glucys_c
+1 h_c + 1 paps_c + 1 adp_c <==> 1 aps_c + 1 atp_c
+1 h2o_c + 1 cmp_c --> 1 cytd_c + 1 pi_c
+1 cdp_c + 1 adp_c <==> 1 cmp_c + 1 atp_c
+1 nadh_c + 1 co2_c <-- 1 for_c + 1 nad_c
+1 Nforglu_c + 1 h2o_c <==> 1 for_c + 1 glu__L_c
+1 ppi_c + 1 aps_c <==> 1 h_c + 1 atp_c + 1 so4_c
+1 fmn_c + 1 h_c + 1 adp_c <==> 1 ribflv_c + 1 atp_c
+1 urea_c + 1 orn_c <-- 1 h2o_c + 1 arg__L_c
+1 gly_c + 1 arg__L_c <==> 1 gudac_c + 1 orn_c
+1 co2_c + 1 agm_c <-- 1 h_c + 1 arg__L_c
+1 arg__D_c <==> 1 arg__L_c
+1 utp_c + 1 nh4_c <-- 1 h_c + 1 h2o_c + 1 ctp_c
+1 cdp_c + 1 atp_c <==> 1 ctp_c + 1 adp_c
+1 utp_c + 1 atp_c + 1 nh4_c <==> 2 h_c + 1 ctp_c + 1 adp_c + 1 pi_c
+1 utp_c + 1 h2o_c + 1 gln__L_c + 1 atp_c --> 2 h_c + 1 ctp_c + 1 adp_c + 1 glu__L_c + 1 pi_c
+1 cbp_c + 2 h_c + 2 adp_c + 1 glu__L_c + 1 pi_c <-- 1 h2o_c + 1 gln__L_c + 2 atp_c + 1 hco3_c
+1 ppi_c + 1 asn__L_c + 1 amp_c + 1 h_c + 1 glu__L_c <-- 1 h2o_c + 1 gln__L_c + 1 atp_c + 1 asp__L_c
+1 h2o_c + 1 pser__L_c --> 1 ser__L_c + 1 pi_c
+1 pyr_c + 1 ser__L_c <==> 1 ala__L_c + 1 hpyr_c
+1 meoh_c + 1 h2o2_c <==> 2 h2o_c + 1 fald_c
+2 h_c + 2 cl_c + 1 fald_c <==> 1 h2o_c + 1 MNXM3262_c
+1 thmpp_c + 1 adp_c <==> 1 atp_c + 1 thmmp_c
+1 co2_c + 1 MNXM3480_c <-- 1 h_c + 1 akg_c + 1 thmpp_c
+1 MNXM123_c + 1 amet_c --> 1 ahcys_c + 1 h_c + 1 met__L_c
+1 2pg_c <==> 1 h2o_c + 1 pep_c
+1 uaccg_c + 1 pi_c <==> 1 uacgam_c + 1 pep_c
+1 akg_c + 1 orn_c <==> 1 glu5sa_c + 1 glu__L_c
+1 ac_c + 1 orn_c <==> 1 h2o_c + 1 acorn_c
+1 ptrc_c + 1 co2_c <-- 1 h_c + 1 orn_c
+1 orn__D_c <==> 1 orn_c
+1 h2o_c + 1 trp__L_c <-- 1 indole_c + 1 ser__L_c
+1 Lfmkynr_c <-- 1 o2_c + 1 trp__L_c
+1 co2_c + 1 trypta_c <-- 1 h_c + 1 trp__L_c
+1 akg_c + 1 phe__L_c <==> 1 phpyr_c + 1 glu__L_c
+1 cinnm_c + 1 nh4_c <==> 1 phe__L_c
+1 co2_c + 1 peamn_c <-- 1 h_c + 1 phe__L_c
+1 nadh_c + 1 h_c + 1 pyr_c <==> 1 lac__L_c + 1 nad_c
+1 nadh_c + 1 co2_c + 1 accoa_c <==> 1 coa_c + 1 msa_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 glu__L_c <==> 1 1pyr5c_c + 2 h2o_c + 1 nad_c
+1 nadh_c + 1 co2_c + 1 akg_c <-- 1 icit_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 ac_c <-- 1 h2o_c + 1 acald_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 succ_c <-- 1 sucsal_c + 1 h2o_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 glx_c <==> 1 glyclt_c + 1 nad_c
+1 atp_c + 1 idp_c <==> 1 itp_c + 1 adp_c
+1 co2_c + 1 idp_c + 1 pep_c <==> 1 itp_c + 1 oaa_c
+1 2h34hppr_c + 1 glu__L_c <==> 1 akg_c + 1 tyr__L_c
+1 co2_c + 1 tym_c <-- 1 h_c + 1 tyr__L_c
+1 coa_c + 1 msa_c + 1 nadp_c <==> 1 h_c + 1 malcoa_c + 1 nadph_c
+1 h_c + 1 malcoa_c + 1 adp_c + 1 pi_c <==> 1 accoa_c + 1 atp_c + 1 hco3_c
+1 etha_c --> 1 acald_c + 1 nh4_c
+1 thr__L_c <==> 1 gly_c + 1 acald_c
+1 nadh_c + 1 h_c + 1 acald_c <==> 1 etoh_c + 1 nad_c
+1 h_c + 1 fdp_c + 1 adp_c <==> 1 atp_c + 1 f6p_c
+1 h2o_c + 1 fdp_c --> 1 f6p_c + 1 pi_c
+1 h2o_c + 1 MNXM651_c <==> 1 f6p_c + 1 pi_c
+1 h2o_c + 1 gam6p_c --> 1 nh4_c + 1 f6p_c
+1 gam6p_c + 1 glu__L_c <==> 1 gln__L_c + 1 f6p_c
+1 g6p_c <==> 1 f6p_c
+1 man6p_c <==> 1 f6p_c
+1 h_c + 1 pyr_c + 1 nh4_c + 1 h2s_c <-- 1 h2o_c + 1 cys__L_c
+1 no2_c + 3 nadh_c + 4 h_c --> 2 h2o_c + 1 nh4_c + 3 nad_c
+1 no2_c + 4 h_c + 3 nadph_c --> 2 h2o_c + 3 nadp_c + 1 nh4_c
+1 sucr_c + 1 h2o_c --> 1 fru_c + 1 MNXM7043_c
+1 sucr_c + 1 pi_c <==> 1 fru_c + 1 g1p_c
+1 nadh_c + 2 h_c + 1 salc_c + 1 o2_c --> 1 co2_c + 1 catechol_c + 1 h2o_c + 1 nad_c
+1 g6p_c + 1 nadp_c <==> 1 h_c + 1 6pgl_c + 1 nadph_c
+1 g6p_c + 1 udpg_c <==> 1 udp_c + 1 h_c + 1 tre6p_c
+1 nadh_c + 1 h_c + 1 dhap_c <==> 1 glyc3p_c + 1 nad_c
+1 h_c + 1 nadph_c + 1 dhap_c <==> 1 nadp_c + 1 glyc3p_c
+1 h_c + 1 glyc3p_c + 1 adp_c <==> 1 atp_c + 1 glyc_c
+1 h_c + 1 fad_c + 1 glyc3p_c <==> 1 fadh2_c + 1 dhap_c
+1 hso3_c + 4 h_c + 3 nadph_c <==> 3 h2o_c + 3 nadp_c + 1 h2s_c
+1 fru_c + 1 MNXM7043_c <==> 1 MNXM339_c + 1 sbt__D_c
+1 h_c + 1 gdp_c + 1 man1p_c <==> 1 gdpmann_c + 1 pi_c
+1 h_c + 1 glucys_c + 1 adp_c + 1 pi_c <-- 1 atp_c + 1 cys__L_c + 1 glu__L_c
+1 ac_c + 1 cys__L_c <-- 1 acser_c + 1 h2s_c
+1 gly_c + 1 cys__L_c <==> 1 h2o_c + 1 cgly_c
+1 nadh_c + 1 ala_B_c + 2 h_c <==> 1 h2o_c + 1 aproa_c + 1 nad_c
+1 nadh_c + 1 ala_B_c + 1 h_c + 1 pyr_c <==> 1 h2o_c + 1 MNXM3765_c + 1 nad_c
+1 ala_B_c + 1 pyr_c <==> 1 msa_c + 1 ala__L_c
+1 ala_B_c + 1 ac_c <==> 1 h2o_c + 1 MNXM4701_c
+1 coa_c + 1 ppa_c + 1 atp_c <==> 1 adp_c + 1 ppcoa_c + 1 pi_c
+1 nadh_c + 1 co2_c + 1 ppcoa_c <==> 1 coa_c + 1 nad_c + 1 mmsa_c
+1 coa_c + 1 MNXM5283_c --> 1 amp_c + 1 h_c + 1 ppcoa_c
+1 coa_c + 1 2maacoa_c <==> 1 accoa_c + 1 ppcoa_c
+1 pyr_c + 1 mmcoa__S_c <==> 1 oaa_c + 1 ppcoa_c
+1 coa_c + 1 h_c + 1 2mcit_c <-- 1 h2o_c + 1 oaa_c + 1 ppcoa_c
+1 h_c + 1 dhf_c + 1 nadph_c <==> 1 nadp_c + 1 thf_c
+1 h_c + 1 thfglu_c + 1 adp_c + 1 pi_c <-- 1 atp_c + 1 thf_c + 1 glu__L_c
+1 h_c + 1 for_c + 1 thf_c <-- 1 10fthf_c + 1 h2o_c
+1 mlthf_c + 1 gly_c + 1 h2o_c <==> 1 ser__L_c + 1 thf_c
+1 MNXM123_c + 1 5mthf_c <==> 1 met__L_c + 1 thf_c
+1 ppi_c + 1 MNXM90088_c <==> 1 h_c + 1 gtp_c + 1 g1p_c
+1 g6p_c <==> 1 g1p_c
+1 h_c + 1 cmp_c + 1 idp_c <==> 1 cytd_c + 1 itp_c
+1 uri_c + 1 pi_c <-- 1 h2o_c + 1 ump_c
+1 co2_c + 1 ump_c <-- 1 h_c + 1 orot5p_c
+1 ppi_c + 1 ump_c <-- 1 ura_c + 1 prpp_c
+1 utp_c + 2 h_c + 1 ump_c <-- 1 MNXM12558_c + 1 h2o_c
+1 ura_c + 1 nh4_c <-- 1 h_c + 1 h2o_c + 1 csn_c
+1 ppi_c + 1 MNXM4718_c <==> 1 anth_c + 1 atp_c
+1 anth_c + 1 h_c + 1 pyr_c + 1 h2o_c <-- 1 chor_c + 1 nh4_c
+1 anth_c + 1 h_c + 1 pyr_c + 1 glu__L_c <-- 1 chor_c + 1 gln__L_c
+1 coa_c + 1 MNXM4735_c <==> 1 anth_c + 1 malcoa_c
+1 nadh_c + 1 co2_c + 1 2obut_c <==> 1 r3mmal_c + 1 nad_c
+1 thr__L_c --> 1 2obut_c + 1 nh4_c
+1 2obut_c + 1 h_c + 1 succ_c + 1 nh4_c <-- 1 h2o_c + 1 suchms_c
+1 nadh_c + 1 2obut_c + 1 h_c <==> 1 2hb_c + 1 nad_c
+1 2obut_c + 1 cys__L_c + 1 nh4_c <-- 1 h2o_c + 1 MNXM7231_c
+1 h2o_c + 1 dhap_c --> 1 dha_c + 1 pi_c
+1 g3p_c <==> 1 dhap_c
+1 h_c + 1 glyc3p_c + 1 chol_c <-- 1 h2o_c + 1 g3pc_c
+1 nadh_c + 1 h_c + 1 glyald_c <==> 1 glyc_c + 1 nad_c
+1 amp_c + 1 h_c + 1 prpp_c <==> 1 r5p_c + 1 atp_c
+1 r5p_c + 1 atp_c <==> 1 h_c + 1 adp_c + 1 r15bp_c
+1 r5p_c + 1 h_c + 1 adp_c <==> 1 rib__D_c + 1 atp_c
+1 amp_c + 1 r5p_c + 2 h_c <-- 1 h2o_c + 1 adprib_c
+1 ura_c + 1 r5p_c --> 1 MNXM2276_c + 1 h2o_c
+1 ru5p__D_c <==> 1 r5p_c
+1 nadh_c + 1 h_c + 1 13dpg_c <==> 1 g3p_c + 1 nad_c + 1 pi_c
+1 h_c + 1 13dpg_c + 1 nadph_c --> 1 g3p_c + 1 nadp_c + 1 pi_c
+1 g3p_c + 1 pyr_c <==> 1 2dh3dgal6p_c
+1 xu5p__D_c + 1 e4p_c <==> 1 g3p_c + 1 f6p_c
+1 g3p_c + 1 dhap_c <==> 1 fdp_c
+1 ppi_c + 1 prbatp_c <-- 1 atp_c + 1 prpp_c
+1 ppi_c + 1 glu__L_c + 1 pram_c <-- 1 h2o_c + 1 gln__L_c + 1 prpp_c
+1 ppi_c + 1 btamp_c --> 1 h_c + 1 btn_c + 1 atp_c
+1 h2o_c + 1 MNXM4489_c <==> 1 btn_c + 1 nh4_c
+1 h2o_c + 1 biocyt_c <==> 1 btn_c + 1 lys__L_c
+1 rib__D_c <==> 1 rbl__D_c
+1 h2o_c + 1 fum_c <==> 1 mal__L_c
+1 amp_c + 1 fum_c <==> 1 dcamp_c
+1 argsuc_c <==> 1 arg__L_c + 1 fum_c
+1 nadh_c + 1 h_c + 1 4mop_c + 1 nh4_c <==> 1 leu__L_c + 1 h2o_c + 1 nad_c
+1 leu__L_c + 1 akg_c <==> 1 4mop_c + 1 glu__L_c
+1 gal_bD_c + 1 MNXM7043_c <==> 1 h2o_c + 1 lcts_c
+1 imp_c + 1 h2o_c --> 1 ins_c + 1 pi_c
+1 imp_c + 1 h2o_c <==> 1 fprica_c
+1 nadh_c + 1 h_c + 1 xmp_c <==> 1 imp_c + 1 h2o_c + 1 nad_c
+1 ppi_c + 1 imp_c <-- 1 hxan_c + 1 prpp_c
+1 imp_c + 1 asp__L_c + 1 gtp_c --> 2 h_c + 1 gdp_c + 1 dcamp_c + 1 pi_c
+1 datp_c + 1 adp_c <==> 1 dadp_c + 1 atp_c
+1 meoh_c + 1 pqq_c --> 1 h_c + 1 fald_c + 1 pqqh2_c
+2 ala__D_c + 1 atp_c --> 1 h_c + 1 alaala_c + 1 adp_c + 1 pi_c
+1 ptrc_c + 1 co2_c + 1 nh4_c <-- 1 Ncbmpts_c + 2 h_c + 1 h2o_c
+2 nadh_c + 1 his__L_c + 3 h_c <==> 1 histd_c + 1 h2o_c + 2 nad_c
+1 nadh_c + 1 his__L_c + 2 h_c <-- 1 h2o_c + 1 MNXM4010_c + 1 nad_c
+1 his__L_c + 1 h_c <==> 1 co2_c + 1 hista_c
+1 his__L_c --> 1 urcan_c + 1 nh4_c
+1 nadh_c + 1 h_c + 1 b2coa_c --> 1 btcoa_c + 1 nad_c
+1 h_c + 1 btcoa_c + 1 fad_c <-- 1 b2coa_c + 1 fadh2_c
+1 coa_c + 1 3ohcoa_c <==> 1 accoa_c + 1 btcoa_c
+1 inost_c + 1 pi_c <-- 1 h2o_c + 1 mi1p__D_c
+1 inost_c + 1 pi_c <-- 1 mi4p__D_c + 1 h2o_c
+1 inost_c + 1 pi_c <-- 1 h2o_c + 1 mi3p__D_c
+1 h_c + 1 acgam6p_c + 1 adp_c <==> 1 MNXM2138_c + 1 atp_c
+1 23dhmb_c --> 1 3mob_c + 1 h2o_c
+1 coa_c + 1 h_c + 1 3c3hmp_c <-- 1 accoa_c + 1 3mob_c + 1 h2o_c
+1 val__L_c + 1 akg_c <==> 1 3mob_c + 1 glu__L_c
+1 val__L_c + 1 pyr_c <==> 1 3mob_c + 1 ala__L_c
+1 3mob_c + 1 fald_c <==> 1 2dhp_c
+1 mlthf_c + 1 nadp_c <==> 1 methf_c + 1 nadph_c
+1 nadh_c + 1 co2_c + 1 mlthf_c + 1 nh4_c <==> 1 gly_c + 1 thf_c + 1 nad_c
+1 mlthf_c + 1 h_c + 1 nadph_c <==> 1 5mthf_c + 1 nadp_c
+1 mlthf_c + 1 3mob_c + 1 h2o_c <==> 1 thf_c + 1 2dhp_c
+1 gmp_c + 1 h2o_c --> 1 gsn_c + 1 pi_c
+1 gmp_c + 1 ppi_c <-- 1 gua_c + 1 prpp_c
+1 gmp_c + 1 ppi_c + 1 amp_c + 2 h_c + 1 glu__L_c <-- 1 xmp_c + 1 h2o_c + 1 gln__L_c + 1 atp_c
+1 co2_c + 1 phen_c <==> 1 4hbz_c + 1 h_c
+1 ade_c + 1 rib__D_c <==> 1 adn_c + 1 h2o_c
+1 nadh_c + 1 1pyr5c_c + 2 h_c <==> 1 pro__L_c + 1 nad_c
+1 pro__L_c + 1 nadp_c <==> 1 1pyr5c_c + 2 h_c + 1 nadph_c
+1 pro__L_c + 1 akg_c + 1 o2_c --> 1 co2_c + 1 succ_c + 1 4hpro_LT_c
+1 pro__L_c <==> 1 pro__D_c
+1 ppi_c + 1 nmn_c <==> 1 h_c + 1 ncam_c + 1 prpp_c
+1 hdca_c + 1 coa_c + 1 h_c <==> 1 h2o_c + 1 pmtcoa_c
+1 hdca_c + 1 coa_c + 1 atp_c --> 1 ppi_c + 1 amp_c + 1 pmtcoa_c
+1 MNXM123_c + 1 ser__L_c <==> 1 h2o_c + 1 MNXM7231_c
+1 cit_c <==> 1 icit_c
+1 cit_c <==> 1 h2o_c + 1 acon_C_c
+1 man_c + 1 atp_c <==> 1 h_c + 1 man6p_c + 1 adp_c
+1 2pglyc_c + 1 h2o_c --> 1 glyclt_c + 1 pi_c
+1 ppi_c + 1 MNXM5283_c --> 1 h_c + 1 ppa_c + 1 atp_c
+1 ppi_c + 1 aacoa_c + 1 amp_c <-- 1 coa_c + 1 acac_c + 1 atp_c
+1 acac_c + 1 accoa_c <==> 1 hmgcoa_c
+1 nadh_c + 1 acac_c + 1 h_c <==> 1 bhb_c + 1 nad_c
+1 co2_c + 1 2hyoxplac_c <-- 1 phpyr_c + 1 o2_c
+1 co2_c + 1 phpyr_c + 1 h2o_c <-- 1 h_c + 1 pphn_c
+1 nadh_c + 1 h_c + 1 hpyr_c <==> 1 glyc__R_c + 1 nad_c
+1 glyc__R_c + 1 nadp_c <==> 1 h_c + 1 hpyr_c + 1 nadph_c
+1 co2_c + 1 gcald_c <==> 1 h_c + 1 hpyr_c
+1 cbp_c + 1 asp__L_c --> 1 h_c + 1 cbasp_c + 1 pi_c
+1 5mta_c + 1 pi_c <==> 1 ade_c + 1 5mdr1p_c
+1 h_c + 1 h2o_c + 1 5mcsn_c --> 1 thym_c + 1 nh4_c
+1 Ncbmpts_c + 1 nh4_c <-- 1 h2o_c + 1 agm_c
+1 MNXM146363_c <==> 1 rbl__L_c
+1 nadh_c + 1 h_c + 1 3mob_c + 1 nh4_c <==> 1 val__L_c + 1 h2o_c + 1 nad_c
+1 h2o_c + 1 MNXM5664_c <==> 1 MNXM7043_c + 1 cellb_c
+1 nadh_c + 1 lac__L_c + 2 h_c <==> 1 lald__L_c + 1 h2o_c + 1 nad_c
+1 chsterol_c + 1 h_c + 1 MNXM72_c <==> 1 h2o_c + 1 xolest_hs_c
+1 nadh_c + 1 2aobut_c + 1 h_c <==> 1 thr__L_c + 1 nad_c
+1 phom_c + 1 h2o_c --> 1 thr__L_c + 1 pi_c
+1 h_c + 1 etha_c + 1 glyc3p_c <-- 1 h2o_c + 1 g3pe_c
+1 fruur_c <==> 1 MNXM97018_c
+1 3pg_c + 1 atp_c <==> 1 13dpg_c + 1 adp_c
+1 nadh_c + 1 h_c + 1 3php_c <==> 1 3pg_c + 1 nad_c
+1 3pg_c + 1 h_c + 1 adp_c <==> 1 glyc__R_c + 1 atp_c
+1 3pg_c + 1 h_c + 1 pi_c <-- 1 13dpg_c + 1 h2o_c
+1 3pg_c <==> 1 2pg_c
+1 h_c + 1 glcn_c <-- 1 h2o_c + 1 MNXM339_c
+1 co2_c + 1 ru5p__D_c + 1 nadph_c <-- 1 6pgc_c + 1 nadp_c
+1 ru5p__D_c <==> 1 xu5p__D_c
+1 ara5p_c <==> 1 ru5p__D_c
+1 h_c + 1 2ddg6p_c + 1 adp_c <==> 1 atp_c + 1 2ddglcn_c
+1 nadh_c + 1 MNXM1709_c + 1 h_c <==> 1 2ddglcn_c + 1 nad_c
+1 dadp_c + 1 adp_c <==> 1 atp_c + 1 damp_c
+1 malt_c <==> 1 tre_c
+1 h_c + 1 adn_c + 1 h2o_c --> 1 ins_c + 1 nh4_c
+1 h_c + 1 dtmp_c + 1 adp_c <==> 1 atp_c + 1 thymd_c
+1 dtmp_c + 1 h2o_c --> 1 thymd_c + 1 pi_c
+1 thym_c + 1 2dr1p_c <==> 1 thymd_c + 1 pi_c
+1 ara5p_c + 1 h_c + 1 adp_c <==> 1 atp_c + 1 arab__D_c
+1 h2o_c + 1 MNXM3511_c <==> 1 glu__D_c
+1 glc_bD_c + 1 atp_c <==> 1 h_c + 1 g6p_B_c + 1 adp_c
+1 glc_bD_c <==> 1 MNXM7043_c
+1 CCbuttc_c + 2 h_c <-- 1 34dhbz_c + 1 o2_c
+1 xu5p__D_c + 1 h_c + 1 adp_c <==> 1 atp_c + 1 rbl__L_c
+1 r5p_c + 1 xu5p__D_c <==> 1 g3p_c + 1 s7p_c
+1 co2_c + 1 4mop_c <-- 1 3c4mop_c + 1 h_c
+1 h_c + 1 10fthfglu__L_c + 1 adp_c + 1 pi_c <-- 1 10fthf_c + 1 atp_c + 1 glu__L_c
+1 h_c + 1 10fthf_c <==> 1 h2o_c + 1 methf_c
+1 grdp_c + 1 ppi_c <-- 1 dmpp_c + 1 ipdp_c
+1 3pg_c + 1 MNXM1723_c + 1 h_c <==> 1 13dpg_c + 1 g1p_c
+1 dcmp_c + 1 h2o_c --> 1 dcyt_c + 1 pi_c
+1 dcmp_c + 1 atp_c <==> 1 dcdp_c + 1 adp_c
+1 xan_c + 1 nh4_c <-- 1 h_c + 1 gua_c + 1 h2o_c
+1 rib__D_c + 1 gua_c <==> 1 h2o_c + 1 gsn_c
+1 lpam_c + 1 nadh_c + 1 h_c <==> 1 dhlam_c + 1 nad_c
+1 3psme_c --> 1 chor_c + 1 pi_c
+1 chor_c --> 1 pphn_c
+1 4adcho_c + 1 glu__L_c <==> 1 chor_c + 1 gln__L_c
+1 ppi_c + 1 nicrnt_c <==> 1 h_c + 1 nac_c + 1 prpp_c
+1 nadh_c + 1 co2_c + 1 2h34hppr_c <-- 1 pphn_c + 1 nad_c
+1 co2_c + 1 2h34hppr_c + 1 nadph_c <-- 1 pphn_c + 1 nadp_c
+1 asp__L_c + 1 pphn_c <==> 1 oaa_c + 1 Largn_c
+1 lgt__S_c + 1 h2o_c --> 1 h_c + 1 lac__D_c + 1 MNXM57_c
+1 h_c + 1 6pgc_c + 1 adp_c <==> 1 glcn_c + 1 atp_c
+1 nadh_c + 1 glyc__R_c + 2 h_c <-- 1 h2o_c + 1 glyald_c + 1 nad_c
+1 MNXM147495_c <==> 1 rbl__L_c
+1 nadh_c + 1 xan_c + 1 h_c <==> 1 hxan_c + 1 h2o_c + 1 nad_c
+1 hxan_c + 1 rib__D_c <==> 1 h2o_c + 1 ins_c
+1 phom_c + 1 h_c + 1 adp_c <==> 1 hom__L_c + 1 atp_c
+1 nadh_c + 1 h_c + 1 aspsa_c <==> 1 hom__L_c + 1 nad_c
+1 h_c + 1 aspsa_c + 1 nadph_c <==> 1 hom__L_c + 1 nadp_c
+1 coa_c + 1 achms_c <-- 1 accoa_c + 1 hom__L_c
+1 h2o_c + 1 tyr__L_c + 1 dhbpt_c <-- 1 o2_c + 1 thbpt_c + 1 phe__L_c
+1 man6p_c <==> 1 man1p_c
+1 nadh_c + 1 4per_c + 2 h_c <-- 1 e4p_c + 1 h2o_c + 1 nad_c
+1 2dda7p_c + 1 pi_c <-- 1 e4p_c + 1 h2o_c + 1 pep_c
+1 g3p_c + 1 s7p_c <==> 1 e4p_c + 1 f6p_c
+1 s17bp_c <==> 1 e4p_c + 1 dhap_c
+1 s17bp_c + 1 h_c + 1 adp_c <==> 1 s7p_c + 1 atp_c
+1 s17bp_c + 1 h2o_c --> 1 s7p_c + 1 pi_c
+1 dgtp_c + 1 adp_c <==> 1 atp_c + 1 dgdp_c
+1 ppi_c + 1 orot5p_c <-- 1 orot_c + 1 prpp_c
+1 h_c + 1 h2o_c + 1 cytd_c --> 1 uri_c + 1 nh4_c
+1 MNXM1289_c + 1 h_c + 1 nadph_c <==> 1 nadp_c + 1 icit_c
+1 h2o_c + 1 acon_C_c <==> 1 icit_c
+1 h_c + 1 pdx5p_c + 1 adp_c <==> 1 atp_c + 1 pydxn_c
+1 ptrc_c + 1 spmd_c <==> 1 hspmd_c + 1 MNXM350_c
+1 ptrc_c + 1 ametam_c --> 1 spmd_c + 1 5mta_c + 1 h_c
+1 ppi_c + 1 amp_c + 1 h_c + 1 argsuc_c <==> 1 citr__L_c + 1 atp_c + 1 asp__L_c
+1 h_c + 1 Lkynr_c + 1 o2_c + 1 nadph_c --> 1 h2o_c + 1 hLkynr_c + 1 nadp_c
+1 h2o_c + 1 dgmp_c --> 1 dgsn_c + 1 pi_c
+1 nadh_c + 1 aacoa_c + 1 h_c <==> 1 3hbcoa_c + 1 nad_c
+1 3hbcoa__R_c + 1 nadp_c <==> 1 aacoa_c + 1 h_c + 1 nadph_c
+1 tagur_c <==> 1 MNXM149014_c
+1 4abut_c + 2 h_c + 1 nadph_c <-- 1 h2o_c + 1 4abutn_c + 1 nadp_c
+1 4gudbutn_c + 1 orn_c <==> 1 4abut_c + 1 arg__L_c
+1 urea_c + 1 4abut_c <==> 1 4gudbutn_c + 1 h2o_c
+1 h_c + 1 cbasp_c <==> 1 dhor__S_c + 1 h2o_c
+1 grdp_c + 1 ipdp_c --> 1 ppi_c + 1 frdp_c
+1 h_c + 1 6pgc_c <-- 1 h2o_c + 1 6pgl_c
+1 h2o_c + 1 2ddg6p_c <-- 1 6pgc_c
+1 nadh_c + 1 h_c + 1 mmsa_c <==> 1 3hmp_c + 1 nad_c
+1 ac_c + 1 gam6p_c <==> 1 h2o_c + 1 acgam6p_c
+1 gam6p_c <==> 1 gam1p_c
+1 ppi_c + 1 ggdp_c <-- 1 frdp_c + 1 ipdp_c
+1 h_c + 1 fdp_c + 1 adp_c <==> 1 atp_c + 1 f1p_c
+1 co2_c + 1 dopa_c <==> 1 h_c + 1 34dhphe_c
+1 hmgcoa_c <==> 1 h2o_c + 1 3mgcoa_c
+1 h2o_c + 1 damp_c --> 1 dad_2_c + 1 pi_c
+1 atp_c + 1 dgmp_c <==> 1 dgdp_c + 1 adp_c
+1 dtdp_c + 1 atp_c <==> 1 dttp_c + 1 adp_c
+1 dtdp_c + 1 adp_c <==> 1 dtmp_c + 1 atp_c
+1 dump_c + 1 atp_c <==> 1 dudp_c + 1 adp_c
+1 h_c + 1 dump_c + 1 adp_c <==> 1 atp_c + 1 duri_c
+1 ppi_c + 1 h_c + 1 dump_c <-- 1 h2o_c + 1 dutp_c
+1 mlthf_c + 1 dump_c --> 1 dtmp_c + 1 dhf_c
+1 dump_c + 1 h2o_c --> 1 duri_c + 1 pi_c
+1 nadh_c + 1 h_c + 1 urate_c <-- 1 xan_c + 1 h2o_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 retinal_c <==> 1 retinol_c + 1 nad_c
+1 ppi_c + 1 xmp_c <-- 1 xan_c + 1 prpp_c
+1 xan_c + 1 rib__D_c <==> 1 h2o_c + 1 xtsn_c
+1 h_c + 1 h2o_c + 1 gsn_c <==> 1 xtsn_c + 1 nh4_c
+1 nadh_c + 1 MNXM114147_c + 1 h_c + 1 nh4_c <==> 1 ile__L_c + 1 h2o_c + 1 nad_c
+1 MNXM114147_c + 1 glu__L_c <==> 1 akg_c + 1 ile__L_c
+1 h_c + 1 fol_c + 1 nadph_c <==> 1 dhf_c + 1 nadp_c
+1 h_c + 1 dhf_c + 1 adp_c + 1 pi_c <-- 1 atp_c + 1 glu__L_c + 1 dhpt_c
+1 h_c + 1 cala_c <-- 1 h2o_c + 1 56dura_c
+1 glu1sa_c <==> 1 5aop_c
+1 MNXM1992_c + 1 h_c + 1 h2o_c <-- 1 MNXM770_c + 1 nh4_c
+1 acg5sa_c + 1 glu__L_c <==> 1 akg_c + 1 acorn_c
+1 foam_c + 1 glu__L_c --> 1 h2o_c + 1 forglu_c
+1 Nforglu_c + 1 nh4_c <==> 1 h2o_c + 1 forglu_c
+1 forglu_c + 1 thf_c <==> 1 glu__L_c + 1 5forthf_c
+1 h2o_c + 1 4iz5pp_c --> 1 forglu_c
+1 4pasp_c + 1 h_c + 1 nadph_c --> 1 aspsa_c + 1 nadp_c + 1 pi_c
+1 xan_c + 1 r1p_c <==> 1 xtsn_c + 1 pi_c
+1 5fthf_c + 1 h_c <==> 1 h2o_c + 1 methf_c
+1 5fthf_c + 1 atp_c --> 1 methf_c + 1 adp_c + 1 pi_c
+1 rnam_c + 1 pi_c <-- 1 h2o_c + 1 nmn_c
+1 rnam_c + 1 atp_c <==> 1 h_c + 1 nmn_c + 1 adp_c
+1 h_c + 1 h2o_c + 1 dctp_c --> 1 dutp_c + 1 nh4_c
+1 dctp_c + 1 adp_c <==> 1 atp_c + 1 dcdp_c
+1 ppi_c + 1 dtdpglu_c <==> 1 h_c + 1 dttp_c + 1 g1p_c
+1 atp_c + 1 dudp_c <==> 1 dutp_c + 1 adp_c
+1 g3p_c + 1 indole_c <==> 1 3ig3p_c
+1 hdca_c + 1 h_c + 1 retinol_c <==> 1 h2o_c + 1 MNXM918_c
+1 skm5p_c + 1 h_c + 1 adp_c <-- 1 atp_c + 1 skm_c
+1 h_c + 1 3dhsk_c + 1 nadph_c <==> 1 nadp_c + 1 skm_c
+1 cdp4dh6doglc_c + 1 h2o_c <-- 1 cdpglc_c
+1 h_c + 1 MNXM4547_c + 1 adp_c <==> 1 MNXM3592_c + 1 atp_c
+1 mana_c + 1 nad_c <==> 1 nadh_c + 1 fruur_c + 1 h_c
+1 h_c + 1 nadph_c + 1 2dhp_c <==> 1 pant__R_c + 1 nadp_c
+1 ppi_c + 1 amp_c + 1 h_c + 1 pnto__R_c <-- 1 ala_B_c + 1 atp_c + 1 pant__R_c
+1 h_c + 1 h2o_c + 1 dcyt_c --> 1 duri_c + 1 nh4_c
+1 co2_c + 1 b2coa_c + 1 fadh2_c <==> 2 h_c + 1 fad_c + 1 glutcoa_c
+1 itaccoa_c + 1 h2o_c <==> 1 MNXM2358_c
+1 citmcoa__L_c <==> 1 itaccoa_c + 1 h2o_c
+1 h_c + 1 pyam5p_c + 1 adp_c <==> 1 atp_c + 1 pydam_c
+1 h_c + 1 succ_c + 1 MNXM7231_c <==> 1 cys__L_c + 1 suchms_c
+1 h_c + 1 4mlacac_c <==> 1 hgentis_c + 1 o2_c
+1 co2_c + 1 hgentis_c <==> 1 2h34hppr_c + 1 o2_c
+1 lgt__S_c <==> 1 mthgxl_c + 1 MNXM57_c
+1 pad_c + 1 h2o_c <==> 1 pac_c + 1 nh4_c
+1 nadh_c + 1 4abut_c + 2 h_c <-- 1 h2o_c + 1 4abutn_c + 1 nad_c
+1 co2_c + 1 leu__L_c + 1 bzalc_c <==> 1 h_c + 1 h2o_c + 1 MNXM4724_c
+1 h_c + 1 h2o_c + 1 dad_2_c --> 1 nh4_c + 1 din_c
+1 nadh_c + 2 h_c + 1 glyb_c <-- 1 h2o_c + 1 betald_c + 1 nad_c
+2 h_c + 1 glyb_c + 1 nadph_c <-- 1 h2o_c + 1 betald_c + 1 nadp_c
+1 dhlam_c + 1 accoa_c <==> 1 coa_c + 1 adhlam_c
+1 dhlam_c + 1 succoa_c <==> 1 coa_c + 1 sdhlam_c
+1 4h2opntn_c <-- 1 h2o_c + 1 chpd_c
+1 acg5p_c + 1 adp_c <==> 1 atp_c + 1 acglu_c
+2 h2o_c + 2 2mp2coa_c <-- 2 ibcoa_c + 1 o2_c
+1 h_c + 1 fad_c + 1 ibcoa_c <-- 1 fadh2_c + 1 2mp2coa_c
+1 dhlam_c + 1 ibcoa_c <==> 1 coa_c + 2 h_c + 1 MNXM5034_c
+1 cmusa_c <-- 1 3hanthrn_c + 1 o2_c
+1 h_c + 1 ala__L_c + 1 3hanthrn_c <-- 1 h2o_c + 1 hLkynr_c
+1 co2_c + 1 srtn_c <==> 1 h_c + 1 5htrp_c
+1 xmp_c + 1 h2o_c --> 1 xtsn_c + 1 pi_c
+1 g3p_c + 1 h2o_c + 1 trp__L_c <-- 1 ser__L_c + 1 3ig3p_c
+1 n6all26d_c + 1 h2o_c <==> 1 ac_c + 1 26dap_LL_c
+1 sl26da_c + 1 h2o_c <==> 1 succ_c + 1 26dap_LL_c
+1 26dap__M_c <==> 1 26dap_LL_c
+1 h_c + 1 6pgl_c + 1 nadph_c <==> 1 g6p_B_c + 1 nadp_c
+1 g6p_c <==> 1 g6p_B_c
+1 h_c + 1 2dr5p_c + 1 adp_c <==> 1 atp_c + 1 MNXM90412_c
+1 coa_c + 1 mm_c + 1 h_c <==> 1 h2o_c + 1 mmcoa__S_c
+1 dtdpglu_c --> 1 h2o_c + 1 dtdp4d6dg_c
+1 dtdp4d6dm_c <==> 1 dtdp4d6dg_c
+1 h_c + 1 dtdp4d6dm_c + 1 nadph_c <==> 1 nadp_c + 1 dtdprmn_c
+1 tre_c + 1 pi_c <-- 1 h2o_c + 1 tre6p_c
+1 tre_e + 1 pep_c <==> 1 pyr_c + 1 tre6p_c
+1 uama_c + 1 glu__D_c + 1 atp_c --> 1 h_c + 1 adp_c + 1 uamag_c + 1 pi_c
+1 h_c + 1 uAgl_c + 1 adp_c + 1 pi_c <==> 1 atp_c + 1 lys__L_c + 1 uamag_c
+1 ugmd_c + 1 h_c + 1 adp_c + 1 pi_c <-- 1 atp_c + 1 26dap__M_c + 1 uamag_c
+1 tchola_c + 1 h2o_c <==> 1 taur_c + 1 cholate_c
+1 h2o_c + 1 pser__D_c --> 1 ser__D_c + 1 pi_c
+1 fe2_c + 1 scl_c <==> 2 h_c + 1 sheme_c
+1 h2o_c + 1 urcan_c <==> 1 4iz5pp_c
+1 crtn_c + 1 h_c + 1 h2o_c <==> 1 MNXM1762_c + 1 nh4_c
+1 oxur_c + 1 pi_c <==> 1 cbp_c + 1 oxam_c
+1 nadh_c + 2 h_c + 1 salc_c <==> 1 MNXM1593_c + 1 h2o_c + 1 nad_c
+1 h_c + 1 h2o_c + 1 6pthp_c <==> 1 MNXM4882_c + 1 nh4_c
+1 h_c + 1 3oxoadp_c <-- 1 h2o_c + 1 5odhf2a_c
+1 nadh_c + 1 h_c + 1 MNXM4010_c <==> 1 histd_c + 1 nad_c
+1 histd_c + 1 pi_c <-- 1 hisp_c + 1 h2o_c
+1 h_c + 1 4nph_c + 1 pi_c <-- 1 h2o_c + 1 MNXM3867_c
+1 b2coa_c + 1 h2o_c <==> 1 3hbcoa_c
+1 2dh3dgal_c + 1 h2o_c <-- 1 galctn__D_c
+1 ppi_c + 1 dpcoa_c <==> 1 h_c + 1 pan4p_c + 1 atp_c
+1 MNXM1263_c <==> 1 h2o_c + 1 pp2coa_c
+1 MNXM3219_c <==> 1 pp2coa_c + 1 nh4_c
+1 alac__S_c + 1 thmpp_c <==> 1 2ahethmpp_c + 1 pyr_c
+1 alac__S_c + 1 h_c + 1 nadph_c <==> 1 23dhmb_c + 1 nadp_c
+1 alac__S_c <==> 1 3hmoa_c
+1 3uib_c + 1 h_c <-- 1 h2o_c + 1 56dthm_c
+1 coa_c + 1 MNXM4520_c <==> 1 accoa_c + 1 cm_c
+1 h2o_c + 1 dhpt_c <==> 1 4abz_c + 1 6hmhpt_c
+1 6hmhptpp_c + 1 4abz_c --> 1 ppi_c + 1 dhpt_c
+1 2dda7p_c --> 1 3dhq_c + 1 pi_c
+1 h2o_c + 1 3dhsk_c <-- 1 3dhq_c
+1 iad_c + 1 h2o_c --> 1 ind3ac_c + 1 nh4_c
+1 nadh_c + 1 mercppyr_c + 1 h_c <==> 1 mercplac_c + 1 nad_c
+1 hso3_c + 1 mercppyr_c + 1 h_c <==> 1 pyr_c + 1 tsul_c
+1 mercppyr_c + 1 cyan_c <==> 1 pyr_c + 1 tcynt_c
+1 MNXM1263_c + 1 adp_c + 1 pi_c <==> 1 coa_c + 1 atp_c + 1 3hpp_c
+1 MNXM1263_c + 1 h2o_c <==> 1 coa_c + 1 h_c + 1 3hpp_c
+1 fuc1p__L_c + 1 h_c + 1 adp_c <==> 1 atp_c + 1 fuc__L_c
+1 h2o_c + 1 uppg3_c <==> 1 hmbil_c
+2 h2o_c + 2 2mb2coa_c <-- 1 o2_c + 2 2mbcoa_c
+1 h_c + 1 fad_c + 1 2mbcoa_c <-- 1 fadh2_c + 1 2mb2coa_c
+1 4gudbutn_c + 1 nh4_c <-- 1 4gudbd_c + 1 h2o_c
+1 dtbt_c + 3 h_c + 1 adp_c + 1 pi_c <-- 1 dann_c + 1 co2_c + 1 atp_c
+1 Nforglu_c + 1 h_c + 1 thf_c <==> 1 5fthf_c + 1 glu__L_c
+1 uaccg_c + 1 h_c + 1 nadph_c <==> 1 nadp_c + 1 uamr_c
+1 uama_c + 1 h_c + 1 adp_c + 1 pi_c <-- 1 ala__L_c + 1 atp_c + 1 uamr_c
+4 co2_c + 1 cpppg3_c <==> 4 h_c + 1 uppg3_c
+1 8aonn_c + 1 coa_c + 1 co2_c <-- 1 h_c + 1 ala__L_c + 1 pmcoa_c
+1 h_c + 1 ac_c + 1 MNXM7231_c <==> 1 cys__L_c + 1 achms_c
+2 co2_c + 2 h2o_c + 1 pppg9_c <==> 2 h_c + 1 cpppg3_c + 1 o2_c
+6 h2o_c + 2 ppp9_c <-- 2 pppg9_c + 3 o2_c
+1 2mahmp_c + 1 h_c + 1 4mpetz_c <==> 1 ppi_c + 1 thmmp_c
+1 dann_c + 1 amob_c <==> 1 8aonn_c + 1 amet_c
+1 tagdp__D_c + 1 h_c + 1 adp_c <==> 1 atp_c + 1 tag6p__D_c
+1 imacp_c + 1 glu__L_c <==> 1 hisp_c + 1 akg_c
+1 xu5p__L_c <==> 1 ru5p__L_c
+1 ara5p_c + 1 h2o_c + 1 pep_c --> 1 kdo8p_c + 1 pi_c
+1 akg_c + 1 4hglu_c <==> 1 4h2oglt_c + 1 glu__L_c
+1 co2_c + 1 pan4p_c <-- 1 h_c + 1 4ppcys_c
+1 lpam_c + 1 2ahethmpp_c <==> 1 thmpp_c + 1 adhlam_c
+1 3hbcoa__R_c <==> 1 3hbcoa_c
+1 1p3h5c_c + 1 fadh2_c <==> 1 fad_c + 1 4hpro_LT_c
+1 MNXM2813_c <==> 1 4hpro_LT_c
+1 13dpg_c + 1 atp_c <==> 1 cdpg_c + 1 adp_c + 1 pi_c
+1 CCbuttc_c + 1 h_c <==> 1 2c25dho_c
+1 glu5p_c + 1 h_c + 1 nadph_c --> 1 glu5sa_c + 1 nadp_c + 1 pi_c
+1 1pyr5c_c + 1 h_c + 1 h2o_c <-- 1 glu5sa_c
+1 lpam_c + 1 MNXM3480_c <==> 1 thmpp_c + 1 sdhlam_c
+1 g6p_B_c <==> 1 f6p_c
+1 MNXM447_c <==> 1 MNXM60402_c
+1 nicrns_c + 1 pi_c <-- 1 nicrnt_c + 1 h2o_c
+1 ppi_c + 1 co2_c + 1 nicrnt_c <-- 2 h_c + 1 quln_c + 1 prpp_c
+1 kdo8p_c + 1 h2o_c --> 1 kdo_c + 1 pi_c
+1 ppi_c + 1 ckdo_c <-- 1 ctp_c + 1 kdo_c
+1 MNXM1034_c + 1 h2o_c <==> 1 coa_c + 1 h_c + 1 3hmp_c
+1 gal_bD_c + 1 MNXM2004_c <==> 1 MNXM269_c + 1 h2o_c
+1 h2o_c + 1 minohp_c <==> 1 mi12356p_c + 1 pi_c
+1 ppi_c + 1 MNXM3941_c <==> 1 MNXM1491_c + 1 h_c + 1 ctp_c
+1 2dh3dgal_c + 1 atp_c <==> 1 h_c + 1 adp_c + 1 2dh3dgal6p_c
+1 h_c + 1 MNXM624_c + 1 adp_c <==> 1 MNXM200_c + 1 atp_c
+1 acg5sa_c + 1 nadp_c + 1 pi_c <-- 1 acg5p_c + 1 h_c + 1 nadph_c
+1 eig3p_c --> 1 imacp_c + 1 h2o_c
+1 5aprbu_c + 1 nadp_c <==> 1 5apru_c + 1 h_c + 1 nadph_c
+1 5apru_c + 1 nh4_c <-- 1 h_c + 1 h2o_c + 1 25drapp_c
+1 skm5p_c + 1 pep_c <==> 1 3psme_c + 1 pi_c
+1 co2_c + 1 5odhf2a_c <-- 1 2c25dho_c + 1 h_c
+1 6hmhptpp_c + 1 amp_c + 1 h_c <==> 1 atp_c + 1 6hmhpt_c
+1 gcald_c + 1 6hmhpt_c <==> 1 dhnpt_c
+1 co2_c + 1 h2o_c + 1 3ig3p_c <-- 1 2cpr5p_c + 1 h_c
+1 2cpr5p_c <==> 1 pran_c
+1 h_c + 1 MNXM4753_c + 1 adp_c <==> 1 atp_c + 1 MNXM4871_c
+1 h2o_c + 1 MNXM3629_c <==> 1 MNXM4630_c
+1 h2o_c + 1 MNXM4285_c <==> 1 MNXM4636_c
+1 coa_c + 1 3odcoa_c <==> 1 accoa_c + 1 occoa_c
+1 nadh_c + 1 h_c + 1 MNXM764_c <==> 1 MNXM1698_c + 1 nad_c
+2 ppi_c + 1 MNXM4474_c <==> 2 dmpp_c + 1 MNXM4473_c
+1 h2o_c + 1 maltttr_c <==> 1 MNXM5664_c + 1 MNXM7043_c
+1 maltpt_c + 1 h2o_c <==> 1 maltttr_c + 1 MNXM7043_c
+1 nadh_c + 2 h_c + 1 scl_c <-- 1 dscl_c + 1 nad_c
+1 2ippm_c + 1 h2o_c <==> 1 3c3hmp_c
+1 MNXM1014_c + 1 glu__L_c <==> 1 MNXM11629_c + 1 h2o_c
+1 MNXM1014_c + 1 h_c + 1 glu__L_c --> 1 co2_c + 1 h2o_c + 1 MNXM8633_c
+1 MNXM1183_c + 1 gly_c <==> 1 gdchola_c + 1 h2o_c
+1 MNXM1183_c + 1 taur_c <==> 1 tdchola_c + 1 h2o_c
+1 coa_c + 1 3ohdcoa_c <==> 1 accoa_c + 1 tdcoa_c
+1 2ippm_c + 1 h2o_c <==> 1 3c2hmp_c
+1 amet_c + 1 MNXM1988_c <==> 1 MNXM1920_c + 1 ahcys_c + 1 h_c
+1 MNXM147517_c + 1 h2o_c <==> 1 acnam_c + 1 MNXM545_c
+1 sbzcoa_c + 1 ppi_c + 1 amp_c <-- 1 sucbz_c + 1 coa_c + 1 atp_c
+1 ppi_c + 1 prbamp_c + 1 h_c <-- 1 prbatp_c + 1 h2o_c
+1 prfp_c <==> 1 prbamp_c + 1 h2o_c
+1 nadh_c + 1 h_c + 1 3ddgc_c <==> 1 2dglcn_c + 1 nad_c
+1 nadh_c + 1 im4ac_c + 2 h_c <-- 1 im4act_c + 1 h2o_c + 1 nad_c
+1 h_c + 1 fad_c + 1 ivcoa_c <-- 1 3mb2coa_c + 1 fadh2_c
+1 h_c + 1 3mgcoa_c + 1 adp_c + 1 pi_c <==> 1 3mb2coa_c + 1 atp_c + 1 hco3_c
+1 h_c + 1 gar_c + 1 adp_c + 1 pi_c <-- 1 gly_c + 1 atp_c + 1 pram_c
+1 5prdmbz_c + 1 h_c + 1 nac_c <==> 1 dmbzid_c + 1 nicrnt_c
+1 sbzcoa_c --> 1 coa_c + 1 dhna_c
+1 h2o_c + 1 dd2coa_c <==> 1 3hddcoa_c
+1 akg_c + 1 pser__L_c <==> 1 3php_c + 1 glu__L_c
+1 h2o_c + 1 1pipdn2c_c <-- 1 6a2ohxnt_c
+1 3aib_c + 1 pyr_c <==> 1 ala__L_c + 1 mmsa_c
+1 nadh_c + 1 h_c + 1 2maacoa_c <==> 1 3hmbcoa_c + 1 nad_c
+1 h2o_c + 1 2mb2coa_c <==> 1 3hmbcoa_c
+1 air_c + 1 adp_c + 1 pi_c <==> 1 atp_c + 1 fpram_c
+1 co2_c + 1 air_c <-- 1 h_c + 1 5aizc_c
+1 sucorn_c + 1 akg_c <==> 1 sucgsa_c + 1 glu__L_c
+1 h2o_c + 1 2mp2coa_c <==> 1 3hibutcoa_c
+1 2ameph_c + 1 h2o2_c <==> 1 h_c + 1 etha_c + 1 pi_c
+1 cmusa_c --> 1 h_c + 1 h2o_c + 1 quln_c
+1 h2o_c + 1 MNXM4818_c <==> 1 MNXM4819_c + 1 pi_c
+1 h_c + 1 fgam_c + 1 thf_c <==> 1 10fthf_c + 1 gar_c
+2 h_c + 1 fgam_c + 1 thf_c <==> 1 h2o_c + 1 gar_c + 1 methf_c
+1 MNXM1873_c --> 1 h_c + 1 h2o_c + 1 thdp_c
+1 nadh_c + 2 h_c + 1 MNXM2480_c <==> 1 MNXM2566_c + 1 nad_c
+2 h_c + 1 MNXM2480_c + 1 nadph_c <==> 1 MNXM2566_c + 1 nadp_c
+1 coa_c + 1 sl2a6o_c --> 1 h2o_c + 1 thdp_c + 1 succoa_c
+1 mi34p_c + 1 h2o_c <==> 1 mi3p__D_c + 1 pi_c
+1 h_c + 1 MNXM4675_c + 1 adp_c <==> 1 atp_c + 1 MNXM4606_c
+1 MNXM123_c + 1 5mthglu_c <==> 1 hpglu_c + 1 met__L_c
+1 5mdr1p_c <==> 1 5mdru1p_c
+1 2mcacn_c + 1 h2o_c <==> 1 2mcit_c
+1 micit_c <==> 1 2mcacn_c + 1 h2o_c
+1 nadh_c + 1 3c4mop_c + 1 h_c <==> 1 3c2hmp_c + 1 nad_c
+1 amet_c + 1 zymst_c <==> 1 fecost_c + 1 ahcys_c + 1 h_c
+1 23dhmb_c + 1 nadp_c <==> 1 3hmoa_c + 1 h_c + 1 nadph_c
+1 dmlz_c + 1 h_c + 2 h2o_c + 1 pi_c <==> 1 db4p_c + 1 4r5au_c
+2 h_c + 1 fpram_c + 1 adp_c + 1 glu__L_c + 1 pi_c <-- 1 h2o_c + 1 gln__L_c + 1 atp_c + 1 fgam_c
+1 sl26da_c + 1 akg_c <==> 1 sl2a6o_c + 1 glu__L_c
+1 gly_c + 1 MNXM57907_c <==> 1 h2o_c + 1 MNXM8677_c
+1 taur_c + 1 MNXM57907_c <==> 1 h2o_c + 1 MNXM9132_c
+1 2mahmp_c + 1 adp_c <==> 1 atp_c + 1 4ampm_c
+1 udp_c + 2 h_c + 1 MNXM5582_c <==> 1 MNXM2794_c + 1 MNXM5324_c
+1 u23ga_c + 1 h2o_c --> 1 lipidX_HP_c + 2 h_c + 1 ump_c
+1 prlp_c + 1 gln__L_c --> 1 eig3p_c + 1 h_c + 1 aicar_c + 1 glu__L_c
+1 aicar_c + 1 fum_c <==> 1 25aics_c
+1 10fthf_c + 1 aicar_c <==> 1 fprica_c + 1 thf_c
+1 MNXM2436_c <==> 1 MNXM3236_c
+1 u3hga_c + 1 ac_c <==> 1 u3aga_c + 1 h2o_c
+2 h_c + 1 25aics_c + 1 adp_c + 1 pi_c <-- 1 atp_c + 1 asp__L_c + 1 5aizc_c
+1 5prdmbz_c + 1 h2o_c --> 1 rdmbzi_c + 1 pi_c
+1 u23ga_c + 1 lipidX_HP_c <==> 1 lipidAds_c + 1 udp_c + 1 h_c
+1 ugmd_c + 1 atp_c + 1 alaala_c --> 1 ugmda_c + 1 h_c + 1 adp_c + 1 pi_c
+2 h_c + 1 dhnpt_c + 3 pi_c <-- 3 h2o_c + 1 ahdt_c
+1 h2o_c + 1 ahdt_c <-- 1 MNXM4269_c
+1 prfp_c <==> 1 prlp_c
+1 lipidAds_c + 1 atp_c <==> 1 lipidA_c + 1 h_c + 1 adp_c
+1 kdolipid4_c + 1 h_c + 1 cmp_c <==> 1 lipidA_c + 1 ckdo_c
+1 cmp_nate_c + 1 MNXM2140_c <==> 1 h_c + 1 MNXM2348_c + 1 cmp_c
+1 2ahbut_c + 1 thmpp_c <==> 1 2obut_c + 1 2ahethmpp_c
+1 h2o_c + 1 dhbpt_c <==> 1 MNXM380_c
+1 nadh_c + 1 h_c + 1 3ohdcoa_c <==> 1 3hhdcoa_c + 1 nad_c
+1 h2o_c + 1 hdd2coa_c <==> 1 3hhdcoa_c
+1 h2o_c + 1 td2coa_c <==> 1 3htdcoa_c
+1 nadh_c + 1 h_c + 1 3oddcoa_c <==> 1 3hddcoa_c + 1 nad_c
+1 coa_c + 1 3oddcoa_c <==> 1 accoa_c + 1 dcacoa_c
+1 nadh_c + 1 h_c + 1 3odcoa_c <==> 1 3hdcoa_c + 1 nad_c
+1 h2o_c + 1 dc2coa_c <==> 1 3hdcoa_c
+1 nadh_c + 1 h_c + 1 3oocoa_c <==> 1 3hocoa_c + 1 nad_c
+1 h2o_c + 1 oc2coa_c <==> 1 3hocoa_c
+1 coa_c + 1 3oocoa_c <==> 1 accoa_c + 1 hxcoa_c
+1 nadh_c + 1 h_c + 1 3ohcoa_c <==> 1 3hhcoa_c + 1 nad_c
+1 glc_bD_c + 1 MNXM4339_c <==> 1 h2o_c + 1 MNXM36578_c
+1 nadh_c + 1 xol7ah2al_c + 1 h_c <==> 1 xol7ah3_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM3173_c <==> 1 thcholoylcoa_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 cholcoaone_c <==> 1 MNXM827_c + 1 nad_c
+1 co2_c + 1 MNXM4389_c + 1 nh4_c <==> 2 h_c + 1 h2o_c + 1 MNXM4401_c
+1 nadh_c + 1 34dhmald_c + 1 h_c <==> 1 34dhoxpeg_c + 1 nad_c
+1 co2_c + 1 5hxkynam_c <==> 1 h_c + 1 5hxkyn_c
+1 nadh_c + 2 h_c + 1 MNXM5008_c <==> 1 h2o_c + 1 MNXM4381_c + 1 nad_c
+2 h_c + 1 MNXM5008_c + 1 nadph_c <==> 1 h2o_c + 1 MNXM4381_c + 1 nadp_c
+1 selcyst_c + 1 h2o_c <==> 1 selhcys_c + 1 ser__L_c
+1 uppg1_c + 4 h_c <==> 1 cpppg1_c + 4 co2_c
+1 co2_c + 1 2oph_c <-- 1 h_c + 1 3ophb_c
+1 2ohph_c + 1 h2o_c + 1 nadp_c <-- 1 2oph_c + 1 h_c + 1 o2_c + 1 nadph_c
+1 2ohph_c + 1 amet_c --> 1 2omph_c + 1 ahcys_c + 1 h_c
+1 amet_c + 1 2ombz_c --> 1 ahcys_c + 1 h_c + 1 2ommb_c
+1 h2o_c + 1 bdg2hc_c <==> 1 2coum_c + 1 MNXM7043_c
+1 h_c + 1 adp_c + 1 uaaAgtla_c + 1 pi_c <-- 1 atp_c + 1 nh4_c + 1 uaaAgla_c
+1 uaaGgla_c + 1 atp_c + 1 nh4_c --> 1 h_c + 1 uaaGgtla_c + 1 adp_c + 1 pi_c
+1 uaagmda_c + 1 udp_c + 1 h_c <==> 1 uagmda_c + 1 uacgam_c
+1 uaagmda_c + 1 atp_c + 1 nh4_c --> 1 h_c + 1 adp_c + 1 uaagtmda_c + 1 pi_c
+1 h_c + 1 MNXM2773_c + 1 for_c <==> 1 h2o_c + 1 MNXM53766_c
+1 MNXM2773_c <==> 1 MNXM4269_c
+1 coa_c + 1 h_c + 1 3hmp_c <-- 1 h2o_c + 1 3hibutcoa_c
+1 3hmop_c + 1 h_c + 1 nadph_c <==> 1 23dhmp_c + 1 nadp_c
+1 2ahbut_c <==> 1 3hmop_c
+1 MNXM114147_c + 1 h2o_c <-- 1 23dhmp_c
+1 kdolipid4_c + 1 ckdo_c <==> 1 h_c + 1 cmp_c + 1 kdo2lipid4_c
+1 mescoa_c + 1 h2o_c <==> 1 MNXM5993_c
+1 ohpb_c + 1 glu__L_c <==> 1 akg_c + 1 phthr_c
+1 4hthr_c + 1 pi_c <-- 1 h2o_c + 1 phthr_c
+1 gal_bD_c + 1 MNXM63441_c <==> 1 MNXM2977_c + 1 h2o_c
+1 cmp_nate_c + 1 MNXM5618_c <==> 1 h_c + 1 cmp_c + 1 MNXM3909_c
+1 acnam_c + 1 MNXM2348_c <==> 1 h2o_c + 1 MNXM3909_c
+2 h_c + 1 MNXM2348_c + 1 h2o_c <==> 1 acnam_c + 1 MNXM44096_c
+1 malthp_c + 1 h2o_c <==> 1 MNXM46033_c + 1 MNXM7043_c
+1 maltpt_c + 1 MNXM7043_c <==> 1 h2o_c + 1 MNXM46033_c
+1 adphep_DD_c --> 1 adphep_LD_c
+1 hgbyr_c <==> 1 pre8_c + 2 h_c
+1 h_c + 1 atp_c + 1 co1dam_c <==> 1 pppi_c + 1 adcobdam_c
+1 h_c + 1 adp_c + 1 adocbip_c <==> 1 atp_c + 1 adocbi_c
+1 agdpcbi_c + 1 ppi_c <==> 1 h_c + 1 gtp_c + 1 adocbip_c
+1 agdpcbi_c + 1 rdmbzi_c <==> 1 gmp_c + 1 h_c + 1 adocbl_c
+4 h_c + 4 adp_c + 1 adcobhex_c + 4 glu__L_c + 4 pi_c <==> 4 h2o_c + 4 gln__L_c + 4 atp_c + 1 adcobdam_c
+1 nadh_c + 1 MNXM1854_c + 1 h_c <==> 1 fald_c + 1 MNXM590_c + 1 nad_c
+1 hso3_c + 1 co2_c + 1 h_c + 1 aacald_c + 1 succ_c <-- 1 akg_c + 1 taur_c + 1 o2_c
+1 coa_c + 1 h_c + 1 acgam1p_c <-- 1 accoa_c + 1 gam1p_c
+1 MNXM1659_c <==> 1 f6p_c
+1 MNXM1937_c + 1 h_c + 1 pi_c <==> 1 g3p_c + 1 arg__L_c
+1 acryl_c + 1 nh4_c <-- 1 h2o_c + 1 aa_c
+1 4adcho_c --> 1 h_c + 1 pyr_c + 1 4abz_c
+1 h2o_c + 1 udg_c <==> 1 urdglyc_c + 1 nh4_c
+1 ppi_c + 1 ttc_ggdp_c <-- 1 frdp_c + 1 ipdp_c
+1 urea_c + 1 co2_c + 1 nh4_c <==> 1 MNXM1545_c + 1 h_c + 1 h2o_c
+1 allphn_c + 1 nh4_c <==> 1 MNXM1545_c + 1 h2o_c
+1 nadh_c + 1 h_c + 1 MNXM5635_c <==> 1 hmpscoa_c + 1 nad_c
+1 bz_c + 1 nh4_c <-- 1 h2o_c + 1 MNXM5065_c
+1 h_c + 1 pmcoa_c <==> 1 h2o_c + 1 MNXM5488_c
+1 h_c + 1 3hpimcoa_c <==> 1 h2o_c + 1 MNXM6723_c
+1 g3p_c + 1 pyr_c <==> 1 2ddg6p_c
+1 nadh_c + 1 h_c + 1 f6p_c <==> 1 sbt6p_c + 1 nad_c
+1 galct__D_c --> 1 h2o_c + 1 5dh4dglc_c
+1 hexdp_c + 1 ipdp_c --> 1 ppi_c + 1 hepdp_c
+1 hexdp_c + 1 ppi_c <-- 1 pendp_c + 1 ipdp_c
+1 ppi_c + 1 h_c + 1 3ophb_c <-- 1 4hbz_c + 1 MNXM53112_c
+1 h_c + 1 udcpp_c + 1 pi_c <-- 1 h2o_c + 1 MNXM326_c
+1 uaGgla_c + 1 ump_c <==> 1 udcpp_c + 1 uAgla_c
+1 ugmda_c + 1 udcpp_c <==> 1 uagmda_c + 1 ump_c
+1 nadh_c + 1 MNXM1129_c + 2 h_c + 1 o2_c --> 1 co2_c + 1 h2o_c + 1 MNXM842_c + 1 nad_c
+1 ppi_c + 1 4c2me_c <==> 1 2me4p_c + 1 h_c + 1 ctp_c
+1 2p4c2me_c + 1 h_c + 1 adp_c <==> 1 4c2me_c + 1 atp_c
+1 co2_c + 1 dxyl5p_c <-- 1 h_c + 1 g3p_c + 1 pyr_c
+1 2mecdp_c + 1 cmp_c <==> 1 2p4c2me_c
+1 nadh_c + 1 MNXM1245_c + 2 h_c <==> 1 MNXM1883_c + 1 h2o_c + 1 nad_c
+1 ppi_c + 1 adphep_DD_c <-- 1 gmhep1p_c + 1 h_c + 1 atp_c
+1 gmhep7p_c <-- 1 s7p_c
+1 gmhep7p_c + 1 atp_c --> 1 MNXM1736_c + 1 h_c + 1 adp_c
+1 gmhep1p_c + 1 pi_c <-- 1 MNXM1736_c + 1 h2o_c
+1 nadh_c + 1 MNXM1129_c + 2 h_c <==> 1 h2o_c + 1 MNXM6614_c + 1 nad_c
+1 hso3_c + 1 h_c + 1 actp_c <==> 1 2saa_c + 1 pi_c
+1 uaaGgla_c + 1 udp_c + 1 h_c <==> 1 uaGgla_c + 1 uacgam_c
+1 nadh_c + 1 MNXM1979_c + 1 h_c <==> 1 phthr_c + 1 nad_c
+1 2me4p_c + 1 nadp_c <==> 1 h_c + 1 dxyl5p_c + 1 nadph_c
+1 nadh_c + 2 h_c + 1 fer_c <==> 1 h2o_c + 1 conialdh_c + 1 nad_c
+2 h_c + 1 fer_c + 1 nadph_c <==> 1 h2o_c + 1 nadp_c + 1 conialdh_c
+1 nadh_c + 1 fmn_c + 2 h_c --> 1 fmnh2_c + 1 nad_c
+1 amp_c + 1 h_c + 1 fdp_c <==> 1 adp_c + 1 f6p_c
+1 h_c + 1 copre8_c <==> 1 cobn_c
+1 gchola_c + 1 h2o_c <==> 1 gly_c + 1 cholate_c
+1 MNXM1213_c + 1 dxyl5p_c --> 1 h_c + 2 h2o_c + 1 pdx5p_c + 1 pi_c
+1 h_c + 1 h2mb4p_c + 1 nadph_c --> 1 h2o_c + 1 nadp_c + 1 ipdp_c
+1 5hiu_c + 1 h2o_c --> 1 MNXM114184_c + 1 co2_c
+1 5hiu_c + 1 h2o_c --> 1 co2_c + 1 alltn_c
+1 h2o_c + 1 MNXM5555_c + 1 nadp_c <-- 1 o2_c + 1 nadph_c + 1 2ommb_c
+1 nadh_c + 2 h_c + 1 MNXM6214_c <==> 1 h2o_c + 1 MNXM3397_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 MNXM6454_c <==> 1 MNXM13081_c + 1 h2o_c + 1 nad_c
+1 coa_c + 1 h_c + 1 MNXM36570_c <==> 1 h2o_c + 1 MNXM6818_c
+1 h_c + 1 gdp_c + 1 adocbip_c <==> 1 gtp_c + 1 adocbi_c
+1 5hiu_c + 1 h2o_c --> 1 5houdic_c + 1 h_c
+1 MNXM114184_c + 1 co2_c <-- 1 5houdic_c + 1 h_c
+1 nadh_c + 1 h_c + 1 dhpppn_c <==> 1 cechddd_c + 1 nad_c
+1 nadh_c + 1 dhcinnm_c + 1 h_c <==> 1 cenchddd_c + 1 nad_c
+1 h_c + 1 MNXM2404_c + 1 nadph_c --> 1 MNXM2405_c + 1 nadp_c + 1 pi_c
+1 phllqne_c + 1 ahcys_c + 1 h_c <-- 1 amet_c + 1 dmtphllqne_c
+1 nadh_c + 2 h_c + 1 MNXM6828_c <==> 1 h2o_c + 1 MNXM6827_c + 1 nad_c
+1 3mcat_c + 1 co2_c + 1 h2o_c + 1 nad_c <-- 1 nadh_c + 2 h_c + 1 o2_c + 1 MNXM6828_c
+1 nadh_c + 1 h_c + 1 MNXM6043_c <==> 1 MNXM6494_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 MNXM6044_c <==> 1 h2o_c + 1 MNXM6043_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM4972_c <==> 1 MNXM4910_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 MNXM4298_c <==> 1 h2o_c + 1 MNXM4972_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 MNXM6888_c <==> 1 h2o_c + 1 MNXM6887_c + 1 nad_c
+1 MNXM10202_c + 1 co2_c + 1 h2o_c + 1 nad_c <-- 1 nadh_c + 2 h_c + 1 o2_c + 1 MNXM6888_c
+1 nadh_c + 2 h_c + 1 o2_c + 1 MNXM6112_c --> 1 co2_c + 1 h2o_c + 1 nad_c + 1 4mcat_c
+1 nadh_c + 1 oxadpcoa_c + 1 h_c <==> 1 3hadpcoa_c + 1 nad_c
+1 neoxan_c <==> 1 vioxan_c
+1 MNXM2498_c <==> 1 MNXM2798_c
+1 h_c + 1 fgam_c + 1 adp_c + 1 pi_c <-- 1 for_c + 1 atp_c + 1 gar_c
+1 MNXM1051_c + 1 nad_c <==> 1 nadh_c + 1 h_c + 1 Sfglutth_c
+1 nadh_c + 1 h_c + 1 MNXM5666_c <==> 1 h2o_c + 1 MNXM3152_c + 1 nad_c
+1 MNXM1051_c + 1 nadp_c <==> 1 h_c + 1 nadph_c + 1 Sfglutth_c
+1 nadh_c + 1 mlthf_c + 1 h_c <==> 1 5mthf_c + 1 nad_c
+1 MNXM1025_c + 1 o2_c + 1 nadph_c <==> 1 MNXM2391_c + 1 h2o_c + 1 nadp_c
+1 MNXM380_c + 1 tyr__L_c <-- 1 o2_c + 1 thbpt_c + 1 phe__L_c
+1 dmpp_c + 1 h2o_c + 1 nadp_c <-- 1 h_c + 1 h2mb4p_c + 1 nadph_c
+1 amet_c + 1 uppg3_c <==> 1 ahcys_c + 1 h_c + 1 MNXM2152_c
+1 amet_c + 1 MNXM2152_c <==> 1 ahcys_c + 1 dscl_c
+1 cbp_c + 1 acorn_c --> 1 h_c + 1 MNXM3314_c + 1 pi_c
+1 sbzcoa_c + 1 h_c --> 1 MNXM2306_c + 1 h2o_c
+1 cbi_c + 1 h_c + 1 atp_c <==> 1 pppi_c + 1 adocbi_c
+1 ppi_c + 1 MNXM2847_c <==> 1 4hbz_c + 1 MNXM968_c
+1 5aprbu_c + 1 h2o_c --> 1 4r5au_c + 1 pi_c
+1 ru5p__D_c --> 1 h_c + 1 db4p_c + 1 for_c
+1 coa_c + 1 h_c + 1 cholate_c <==> 1 h2o_c + 1 cholcoa_c
+2 h_c + 1 4met2obut_c + 1 for_c <-- 1 12dmpo_c + 1 o2_c
+1 h2o_c + 1 2h3kmtp_c <-- 1 5mdru1p_c
+1 h2o_c + 1 2h3kmtp_c --> 1 12dmpo_c + 1 pi_c
+1 MNXM1213_c + 1 co2_c <-- 1 MNXM1979_c + 1 h_c
+1 nadh_c + 1 gg4abut_c + 2 h_c <-- 1 ggbutal_c + 1 h2o_c + 1 nad_c
+1 ggbutal_c + 1 h2o_c + 1 nadp_c --> 1 gg4abut_c + 2 h_c + 1 nadph_c
+1 nadh_c + 1 MNXM1120_c + 2 h_c <==> 1 MNXM2283_c + 1 h2o_c + 1 nad_c
+1 MNXM1120_c + 2 h_c + 1 nadph_c <==> 1 MNXM2283_c + 1 h2o_c + 1 nadp_c
+1 ru5p__D_c + 1 g3p_c + 1 gln__L_c --> 1 pydx5p_c + 1 h_c + 3 h2o_c + 1 glu__L_c + 1 pi_c
+1 h_c + 1 adp_c + 2 pi_c <==> 1 h2o_c + 1 atp_c + 1 pi_e
+1 h_c + 1 MNXM7043_c + 1 adp_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 MNXM7043_e
+1 h_c + 1 so4_c + 1 adp_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 so4_e
+1 ptrc_e + 1 h2o_c + 1 atp_c --> 1 ptrc_c + 1 h_c + 1 adp_c + 1 pi_c
+1 pro__L_e + 1 h2o_c + 1 atp_c --> 1 pro__L_c + 1 h_e + 1 adp_c + 1 pi_c
+1 malt_e + 1 h2o_c + 1 atp_c --> 1 malt_c + 1 h_c + 1 adp_c + 1 pi_c
+1 h_c + 1 taur_c + 1 adp_c + 1 pi_c <-- 1 taur_e + 1 h2o_c + 1 atp_c
+1 MNXM147495_e + 1 h2o_c + 1 atp_c --> 1 MNXM147495_c + 1 h_c + 1 adp_c + 1 pi_c
+1 spmd_e + 1 h2o_c + 1 atp_c --> 1 spmd_c + 1 h_c + 1 adp_c + 1 pi_c
+1 h_e + 1 tsul_c + 1 adp_c + 1 pi_c <-- 1 h2o_c + 1 tsul_e + 1 atp_c
+1 h_c + 1 glyb_c + 1 adp_c + 1 pi_c <-- 1 glyb_e + 1 h2o_c + 1 atp_c
+1 met__D_e + 1 h2o_c + 1 atp_c --> 1 met__D_c + 1 h_c + 1 adp_c + 1 pi_c
+1 fe3_e + 1 h2o_c + 1 atp_c --> 1 fe3_c + 1 h_c + 1 adp_c + 1 pi_c
+1 MNXM01_e + 1 cytd_e <==> 1 MNXM01_c + 1 cytd_c
+1 MNXM01_e + 1 uri_e <==> 1 MNXM01_c + 1 uri_c
+1 MNXM01_e + 1 thymd_e <==> 1 MNXM01_c + 1 thymd_c
+1 MNXM01_e + 1 hxan_e <==> 1 MNXM01_c + 1 hxan_c
+1 MNXM01_e + 1 dcyt_e <==> 1 MNXM01_c + 1 dcyt_c
+1 k_e <==> 1 k_c
+1 MNXM01_e + 1 na1_c <==> 1 MNXM01_c + 1 na1_e
+1 MNXM01_e + 1 cit_e <==> 1 MNXM01_c + 1 cit_c
+1 h_c + 1 met__L_c + 1 adp_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 met__L_e
+1 g6p_c + 1 pyr_c <==> 1 MNXM7043_e + 1 pep_c
+1 h_c + 1 5aizc_c + 1 adp_c + 1 pi_c <-- 1 air_c + 1 atp_c + 1 hco3_c
+1 trdox_c + 1 h2o_c + 1 dadp_c <-- 1 adp_c + 1 trdrd_c
+1 trdox_c + 1 h2o_c + 1 dgdp_c <-- 1 gdp_c + 1 trdrd_c
+1 hso3_c + 1 trdox_c + 2 h_c + 1 pap_c <-- 1 paps_c + 1 trdrd_c
+1 ppi_c + 1 amp_c + 1 MNXM5743_c <-- 1 coa_c + 1 h_c + 1 fa1_c + 1 atp_c
+1 ppi_c + 1 amp_c + 1 MNXM5745_c <-- 1 coa_c + 1 h_c + 1 atp_c + 1 fa4_c
+1 ppi_c + 1 amp_c + 1 MNXM5744_c <-- 1 coa_c + 1 h_c + 1 fa3_c + 1 atp_c
+1 ppi_c + 1 amp_c + 1 MNXM5746_c <-- 1 coa_c + 1 h_c + 1 fa6_c + 1 atp_c
+1 ppi_c + 1 amp_c + 1 MNXM5742_c <-- 1 coa_c + 1 h_c + 1 atp_c + 1 fa12_c
+1 ppi_c + 1 amp_c + 1 MNXM5741_c <-- 1 coa_c + 1 h_c + 1 fa11_c + 1 atp_c
+1 hso3_c + 1 trdox_c + 1 amp_c + 2 h_c <-- 1 aps_c + 1 trdrd_c
+1 nadh_c + 1 ppi_c + 1 co2_c + 1 h_c + 1 MNXM715_c --> 1 hepdp_c + 1 dhna_c + 1 nad_c
+1 ppi_c + 1 pendp_c <-- 1 ggdp_c + 1 ipdp_c
+1 trdox_c + 1 h_c + 1 nadph_c <==> 1 nadp_c + 1 trdrd_c
+1 nadh_c + 1 2mecdp_c --> 1 h2o_c + 1 h2mb4p_c + 1 nad_c
+1 MNXM01_e + 1 glu__L_e <==> 1 MNXM01_c + 1 glu__L_c
+1 na1_e + 1 glu__L_e <==> 1 na1_c + 1 glu__L_c
+1 MNXM01_e + 1 lys__L_c <==> 1 MNXM01_c + 1 lys__L_e
+1 MNXM01_e + 1 ser__L_e <==> 1 MNXM01_c + 1 ser__L_c
+1 MNXM01_e + 1 pi_e <-- 1 MNXM01_c + 1 pi_c
+1 MNXM01_e + 1 zn2_c + 1 k_e <==> 1 MNXM01_c + 1 zn2_e + 1 k_c
+1 MNXM01_e + 1 ins_e <==> 1 MNXM01_c + 1 ins_c
+1 MNXM01_e + 1 dad_2_e <==> 1 MNXM01_c + 1 dad_2_c
+1 MNXM01_e + 1 adn_e <==> 1 MNXM01_c + 1 adn_c
+1 h2o_e <-- 1 h2o_c
+1 3opalmACP_c + 1 nadph_c <==> 1 3hpalmACP_c + 1 nadp_c
+1 h_c + 1 3ohexACP_c + 1 nadph_c <==> 1 3hhexACP_c + 1 nadp_c
+1 h_c + 1 3odecACP_c + 1 nadph_c <==> 1 nadp_c + 1 3hdecACP_c
+1 actACP_c + 1 h_c + 1 nadph_c <==> 1 nadp_c + 1 3hbutACP_c
+1 h_c + 1 3oddecACP_c + 1 nadph_c <==> 1 3hddecACP_c + 1 nadp_c
+1 3hoctACP_c + 1 nadp_c <==> 1 h_c + 1 3ooctACP_c + 1 nadph_c
+1 3omrsACP_c + 1 nadph_c <==> 1 nadp_c + 1 3hmrsACP_c
+1 co2_c + 1 3odecACP_c + 1 ACP_c <-- 1 malACP_c + 1 ocACP_c
+1 co2_c + 1 3opalmACP_c + 1 ACP_c <-- 1 malACP_c + 1 myrsACP_c
+1 co2_c + 1 3omrsACP_c + 1 ACP_c <-- 1 malACP_c + 1 ddcaACP_c
+1 co2_c + 1 3ohexACP_c + 1 ACP_c <-- 1 malACP_c + 1 butACP_c
+1 actACP_c + 1 co2_c + 1 ACP_c <-- 1 acACP_c + 1 malACP_c
+1 co2_c + 1 3oddecACP_c + 1 ACP_c <-- 1 malACP_c + 1 dcaACP_c
+1 acACP_c + 1 coa_c <==> 1 accoa_c + 1 ACP_c
+1 co2_c + 1 3ooctACP_c + 1 ACP_c <-- 1 malACP_c + 1 hexACP_c
+2 h_c + 1 tmrs2eACP_c + 1 nadph_c --> 1 myrsACP_c + 1 nadp_c
+1 h_c + 1 toct2eACP_c + 1 nadph_c --> 1 ocACP_c + 1 nadp_c
+2 h_c + 1 but2eACP_c + 1 nadph_c --> 1 butACP_c + 1 nadp_c
+1 h_c + 1 tpalm2eACP_c + 1 nadph_c --> 1 MNXM25932_c + 1 nadp_c
+2 h_c + 1 tddec2eACP_c + 1 nadph_c --> 1 ddcaACP_c + 1 nadp_c
+1 h_c + 1 tdec2eACP_c + 1 nadph_c --> 1 dcaACP_c + 1 nadp_c
+1 h_c + 1 thex2eACP_c + 1 nadph_c --> 1 hexACP_c + 1 nadp_c
+1 coa_c + 1 h_c + 1 MNXM9860_c <==> 1 2mbcoa_c + 1 ACP_c
+1 MNXM10219_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM9860_c
+1 MNXM10217_c + 1 nadp_c <==> 1 MNXM10219_c + 1 h_c + 1 nadph_c
+1 MNXM10217_c --> 1 h2o_c + 1 MNXM8149_c
+1 h_c + 1 nadph_c + 1 MNXM8149_c --> 1 nadp_c + 1 MNXM8147_c
+1 MNXM10370_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM8147_c
+1 MNXM10368_c + 1 nadp_c <==> 1 MNXM10370_c + 1 h_c + 1 nadph_c
+1 MNXM10368_c --> 1 h2o_c + 1 MNXM8197_c
+1 h_c + 1 nadph_c + 1 MNXM8197_c --> 1 nadp_c + 1 MNXM8195_c
+1 MNXM10448_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM8195_c
+1 MNXM10446_c + 1 nadp_c <==> 1 MNXM10448_c + 1 h_c + 1 nadph_c
+1 MNXM10446_c --> 1 h2o_c + 1 MNXM8220_c
+1 h_c + 1 nadph_c + 1 MNXM8220_c --> 1 nadp_c + 1 MNXM8218_c
+1 co2_c + 1 ACP_c + 1 MNXM9655_c <-- 1 malACP_c + 1 MNXM8218_c
+1 h_c + 1 nadph_c + 1 MNXM9655_c <==> 1 nadp_c + 1 MNXM9653_c
+1 h2o_c + 1 MNXM8004_c <-- 1 MNXM9653_c
+1 h_c + 1 nadph_c + 1 MNXM8004_c --> 1 nadp_c + 1 MNXM8003_c
+1 co2_c + 1 ACP_c + 1 MNXM9684_c <-- 1 malACP_c + 1 MNXM8003_c
+1 h_c + 1 nadph_c + 1 MNXM9684_c <==> 1 nadp_c + 1 MNXM9682_c
+1 h2o_c + 1 MNXM8015_c <-- 1 MNXM9682_c
+1 h_c + 1 nadph_c + 1 MNXM8015_c --> 1 nadp_c + 1 MNXM6636_c
+1 co2_c + 1 ACP_c + 1 MNXM9700_c <-- 1 malACP_c + 1 MNXM6636_c
+1 h_c + 1 nadph_c + 1 MNXM9700_c <==> 1 nadp_c + 1 MNXM9698_c
+1 h2o_c + 1 MNXM8024_c <-- 1 MNXM9698_c
+1 h_c + 1 nadph_c + 1 MNXM8024_c --> 1 nadp_c + 1 MNXM8022_c
+1 MNXM11926_c + 1 coa_c + 2 h_c <==> 1 ivcoa_c + 1 ACP_c
+1 MNXM10327_c + 1 co2_c + 1 ACP_c <-- 1 MNXM11926_c + 1 malACP_c
+1 MNXM10326_c + 1 nadp_c <==> 1 MNXM10327_c + 1 h_c + 1 nadph_c
+1 MNXM10326_c --> 1 h2o_c + 1 MNXM8176_c
+1 h_c + 1 nadph_c + 1 MNXM8176_c --> 1 nadp_c + 1 MNXM8175_c
+1 MNXM10423_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM8175_c
+1 MNXM10422_c + 1 nadp_c <==> 1 MNXM10423_c + 1 h_c + 1 nadph_c
+1 MNXM10422_c --> 1 h2o_c + 1 MNXM8210_c
+1 h_c + 1 nadph_c + 1 MNXM8210_c --> 1 nadp_c + 1 MNXM8209_c
+1 MNXM10475_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM8209_c
+1 MNXM10474_c + 1 nadp_c <==> 1 MNXM10475_c + 1 h_c + 1 nadph_c
+1 MNXM10474_c --> 1 h2o_c + 1 MNXM8226_c
+1 h_c + 1 nadph_c + 1 MNXM8226_c --> 1 nadp_c + 1 MNXM8225_c
+1 co2_c + 1 ACP_c + 1 MNXM9671_c <-- 1 malACP_c + 1 MNXM8225_c
+1 h_c + 1 nadph_c + 1 MNXM9671_c <==> 1 nadp_c + 1 MNXM9670_c
+1 h2o_c + 1 MNXM8011_c <-- 1 MNXM9670_c
+1 h_c + 1 nadph_c + 1 MNXM8011_c --> 1 nadp_c + 1 MNXM8010_c
+1 co2_c + 1 ACP_c + 1 MNXM9695_c <-- 1 malACP_c + 1 MNXM8010_c
+1 h_c + 1 nadph_c + 1 MNXM9695_c <==> 1 nadp_c + 1 MNXM9694_c
+1 h2o_c + 1 MNXM8019_c <-- 1 MNXM9694_c
+1 h_c + 1 nadph_c + 1 MNXM8019_c --> 1 nadp_c + 1 MNXM6644_c
+1 co2_c + 1 ACP_c + 1 MNXM9707_c <-- 1 malACP_c + 1 MNXM6644_c
+1 h_c + 1 nadph_c + 1 MNXM9707_c <==> 1 nadp_c + 1 MNXM9706_c
+1 h2o_c + 1 MNXM8027_c <-- 1 MNXM9706_c
+1 h_c + 1 nadph_c + 1 MNXM8027_c --> 1 nadp_c + 1 MNXM8026_c
+1 MNXM11912_c + 1 coa_c + 2 h_c <==> 1 ibcoa_c + 1 ACP_c
+1 MNXM10220_c + 1 co2_c + 1 ACP_c <-- 1 MNXM11912_c + 1 malACP_c
+1 MNXM10218_c + 1 nadp_c <==> 1 MNXM10220_c + 1 h_c + 1 nadph_c
+1 h_c + 1 nadph_c + 1 MNXM8150_c --> 1 nadp_c + 1 MNXM8148_c
+1 MNXM10369_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM8148_c
+1 MNXM10367_c + 1 nadp_c <==> 1 MNXM10369_c + 1 h_c + 1 nadph_c
+1 h_c + 1 nadph_c + 1 MNXM8196_c --> 1 nadp_c + 1 MNXM8194_c
+1 MNXM10449_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM8194_c
+1 MNXM10447_c + 1 nadp_c <==> 1 MNXM10449_c + 1 h_c + 1 nadph_c
+1 h_c + 1 nadph_c + 1 MNXM8221_c --> 1 nadp_c + 1 MNXM8219_c
+1 co2_c + 1 ACP_c + 1 MNXM9656_c <-- 1 malACP_c + 1 MNXM8219_c
+1 h_c + 1 nadph_c + 1 MNXM9656_c <==> 1 nadp_c + 1 MNXM9654_c
+1 h_c + 1 nadph_c + 1 MNXM8005_c --> 1 nadp_c + 1 MNXM8006_c
+1 co2_c + 1 ACP_c + 1 MNXM9685_c <-- 1 malACP_c + 1 MNXM8006_c
+1 h_c + 1 nadph_c + 1 MNXM9685_c <==> 1 nadp_c + 1 MNXM9683_c
+1 h_c + 1 nadph_c + 1 MNXM8016_c --> 1 nadp_c + 1 MNXM6637_c
+1 co2_c + 1 ACP_c + 1 MNXM9701_c <-- 1 malACP_c + 1 MNXM6637_c
+1 h_c + 1 nadph_c + 1 MNXM9701_c <==> 1 nadp_c + 1 MNXM9699_c
+1 h_c + 1 nadph_c + 1 MNXM8025_c --> 1 nadp_c + 1 MNXM8023_c
+1 coa_c + 3 h_c + 1 MNXM6636_c <==> 1 MNXM5745_c + 1 ACP_c
+1 coa_c + 3 h_c + 1 MNXM8022_c <==> 1 MNXM5742_c + 1 ACP_c
+1 coa_c + 3 h_c + 1 MNXM6644_c <==> 1 MNXM5744_c + 1 ACP_c
+1 coa_c + 3 h_c + 1 MNXM8026_c <==> 1 MNXM5741_c + 1 ACP_c
+1 coa_c + 3 h_c + 1 MNXM6637_c <==> 1 MNXM5743_c + 1 ACP_c
+1 coa_c + 3 h_c + 1 MNXM8023_c <==> 1 MNXM5746_c + 1 ACP_c
+1 coa_c + 1 myrsACP_c <==> 1 tdcoa_c + 1 ACP_c
+1 coa_c + 1 h_c + 1 MNXM25932_c <==> 1 pmtcoa_c + 1 ACP_c
+1 coa_c + 1 h_c + 1 MNXM7607_c <==> 1 stcoa_c + 1 ACP_c
+1 MNXM10116_c + 1 co2_c + 1 ACP_c <-- 1 malACP_c + 1 MNXM25932_c
+1 MNXM10035_c + 1 nadp_c <==> 1 MNXM10116_c + 1 h_c + 1 nadph_c
+1 h_c + 1 nadph_c + 1 MNXM9168_c --> 1 nadp_c + 1 MNXM7607_c
+1 coa_c + 1 malACP_c <==> 1 h_c + 1 malcoa_c + 1 ACP_c
+1 nh4_e <==> 1 nh4_c
+1 co2_e <==> 1 co2_c
+1 o2_e <==> 1 o2_c
+1 MNXM2138_e + 1 pep_c <==> 1 pyr_c + 1 acgam6p_c
+1 MNXM01_e + 1 ala__D_e <==> 1 MNXM01_c + 1 ala__D_c
+1 pyr_c + 1 arbt6p_c <==> 1 arbt_e + 1 pep_c
+1 MNXM01_e + 1 ca2_c <-- 1 MNXM01_c + 1 ca2_e
+1 MNXM01_e + 1 cd2_c + 1 k_e <==> 1 MNXM01_c + 1 cd2_e + 1 k_c
+1 MNXM01_e + 1 etha_e <==> 1 MNXM01_c + 1 etha_c
+1 fe2_e + 1 h2o_c + 1 atp_c --> 1 fe2_c + 1 h_c + 1 adp_c + 1 pi_c
+1 fru_e + 1 pep_c <==> 1 pyr_c + 1 f1p_c
+1 MNXM01_e + 1 fum_e <==> 1 MNXM01_c + 1 fum_c
+1 galt_e + 1 h_c + 1 pep_c <==> 1 galt1p_c + 1 h_c + 1 pyr_c
+1 pyr_c + 1 gam6p_c <==> 1 gam_e + 1 pep_c
+1 MNXM01_e + 1 MNXM97018_e <==> 1 MNXM01_c + 1 MNXM97018_c
+1 glyc_e <==> 1 glyc_c
+1 MNXM01_e + 1 gly_e <==> 1 MNXM01_c + 1 gly_c
+1 malt_e + 1 pep_c <==> 1 malt6p_c + 1 pyr_c
+1 man_e + 1 pep_c <==> 1 pyr_c + 1 man6p_c
+1 h_c + 1 metsox_S__L_c + 1 adp_c + 1 pi_c <-- 1 metsox_S__L_e + 1 h2o_c + 1 atp_c
+1 h_c + 1 adp_c + 1 MNXM8825_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 MNXM8825_e
+1 mg2_e <==> 1 mg2_c
+1 pyr_c + 1 mnl1p_c <==> 1 mnl_e + 1 pep_c
+1 MNXM01_e + 1 mn2_e --> 1 MNXM01_c + 1 mn2_c
+1 MNXM01_e + 1 no2_e + 1 h_c <==> 1 MNXM01_c + 1 no2_c + 1 h_e
+1 MNXM01_e + 1 no3_e <==> 1 MNXM01_c + 1 no3_c
+1 MNXM01_e + 1 pro__L_e + 1 h_c <==> 1 MNXM01_c + 1 pro__L_c + 1 h_e
+1 pyr_c + 1 salc6p_c <==> 1 salcn_e + 1 pep_c
+1 MNXM01_e + 1 ser__D_e <==> 1 MNXM01_c + 1 ser__D_c
+1 MNXM01_e + 1 so4_e <==> 1 MNXM01_c + 1 so4_c
+1 MNXM01_e + 1 succ_e <==> 1 MNXM01_c + 1 succ_c
+1 suc6p_c + 1 pyr_c <==> 1 sucr_e + 1 pep_c
+1 MNXM01_e + 1 trp__L_e --> 1 MNXM01_c + 1 trp__L_c
+1 MNXM01_e + 1 MNXM146363_e <==> 1 MNXM01_c + 1 MNXM146363_c
+1 MNXM01_e + 1 MNXM149014_e <==> 1 MNXM01_c + 1 MNXM149014_c
+1 MNXM01_e + 1 2ddglcn_e <==> 1 MNXM01_c + 1 2ddglcn_c
+1 MNXM01_e + 1 h_e + 1 thmmp_e --> 1 MNXM01_c + 1 h_c + 1 thmmp_c
+1 nadh_c + 1 h_c + 1 hdd2coa_c --> 1 pmtcoa_c + 1 nad_c
+1 hso3_c + 1 trdox_c + 2 h_c + 1 ac_c + 1 cys__L_c <-- 1 tsul_c + 1 acser_c + 1 trdrd_c
+1 nadh_c + 2 h_c + 1 oxa_c <==> 1 h2o_c + 1 glx_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 gly_c <-- 1 aacald_c + 1 h2o_c + 1 nad_c
+1 ppi_c + 1 amp_c + 1 tdcoa_c <-- 1 coa_c + 1 ttdca_c + 1 atp_c
+1 nadh_c + 1 h_c + 1 MNXM265_c + 1 nh4_c <==> 1 h2o_c + 1 MNXM42008_c + 1 nad_c
+1 h_c + 1 MNXM265_c + 1 nadph_c + 1 nh4_c <==> 1 h2o_c + 1 MNXM42008_c + 1 nadp_c
+1 h_c + 1 atp_c + 1 MNXM80910_c <==> 1 adp_c + 1 MNXM90333_c
+1 coa_c + 1 h_c + 1 MNXM72_c <==> 1 h2o_c + 1 acoa_c
+1 nadh_c + 1 h_c + 1 MNXM277_c <==> 1 MNXM832_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM839_c <==> 1 MNXM1502_c + 1 nad_c
+1 h_c + 1 ser__L_c + 1 h2s_c <==> 1 h2o_c + 1 cys__L_c
+1 fdxr_2_2_c + 1 h_c + 1 nadp_c <==> 1 MNXM178_c + 1 nadph_c
+1 nadh_c + 1 h_c + 1 MNXM265_c + 1 nh4_c <==> 1 h2o_c + 1 MNXM381_c + 1 nad_c
+1 h2o_c + 1 MNXM5839_c <==> 1 MNXM381_c + 1 MNXM72_c
+1 coa_c + 1 apoACP_c --> 1 h_c + 1 pap_c + 1 ACP_c
+1 nadh_c + 1 3oacoa_c + 1 h_c <==> 1 3hacoa_c + 1 nad_c
+1 3oacoa_c + 1 h_c + 1 nadph_c <==> 1 MNXM2446_c + 1 nadp_c
+1 hso3_c + 1 gthox_c + 2 h_c + 1 h2s_c <==> 1 tsul_c + 2 MNXM57_c
+1 trdox_c + 1 h2o_c + 1 dudp_c <-- 1 udp_c + 1 trdrd_c
+1 trdox_c + 1 h2o_c + 1 dcdp_c <-- 1 cdp_c + 1 trdrd_c
+1 trdox_c + 1 h2o_c + 1 met__L_c <==> 1 metsox_S__L_c + 1 trdrd_c
+1 MNXM2285_c + 1 MNXM9525_c <==> 1 MNXM5935_c + 1 MNXM60402_c
+1 h_c + 1 MNXM2285_c + 1 MNXM72_c <==> 1 h2o_c + 1 MNXM5935_c
+1 h_c + 1 atp_c + 1 MNXM7713_c <==> 1 adp_c + 1 MNXM9056_c
+1 dhlam_c + 1 2mbcoa_c <==> 1 coa_c + 1 h_c + 1 MNXM5588_c
+1 co2_c + 1 alpro_c <-- 1 gly_c + 1 lpro_c
+1 MNXM145618_c + 1 h2o_c <==> 1 h_c + 1 acnam_c + 1 MNXM269_c
+1 trnagln_c + 1 MNXM7043_c <==> 1 h2o_c + 1 MNXM7243_c
+1 udp_c + 1 MNXM8658_c <==> 1 udpg_c + 1 MNXM93437_c
+1 h_c + 1 MNXM4567_c <==> 1 h2o_c + 1 MNXM4566_c
+1 nadh_c + 1 h_c + 1 lpro_c <==> 1 dhlpro_c + 1 nad_c
+1 coa_c + 1 3otdcoa_c <==> 1 accoa_c + 1 ddcacoa_c
+1 protds_c + 1 h_c + 1 nadph_c <==> 1 protdt_c + 1 nadp_c
+1 MNXM16872_c + 1 ncam_c <==> 1 h_c + 1 MNXM4769_c + 1 nad_c
+1 dhlam_c + 1 ivcoa_c <==> 1 coa_c + 1 3mbdhl_c
+1 glu1sa_c + 1 nadp_c + 1 trnaglu_c <==> 1 h_c + 1 nadph_c + 1 glutrna_c
+1 dhlpro_c + 1 mlthf_c + 1 nh4_c <-- 1 h_c + 1 thf_c + 1 alpro_c
+1 MNXM19734_c + 1 MNXM91319_c <==> 1 h2o_c + 1 MNXM7575_c
+1 MNXM17355_c + 1 MNXM96120_c <==> 1 MNXM5722_c + 1 MNXM5911_c
+1 h_c + 1 cbtnCCP_c + 1 adp_c + 1 pi_c <==> 1 atp_c + 1 hco3_c + 1 btnCCP_c
+1 accoa_c + 1 cbtnCCP_c --> 1 malcoa_c + 1 btnCCP_c
+1 udp_c + 1 h_c + 1 MNXM4549_c <==> 1 MNXM4550_c + 1 udpgal_c
+1 u23ga_c + 1 ACP_c <-- 1 u3hga_c + 1 3hmrsACP_c
+1 cmp_nate_c + 1 MNXM3907_c <==> 1 cmp_c + 1 MNXM4462_c
+1 h_c + 1 uacgam_c + 1 3hmrsACP_c --> 1 u3aga_c + 1 ACP_c
+1 ppi_c + 1 amp_c + 1 MNXM21243_c <==> 1 MNXM16121_c + 1 btn_c + 1 atp_c
+1 cmp_nate_c + 1 MNXM145618_c <==> 2 h_c + 1 cmp_c + 1 MNXM5051_c
+1 cmp_nate_c + 1 MNXM7555_c <==> 1 h_c + 1 cmp_c + 1 MNXM44103_c
+1 acnam_c + 1 MNXM63441_c <==> 1 h2o_c + 1 MNXM7555_c
+1 MNXM1225_c + 1 cmp_nate_c + 1 h_c <==> 1 cmp_c + 1 MNXM44096_c
+1 MNXM1225_c + 1 acnam_c <==> 1 MNXM2140_c + 1 h2o_c
+1 nadh_c + 1 h_c + 1 3otdcoa_c <==> 1 3htdcoa_c + 1 nad_c
+1 h2o_c + 1 MNXM7214_c <==> 1 MNXM3000_c + 1 MNXM7043_c
+1 kdo2lipid4L_c + 1 myrsACP_c --> 1 ACP_c + 1 lipa_c
+1 amp_c + 1 h_c + 1 btnCCP_c <==> 1 btamp_c + 1 MNXM96175_c
+1 kdo2lipid4L_c + 1 ACP_c <-- 1 ddcaACP_c + 1 kdo2lipid4_c
+1 ppi_c + 1 amp_c + 1 h_c + 1 glutrna_c <-- 1 atp_c + 1 glu__L_c + 1 trnaglu_c
+1 h2o_c + 1 MNXM94421_c <==> 1 MNXM72_c + 1 nh4_c
+1 MNXM126482_c + 1 h2o_c <==> 1 h_c + 1 MNXM93768_c
+1 h_c + 1 cmp_c + 1 MNXM3421_c <==> 1 cdpea_c + 1 ak2g_hs_c
+1 MNXM102_c + 1 pi_c <==> 1 MNXM209_c + 1 h2o_c
+1 MNXM1516_c + 1 h2o_c <==> 1 ethamp_c + 1 h_c + 1 MNXM3424_c
+1 MNXM1516_c + 1 h_c + 1 cmp_c <==> 1 MNXM3424_c + 1 cdpea_c
+1 cyart_c + 1 amet_c <==> 1 ahcys_c + 1 h_c + 1 menecyart_c
+1 co2_c + 1 2mhop_c <-- 1 h_c + 1 3mob_c + 1 thmpp_c
+1 lpam_c + 1 2mhop_c <==> 1 h_c + 1 thmpp_c + 1 MNXM5034_c
+1 co2_c + 1 3mhtpp_c <-- 1 h_c + 1 thmpp_c + 1 4mop_c
+1 lpam_c + 1 3mhtpp_c <==> 1 thmpp_c + 1 3mbdhl_c
+1 MNXM114147_c + 1 h_c + 1 thmpp_c --> 1 co2_c + 1 2mhob_c
+1 lpam_c + 1 2mhob_c <==> 1 h_c + 1 thmpp_c + 1 MNXM5588_c
+1 trdox_c + 1 h2o_c + 1 MNXM90860_c <==> 1 MNXM21320_c + 1 trdrd_c
+1 hso3_c + 1 h_c + 1 pyr_c <==> 1 MNXM4995_c
+1 MNXM2451_c <==> 1 MNXM2709_c + 1 h2o_c
+1 MNXM1136_c + 1 udp_c <==> 1 udpLa4fn_c + 1 udcpp_c
+2 h_c + 1 codscl5b_c + 1 acald_c <==> 1 h2o_c + 1 copre5_c
+1 coa_c + 1 MNXM93760_c <==> 1 4cmcoa_c + 1 MNXM91262_c
+1 MNXM11217_c + 1 coa_c <==> 1 4cmcoa_c + 1 MNXM90709_c
+1 MNXM11326_c + 1 coa_c <==> 1 4cmcoa_c + 1 MNXM3257_c
+1 nadh_c + 1 h_c + 1 MNXM5874_c <==> 1 MNXM5873_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM5870_c <==> 1 MNXM5869_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM5866_c <==> 1 MNXM5865_c + 1 nad_c
+1 MNXM12593_c + 1 coa_c <==> 1 caffcoa_c + 1 MNXM91262_c
+1 MNXM11215_c + 1 coa_c <==> 1 caffcoa_c + 1 MNXM90709_c
+1 coa_c + 1 MNXM5713_c <==> 1 MNXM3257_c + 1 caffcoa_c
+1 ppi_c + 1 MNXM3671_c <==> 1 dmpp_c + 1 atp_c
+1 ppi_c + 1 MNXM2845_c <==> 1 dmpp_c + 1 adp_c
+1 nadh_c + 2 h_c + 1 MNXM5766_c <==> 1 MNXM1558_c + 1 h2o_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 MNXM4528_c <==> 1 h2o_c + 1 MNXM5387_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM5558_c <==> 1 MNXM5522_c + 1 nad_c
+1 nadh_c + 2 h_c + 1 MNXM4528_c <==> 1 h2o_c + 1 MNXM6560_c + 1 nad_c
+1 h_c + 1 1ddecg3p_c + 1 ddcaACP_c --> 1 pa120_c + 1 ACP_c
+1 1tdecg3p_c + 1 myrsACP_c --> 1 pa140_c + 1 ACP_c
+1 tdeACP_c + 1 1tdec7eg3p_c --> 1 pa141_c + 1 ACP_c
+1 pa160_c + 1 ACP_c <-- 1 palmACP_c + 1 1hdecg3p_c
+1 h_c + 1 hdeACP_c + 1 1hdec9eg3p_c --> 1 pa161_c + 1 ACP_c
+2 h_c + 1 ocdcaACP_c + 1 1odecg3p_c --> 1 pa180_c + 1 ACP_c
+1 octeACP_c + 1 1odec11eg3p_c --> 1 pa181_c + 1 ACP_c
+1 nadh_c + 1 co2_c + 1 succoa_c <==> 1 coa_c + 1 akg_c + 1 nad_c
+1 malt_c + 1 malttr_c <==> 1 maltttr_c + 1 MNXM7043_c
+1 maltpt_c + 1 MNXM7043_c <==> 1 malt_c + 1 maltttr_c
+1 malthx_c + 1 MNXM7043_c <==> 1 maltpt_c + 1 malt_c
+1 malthx_c + 1 malt_c <==> 1 malthp_c + 1 MNXM7043_c
+1 dtbt_c + 1 amet_c + 1 s_c --> 1 h_c + 1 btn_c + 1 dad_5_c + 1 met__L_c
+1 ala__D_c + 1 h_c + 1 h2o_c + 1 fad_c <==> 1 pyr_c + 1 fadh2_c + 1 nh4_c
+1 MNXM147349_c + 1 atp_c <==> 1 adp_c + 1 pa120_c
+1 h_c + 1 pa140_c + 1 adp_c <==> 1 MNXM2902_c + 1 atp_c
+1 MNXM147350_c + 1 atp_c <==> 1 adp_c + 1 pa141_c
+1 pa160_c + 1 h_c + 1 adp_c <==> 1 12dgr160_c + 1 atp_c
+1 MNXM146746_c + 1 atp_c <==> 1 adp_c + 1 pa161_c
+1 MNXM146748_c + 1 atp_c <==> 1 h_c + 1 pa180_c + 1 adp_c
+1 MNXM146747_c + 1 atp_c <==> 1 adp_c + 1 pa181_c
+1 ppi_c + 1 cdpdddecg_c <==> 1 ctp_c + 1 pa120_c
+1 ppi_c + 1 cdpdtdecg_c <==> 1 h_c + 1 pa140_c + 1 ctp_c
+1 ppi_c + 1 cdpdtdec7eg_c <==> 1 ctp_c + 1 pa141_c
+1 ppi_c + 1 cdpdhdecg_c <==> 1 pa160_c + 1 h_c + 1 ctp_c
+1 ppi_c + 1 cdpdhdec9eg_c <==> 1 ctp_c + 1 pa161_c
+1 ppi_c + 1 cdpdodecg_c <==> 1 h_c + 1 pa180_c + 1 ctp_c
+1 ppi_c + 1 cdpdodec11eg_c <==> 1 ctp_c + 1 pa181_c
+1 ppi_c + 1 co2_c + 1 2dmmql8_c <-- 1 MNXM53112_c + 1 dhna_c
+1 q8h2_c + 1 orot_c <-- 1 q8_c + 1 dhor__S_c
+1 mql8_c + 1 orot_c <-- 1 dhor__S_c + 1 mqn8_c
+1 nadh_c + 1 h_c + 1 h2mb4p_c --> 1 dmpp_c + 1 h2o_c + 1 nad_c
+1 dca_c + 1 h_c + 1 ACP_c <==> 1 dcaACP_c + 1 h2o_c
+1 h_c + 1 octa_c + 1 ACP_c <==> 1 ocACP_c + 1 h2o_c
+1 coa_c + 1 h_c + 1 ocdca_c <==> 1 stcoa_c + 1 h2o_c
+1 nadh_c + 2 h_c + 1 ribflv_c <==> 1 rbflvrd_c + 1 nad_c
+1 mql8_c + 1 fum_c <==> 1 succ_c + 1 mqn8_c
+1 2dmmq8_c + 1 succ_c <==> 1 2dmmql8_c + 1 fum_c
+1 1ddecg3p_c + 1 ACP_c <-- 1 ddcaACP_c + 1 glyc3p_c
+1 1tdecg3p_c + 1 ACP_c <-- 1 myrsACP_c + 1 glyc3p_c
+1 tdeACP_c + 1 h_c + 1 glyc3p_c --> 1 1tdec7eg3p_c + 1 ACP_c
+3 h_c + 1 palmACP_c + 1 glyc3p_c --> 1 1hdecg3p_c + 1 ACP_c
+3 h_c + 1 hdeACP_c + 1 glyc3p_c --> 1 1hdec9eg3p_c + 1 ACP_c
+1 h_c + 1 ocdcaACP_c + 1 glyc3p_c --> 1 1odecg3p_c + 1 ACP_c
+1 h_c + 1 glyc3p_c + 1 octeACP_c --> 1 1odec11eg3p_c + 1 ACP_c
+1 q8h2_c + 1 dhap_c <-- 1 q8_c + 1 glyc3p_c
+1 mql8_c + 1 dhap_c <-- 1 mqn8_c + 1 glyc3p_c
+1 2dmmq8_c + 1 glyc3p_c --> 1 2dmmql8_c + 1 dhap_c
+1 udp_c + 1 h_c + 1 gagicolipa_c <-- 1 udpg_c + 1 gicolipa_c
+1 adpglc_c + 1 MNXM6281_c <==> 1 adp_c + 1 glycogen_c
+1 udp_c + 5 h_c + 1 gicolipa_c <-- 1 udpg_c + 1 MNXM92389_c
+1 udp_c + 1 h_c + 1 ggagicolipa_c <-- 1 udpg_c + 1 gagicolipa_c
+1 udp_c + 1 h_c + 1 gggagicolipa_c <-- 1 udpg_c + 1 ggagicolipa_c
+1 glyc__R_c + 1 atp_c <==> 1 h_c + 1 2pg_c + 1 adp_c
+1 h_c + 1 glyc3p_c + 1 glyc_c <==> 1 h2o_c + 1 g3pg_c
+1 mmet_c + 1 MNXM123_c <==> 1 h_c + 2 met__L_c
+1 h_c + 1 phhlipa_c + 1 adp_c <-- 1 hhlipa_c + 1 atp_c
+1 h_c + 1 phphhlipa_c + 1 adp_c <-- 1 atp_c + 1 hphhlipa_c
+1 h_c + 1 hlipa_c + 1 adp_c <-- 1 adphep_LD_c + 1 lipa_c
+1 h_c + 1 hhlipa_c + 1 adp_c <==> 1 hlipa_c + 1 adphep_LD_c
+1 h_c + 1 hphhlipa_c + 1 adp_c <-- 1 phhlipa_c + 1 adphep_LD_c
+1 h_c + 1 colipa_c + 1 adp_c <-- 1 gggagicolipa_c + 1 adphep_LD_c
+1 nadh_c + 1 h_c + 1 h2mb4p_c --> 1 h2o_c + 1 ipdp_c + 1 nad_c
+1 lac__L_c + 1 q8_c --> 1 q8h2_c + 1 pyr_c
+1 lac__L_c + 1 mqn8_c --> 1 mql8_c + 1 pyr_c
+1 h_c + 1 ddca_c + 1 glyc3p_c <==> 1 h2o_c + 1 1ddecg3p_c
+1 h_c + 1 ttdca_c + 1 glyc3p_c <==> 1 h2o_c + 1 1tdecg3p_c
+1 h_c + 1 glyc3p_c + 1 ttdcea_c <-- 1 h2o_c + 1 1tdec7eg3p_c
+1 hdca_c + 2 h_c + 1 glyc3p_c <==> 1 h2o_c + 1 1hdecg3p_c
+1 h_c + 1 MNXM56352_c + 1 glyc3p_c <==> 1 h2o_c + 1 1hdec9eg3p_c
+1 h_c + 1 ocdca_c + 1 glyc3p_c <==> 1 h2o_c + 1 1odecg3p_c
+1 h_c + 1 MNXM65309_c + 1 glyc3p_c <==> 1 h2o_c + 1 1odec11eg3p_c
+1 MNXM147670_c + 1 h2o_c <==> 1 h_c + 1 g3pe_c + 1 ddca_c
+1 h_c + 1 ttdca_c + 1 g3pe_c <==> 1 h2o_c + 1 MNXM6598_c
+1 MNXM147672_c + 1 h2o_c <==> 1 g3pe_c + 1 ttdcea_c
+1 hdca_c + 1 h_c + 1 g3pe_c <==> 1 h2o_c + 1 MNXM6600_c
+1 MNXM147671_c + 1 h2o_c <==> 1 g3pe_c + 1 MNXM56352_c
+1 MNXM114214_c + 1 h_c + 1 h2o_c --> 1 ocdca_c + 1 g3pe_c
+1 MNXM114214_c + 1 h2o_c <==> 1 g3pe_c + 1 MNXM65309_c
+1 MNXM147673_c + 1 h2o_c <==> 1 h_c + 1 ddca_c + 1 g3pg_c
+1 MNXM147678_c + 1 h2o_c <==> 1 h_c + 1 ttdca_c + 1 g3pg_c
+1 MNXM147677_c + 1 h2o_c <==> 1 g3pg_c + 1 ttdcea_c
+1 hdca_c + 1 h_c + 1 g3pg_c <==> 1 MNXM147675_c + 1 h2o_c
+1 MNXM147674_c + 1 h2o_c <==> 1 MNXM56352_c + 1 g3pg_c
+1 MNXM147676_c + 1 h2o_c <==> 1 h_c + 1 ocdca_c + 1 g3pg_c
+1 h2o_c + 1 MNXM6608_c <==> 1 g3pg_c + 1 MNXM65309_c
+2 h_c + 1 ddca_c + 1 glyc3p_c <==> 1 h2o_c + 1 2ddecg3p_c
+2 h_c + 1 ttdca_c + 1 glyc3p_c <==> 1 h2o_c + 1 2tdecg3p_c
+1 h_c + 1 glyc3p_c + 1 ttdcea_c <-- 1 h2o_c + 1 2tdec7eg3p_c
+1 hdca_c + 1 h_c + 1 glyc3p_c <==> 1 h2o_c + 1 2hdecg3p_c
+1 h_c + 1 MNXM56352_c + 1 glyc3p_c <==> 1 h2o_c + 1 2hdec9eg3p_c
+1 h_c + 1 ocdca_c + 1 glyc3p_c <==> 1 h2o_c + 1 2odecg3p_c
+1 h_c + 1 MNXM65309_c + 1 glyc3p_c <==> 1 h2o_c + 1 2odec11eg3p_c
+1 MNXM146494_c + 1 h2o_c <==> 1 h_c + 1 g3pe_c + 1 ddca_c
+1 h_c + 1 ttdca_c + 1 g3pe_c <==> 1 h2o_c + 1 MNXM3446_c
+1 MNXM146497_c + 1 h2o_c --> 1 g3pe_c + 1 ttdcea_c
+1 hdca_c + 1 h_c + 1 g3pe_c <==> 1 h2o_c + 1 2agpe160_c
+1 MNXM146495_c + 1 h2o_c <==> 1 g3pe_c + 1 MNXM56352_c
+1 h_c + 1 ocdca_c + 1 g3pe_c <==> 1 h2o_c + 1 2agpe180_c
+1 MNXM146496_c + 1 h2o_c <==> 1 g3pe_c + 1 MNXM65309_c
+1 MNXM146498_c + 1 h2o_c <==> 1 h_c + 1 ddca_c + 1 g3pg_c
+1 MNXM146503_c + 1 h2o_c <==> 1 h_c + 1 ttdca_c + 1 g3pg_c
+1 MNXM146502_c + 1 h2o_c --> 1 g3pg_c + 1 ttdcea_c
+1 hdca_c + 1 h_c + 1 g3pg_c <==> 1 MNXM146342_c + 1 h2o_c
+1 MNXM146499_c + 1 h2o_c <==> 1 MNXM56352_c + 1 g3pg_c
+1 MNXM146501_c + 1 h2o_c <==> 1 h_c + 1 ocdca_c + 1 g3pg_c
+1 MNXM146500_c + 1 h2o_c <==> 1 g3pg_c + 1 MNXM65309_c
+1 h_c + 1 cmp_c + 1 kphphhlipa_c <-- 1 ckdo_c + 1 phphhlipa_c
+1 nadh_c + 1 h_c + 1 mqn8_c --> 1 mql8_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 q8_c --> 1 q8h2_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 2dmmq8_c --> 1 2dmmql8_c + 1 nad_c
+1 cmp_c + 1 pgp120_c <==> 1 cdpdddecg_c + 1 glyc3p_c
+1 cmp_c + 1 MNXM91691_c <==> 1 cdpdtdecg_c + 1 glyc3p_c
+1 cmp_c + 1 MNXM91690_c <==> 1 cdpdtdec7eg_c + 1 glyc3p_c
+1 h_c + 1 cmp_c + 1 pgp160_c <==> 1 cdpdhdecg_c + 1 glyc3p_c
+1 h_c + 1 cmp_c + 1 pgp161_c <==> 1 cdpdhdec9eg_c + 1 glyc3p_c
+1 h_c + 1 cmp_c + 1 pgp180_c <==> 1 cdpdodecg_c + 1 glyc3p_c
+1 cmp_c + 1 pgp181_c <==> 1 cdpdodec11eg_c + 1 glyc3p_c
+1 h_c + 1 ddca_c + 1 2ddecg3p_c <==> 1 h2o_c + 1 pa120_c
+1 h2o_c + 1 pa140_c <==> 1 ttdca_c + 1 2tdecg3p_c
+1 h2o_c + 1 pa141_c --> 1 2tdec7eg3p_c + 1 ttdcea_c
+1 hdca_c + 1 h_c + 1 2hdecg3p_c <==> 1 pa160_c + 1 h2o_c
+1 h2o_c + 1 pa161_c <==> 1 2hdec9eg3p_c + 1 MNXM56352_c
+1 h_c + 1 ocdca_c + 1 2odecg3p_c <==> 1 h2o_c + 1 pa180_c
+1 h2o_c + 1 pa181_c <==> 1 2odec11eg3p_c + 1 MNXM65309_c
+1 MNXM146494_c + 1 h_c + 1 ddca_c <==> 1 h2o_c + 1 pe120_c
+1 h_c + 1 ttdca_c + 1 MNXM3446_c <==> 1 MNXM2859_c + 1 h2o_c
+1 MNXM146497_c + 1 ttdcea_c <-- 1 MNXM146608_c + 1 h2o_c
+1 hdca_c + 1 h_c + 1 2agpe160_c <==> 1 h2o_c + 1 pe160_c
+1 MNXM146495_c + 1 MNXM56352_c <==> 1 h2o_c + 1 pe161_c
+1 h_c + 1 ocdca_c + 1 2agpe180_c <==> 1 h2o_c + 1 pe180_c
+1 MNXM146496_c + 1 MNXM65309_c <==> 1 pe181_c + 1 h2o_c
+1 MNXM146498_c + 1 h_c + 1 ddca_c <==> 1 pg120_c + 1 h2o_c
+1 MNXM145672_c + 1 h2o_c <==> 1 MNXM146503_c + 1 h_c + 1 ttdca_c
+1 MNXM145918_c + 1 h2o_c --> 1 MNXM146502_c + 1 ttdcea_c
+1 hdca_c + 1 MNXM146342_c + 1 h_c <==> 1 h2o_c + 1 pg160_c
+1 MNXM146499_c + 1 MNXM56352_c <==> 1 h2o_c + 1 pg161_c
+1 MNXM146501_c + 1 h_c + 1 ocdca_c <==> 1 h2o_c + 1 pg180_c
+1 MNXM146500_c + 1 MNXM65309_c <==> 1 pg181_c + 1 h2o_c
+2 h_c + 1 ddca_c + 1 1ddecg3p_c <==> 1 h2o_c + 1 pa120_c
+1 h_c + 1 ttdca_c + 1 1tdecg3p_c <==> 1 h2o_c + 1 pa140_c
+1 h2o_c + 1 pa141_c --> 1 ttdcea_c + 1 1tdec7eg3p_c
+1 hdca_c + 1 1hdecg3p_c <==> 1 pa160_c + 1 h2o_c
+1 h2o_c + 1 pa161_c <==> 1 MNXM56352_c + 1 1hdec9eg3p_c
+1 h_c + 1 ocdca_c + 1 1odecg3p_c <==> 1 h2o_c + 1 pa180_c
+1 h2o_c + 1 pa181_c <==> 1 MNXM65309_c + 1 1odec11eg3p_c
+1 MNXM147670_c + 1 h_c + 1 ddca_c <==> 1 h2o_c + 1 pe120_c
+1 h_c + 1 ttdca_c + 1 MNXM6598_c <==> 1 MNXM2859_c + 1 h2o_c
+1 MNXM146608_c + 1 h2o_c --> 1 MNXM147672_c + 1 ttdcea_c
+1 hdca_c + 1 h_c + 1 MNXM6600_c <==> 1 h2o_c + 1 pe160_c
+1 MNXM147671_c + 1 MNXM56352_c <==> 1 h2o_c + 1 pe161_c
+1 MNXM114214_c + 3 h_c + 1 ocdca_c <==> 1 h2o_c + 1 pe180_c
+1 MNXM114214_c + 1 MNXM65309_c <==> 1 pe181_c + 1 h2o_c
+1 MNXM147673_c + 1 h_c + 1 ddca_c <==> 1 pg120_c + 1 h2o_c
+1 MNXM145672_c + 1 h2o_c <==> 1 MNXM147678_c + 1 h_c + 1 ttdca_c
+1 MNXM145918_c + 1 h2o_c --> 1 MNXM147677_c + 1 ttdcea_c
+1 hdca_c + 1 MNXM147675_c + 1 h_c <==> 1 h2o_c + 1 pg160_c
+1 MNXM147674_c + 1 MNXM56352_c <==> 1 h2o_c + 1 pg161_c
+1 MNXM147676_c + 1 h_c + 1 ocdca_c <==> 1 h2o_c + 1 pg180_c
+1 pg181_c + 1 h2o_c <==> 1 MNXM65309_c + 1 MNXM6608_c
+1 co2_c + 1 q8h2_c + 1 ac_c <-- 1 q8_c + 1 pyr_c + 1 h2o_c
+1 ppi_c + 1 h_c + 1 cmp_c + 1 4ppcys_c <-- 1 4ppan_c + 1 cys__L_c + 1 ctp_c
+1 pro__L_c + 1 fad_c <==> 1 1pyr5c_c + 1 fadh2_c
+1 co2_c + 1 pe120_c <==> 2 h_c + 1 ps120_c
+1 co2_c + 1 MNXM2859_c <==> 2 h_c + 1 MNXM92581_c
+1 co2_c + 1 MNXM146608_c <==> 2 h_c + 1 MNXM92580_c
+1 co2_c + 1 pe160_c <==> 1 h_c + 1 ps160_c
+1 co2_c + 1 pe161_c <==> 2 h_c + 1 ps161_c
+1 co2_c + 1 pe180_c <==> 1 h_c + 1 ps180_c
+1 co2_c + 1 pe181_c <==> 2 h_c + 1 ps181_c
+2 h_c + 1 cmp_c + 1 ps120_c <-- 1 cdpdddecg_c + 1 ser__L_c
+2 h_c + 1 cmp_c + 1 MNXM92581_c <-- 1 cdpdtdecg_c + 1 ser__L_c
+2 h_c + 1 cmp_c + 1 MNXM92580_c <-- 1 cdpdtdec7eg_c + 1 ser__L_c
+1 h_c + 1 cmp_c + 1 ps160_c <-- 1 cdpdhdecg_c + 1 ser__L_c
+2 h_c + 1 cmp_c + 1 ps161_c <-- 1 cdpdhdec9eg_c + 1 ser__L_c
+1 h_c + 1 cmp_c + 1 ps180_c <-- 1 cdpdodecg_c + 1 ser__L_c
+2 h_c + 1 cmp_c + 1 ps181_c <-- 1 cdpdodec11eg_c + 1 ser__L_c
+1 dtdp_c + 1 MNXM92389_c <-- 3 h_c + 1 kphphhlipa_c + 1 dtdprmn_c
+1 ppi_c + 1 aps_c + 1 gdp_c + 1 pi_c <==> 1 h2o_c + 1 atp_c + 1 gtp_c + 1 so4_c
+1 q8h2_c + 1 fum_c <==> 1 q8_c + 1 succ_c
+1 trdox_c + 2 h2o_c <-- 1 h2o2_c + 1 trdrd_c
+1 4hba_c + 1 ppi_c + 1 co2_c + 1 amp_c + 1 h_c + 1 h2o_c + 1 ala__L_c + 1 4mpetz_c <-- 1 atp_c + 1 cys__L_c + 1 dxyl5p_c + 1 tyr__L_c
+1 ade_c + 1 2tpr3dpcoa_c <==> 1 atp_c + 1 dpcoa_c
+8 ppi_c + 1 MNXM326_c <==> 1 frdp_c + 8 ipdp_c
+1 co2_c + 1 h2o_c + 1 myrsACP_c + 2 nadp_c + 1 ACP_c --> 1 malACP_c + 2 h_c + 1 ddcaACP_c + 2 nadph_c
+1 ppi_c + 1 amp_c + 1 odecoa_c <-- 1 coa_c + 1 atp_c + 1 MNXM65309_c
+1 ppi_c + 1 amp_c + 1 stcoa_c <-- 1 coa_c + 1 ocdca_c + 1 atp_c
+1 ppi_c + 1 amp_c + 1 hdcoa_c <-- 1 coa_c + 3 h_c + 1 atp_c + 1 MNXM56352_c
+1 gmp_c + 1 datp_c <==> 1 gdp_c + 1 dadp_c
+1 MNXM01_e + 1 duri_e <==> 1 MNXM01_c + 1 duri_c
+1 MNXM01_e + 1 din_e <==> 1 MNXM01_c + 1 din_c
+1 MNXM01_e + 1 dgsn_e <==> 1 MNXM01_c + 1 dgsn_c
+1 MNXM01_e + 1 chol_e <==> 1 MNXM01_c + 1 chol_c
+1 MNXM10679_c + 1 h2o_c <==> 1 meoh_c + 1 MNXM7043_c
+1 MNXM10816_c + 1 h2o_c <==> 1 meoh_c + 1 MNXM7043_c
+3 MNXM147495_c <-- 2 h2o_c + 1 MNXM42463_c
+1 h_c + 1 gcald_c + 0.5 o2_c + 1 4ahmmp_c + 1 pi_c <==> 1 h2o_c + 1 air_c
+1 nadh_c + 1 h_c + 1 hx2coa_c --> 1 hxcoa_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 oc2coa_c --> 1 occoa_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 dc2coa_c --> 1 dcacoa_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 dd2coa_c --> 1 ddcacoa_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 td2coa_c --> 1 tdcoa_c + 1 nad_c
+3 MNXM01_e + 1 h_e + 1 adp_c + 1 pi_c <==> 3 MNXM01_c + 1 h2o_c + 1 atp_c
+4 MNXM01_e + 2 ficytC_c + 1 h2o_c <==> 4 MNXM01_c + 2 h_c + 0.5 o2_c + 2 focytC_c
+1 ppi_c + 1 adp_c <==> 1 amp_c + 1 pppi_c
+1 dtdp_c + 1 h_c + 1 nadp_c <==> 1 dttp_c + 1 nad_c
+1 amet_c + 1 2dmmq8_c --> 1 ahcys_c + 1 h_c + 1 mqn8_c
+2.5 MNXM01_e + 1 q8_c + 1 h2o_c <-- 2.5 MNXM01_c + 1 q8h2_c + 0.5 o2_c
+1 q8h2_e + 1 h_c + 1 glcn_c <-- 1 q8_e + 1 h2o_c + 1 MNXM7043_c
+2 MNXM01_e + 1 q8h2_c <-- 2 MNXM01_c + 1 h2_c + 1 q8_c
+2 MNXM01_e + 1 no2_c + 1 q8_c + 1 h2o_c <-- 2 MNXM01_c + 1 q8h2_c + 1 h_c + 1 no3_c
+2 MNXM01_e + 1 no2_c + 1 h2o_c + 1 mqn8_c <==> 2 MNXM01_c + 1 h_c + 1 no3_c + 1 mql8_c
+3.5 MNXM01_e + 1 q8h2_c + 1 nad_c <==> 3.5 MNXM01_c + 1 nadh_c + 1 h_c + 1 q8_c
+2 MNXM01_e + 1 nadh_c + 1 nadp_c <==> 2 MNXM01_c + 1 nadph_c + 1 nad_c
+1 q8h2_c + 1 h_c + 1 fad_c <-- 1 q8_c + 1 fadh2_c
+1 arg__L_e + 1 orn_c <==> 1 arg__L_c + 1 orn_e
+1 h_e + 1 h2o_c + 1 atp_c + 1 cbl1_e --> 2 h_c + 1 adp_c + 1 cbl1_c + 1 pi_c
+2 MNXM01_e + 1 asp__L_e <==> 2 MNXM01_c + 1 asp__L_c
+2 MNXM01_e + 1 fum_e <==> 2 MNXM01_c + 1 fum_c
+2 MNXM01_e + 1 mal__L_e <==> 2 MNXM01_c + 1 mal__L_c
+2 MNXM01_e + 1 succ_e <==> 2 MNXM01_c + 1 succ_c
+1 MNXM01_e + 1 ocdca_e <==> 1 MNXM01_c + 1 ocdca_c
+1 MNXM01_e + 1 hdca_e <==> 1 MNXM01_c + 1 hdca_c
+1 MNXM01_e + 1 ttdca_e <==> 1 MNXM01_c + 1 ttdca_c
+1 h_c + 1 adp_c + 1 k_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 k_e
+1 h_e + 1 nmn_e <==> 1 h_c + 1 nmn_c
+1 pyr_c + 1 sbt6p_c <==> 1 sbt__D_e + 1 pep_c
+1 h_c + 1 udcpp_c + 1 MNXM8675_c <==> 1 MNXM5258_c + 1 prenoN_acid_c
+1 prenoN_ated_c + 1 MNXM5258_c <==> 1 h_c + 1 udcpp_c + 1 MNXM8674_c
+1 MNXM12741_c + 1 MNXM5258_c <==> 1 h_c + 1 udcpp_c + 1 MNXM8673_c
+1 uaagmda_c + 1 MNXM5258_c <==> 1 h_c + 1 MNXM326_c + 1 MNXM7630_c
+1 coa_c + 1 1hdecg3p_c <-- 1 h_c + 1 glyc3p_c + 1 pmtcoa_c
+1 coa_c + 1 1tdecg3p_c <-- 1 tdcoa_c + 1 glyc3p_c
+1 coa_c + 1 1odecg3p_c <-- 1 stcoa_c + 1 glyc3p_c
+1 coa_c + 1 MNXM9620_c <-- 1 MNXM5741_c + 1 glyc3p_c
+1 coa_c + 1 MNXM9603_c <-- 1 MNXM5742_c + 1 glyc3p_c
+1 coa_c + 1 MNXM9623_c <-- 1 MNXM5743_c + 1 glyc3p_c
+1 coa_c + 1 MNXM9622_c <-- 1 MNXM5744_c + 1 glyc3p_c
+1 coa_c + 1 MNXM9604_c <-- 1 MNXM5745_c + 1 glyc3p_c
+1 coa_c + 1 MNXM9621_c <-- 1 MNXM5746_c + 1 glyc3p_c
+1 coa_c + 1 pa160_c + 1 h_c <-- 1 pmtcoa_c + 1 1hdecg3p_c
+1 coa_c + 1 pa140_c <-- 1 tdcoa_c + 1 1tdecg3p_c
+1 coa_c + 1 pa180_c <-- 1 stcoa_c + 1 1odecg3p_c
+1 coa_c + 1 h_c + 1 MNXM6580_c <-- 1 MNXM5741_c + 1 MNXM9620_c
+1 coa_c + 1 h_c + 1 MNXM6573_c <-- 1 MNXM5742_c + 1 MNXM9603_c
+1 coa_c + 1 h_c + 1 MNXM6583_c <-- 1 MNXM5743_c + 1 MNXM9623_c
+1 coa_c + 1 h_c + 1 MNXM6582_c <-- 1 MNXM5744_c + 1 MNXM9622_c
+1 coa_c + 1 h_c + 1 MNXM6574_c <-- 1 MNXM5745_c + 1 MNXM9604_c
+1 coa_c + 1 h_c + 1 MNXM6581_c <-- 1 MNXM5746_c + 1 MNXM9621_c
+1 ppi_c + 1 MNXM8379_c <==> 1 ctp_c + 1 MNXM6580_c
+1 ppi_c + 1 MNXM8377_c <==> 1 ctp_c + 1 MNXM6573_c
+1 ppi_c + 1 MNXM8382_c <==> 1 ctp_c + 1 MNXM6583_c
+1 ppi_c + 1 MNXM8381_c <==> 1 ctp_c + 1 MNXM6582_c
+1 ppi_c + 1 MNXM8378_c <==> 1 ctp_c + 1 MNXM6574_c
+1 ppi_c + 1 MNXM8380_c <==> 1 ctp_c + 1 MNXM6581_c
+1 MNXM11393_c + 2 h_c + 1 cmp_c <-- 1 ser__L_c + 1 MNXM8379_c
+1 MNXM11359_c + 2 h_c + 1 cmp_c <-- 1 ser__L_c + 1 MNXM8377_c
+1 MNXM11399_c + 2 h_c + 1 cmp_c <-- 1 ser__L_c + 1 MNXM8382_c
+1 MNXM11397_c + 2 h_c + 1 cmp_c <-- 1 ser__L_c + 1 MNXM8381_c
+1 MNXM11361_c + 2 h_c + 1 cmp_c <-- 1 ser__L_c + 1 MNXM8378_c
+1 MNXM11395_c + 2 h_c + 1 cmp_c <-- 1 ser__L_c + 1 MNXM8380_c
+1 MNXM11393_c + 2 h_c <==> 1 co2_c + 1 MNXM7305_c
+1 MNXM11359_c + 2 h_c <==> 1 co2_c + 1 MNXM7294_c
+1 MNXM11399_c + 2 h_c <==> 1 co2_c + 1 MNXM7308_c
+1 MNXM11397_c + 2 h_c <==> 1 co2_c + 1 MNXM7307_c
+1 MNXM11361_c + 2 h_c <==> 1 co2_c + 1 MNXM7295_c
+1 MNXM11395_c + 2 h_c <==> 1 co2_c + 1 MNXM7306_c
+1 atp_c + 1 MNXM7958_c <==> 1 MNXM6580_c + 1 adp_c
+1 atp_c + 1 MNXM7956_c <==> 1 MNXM6573_c + 1 adp_c
+1 atp_c + 1 MNXM7961_c <==> 1 MNXM6583_c + 1 adp_c
+1 atp_c + 1 MNXM7960_c <==> 1 MNXM6582_c + 1 adp_c
+1 atp_c + 1 MNXM7957_c <==> 1 MNXM6574_c + 1 adp_c
+1 atp_c + 1 MNXM7959_c <==> 1 MNXM6581_c + 1 adp_c
+1 MNXM11392_c + 1 cmp_c <==> 1 glyc3p_c + 1 MNXM8379_c
+1 MNXM11358_c + 1 cmp_c <==> 1 glyc3p_c + 1 MNXM8377_c
+1 MNXM11398_c + 1 cmp_c <==> 1 glyc3p_c + 1 MNXM8382_c
+1 MNXM11396_c + 1 cmp_c <==> 1 glyc3p_c + 1 MNXM8381_c
+1 MNXM11360_c + 1 cmp_c <==> 1 glyc3p_c + 1 MNXM8378_c
+1 MNXM11394_c + 1 cmp_c <==> 1 glyc3p_c + 1 MNXM8380_c
+1 MNXM11392_c + 1 h2o_c --> 1 h_c + 1 MNXM5129_c + 1 pi_c
+1 MNXM11358_c + 1 h2o_c --> 1 h_c + 1 MNXM5124_c + 1 pi_c
+2 pg160_c <==> 1 MNXM6370_c + 1 glyc_c
+2 MNXM145672_c <==> 1 MNXM6335_c + 1 glyc_c
+1 MNXM6440_c + 1 glyc_c <==> 2 pg180_c
+2 MNXM5129_c <==> 1 MNXM6297_c + 1 glyc_c
+2 MNXM5124_c <==> 1 MNXM6175_c + 1 glyc_c
+1 MNXM18772_c + 1 glyc_c <==> 2 MNXM5132_c
+2 MNXM5131_c <==> 1 MNXM6301_c + 1 glyc_c
+2 MNXM5125_c <==> 1 MNXM6176_c + 1 glyc_c
+2 MNXM5130_c <==> 1 MNXM6298_c + 1 glyc_c
+1 cl_e <==> 1 cl_c
+1 cobalt2_e <==> 1 cobalt2_c
+1 h_c + 1 cu2_c + 1 adp_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 cu2_e
+1 h_c + 1 mg2_c + 1 adp_c + 1 pi_c <-- 1 h2o_c + 1 atp_c + 1 mg2_e
+1 nadh_c + 1 h_c + 1 betald_c <==> 1 nad_c + 1 chol_c
+2 MNXM01_e + 1 h2o_c + 1 mqn8_c <-- 2 MNXM01_c + 1 mql8_c + 0.5 o2_c
+1 pro__L_e + 1 h_c <==> 1 pro__L_c + 1 h_e
+1 nadh_c + 1 co2_c + 1 ru5p__D_c <==> 1 6pgc_c + 1 nad_c
+1 MNXM01_e + 1 ppi_e <-- 1 MNXM01_c + 1 ppi_c
+1 MNXM114402_c <==> 1 peng_c + 1 h2o_c
+1 gal_bD_c + 1 MNXM7555_c <==> 1 MNXM1225_c + 1 h2o_c
+1 nadh_c + 1 MNXM1213_c + 1 co2_c <==> 1 phthr_c + 1 nad_c
+1 coa_c + 1 h_c + 1 arach_c <==> 1 MNXM1429_c + 1 h2o_c
+1 coa_c + 1 h_c + 1 ocdcea_c <==> 1 h2o_c + 1 ocdce9coa_c
+1 coa_c + 1 h_c + 1 ocdcya_c <==> 1 h2o_c + 1 lnlccoa_c
+1 coa_c + 1 h_c + 1 MNXM794_c <==> 1 h2o_c + 1 lnlncacoa_c
+1 coa_c + 1 h_c + 1 MNXM2801_c <==> 1 tmndnccoa_c + 1 h2o_c
+1 coa_c + 1 h_c + 1 MNXM90206_c <==> 1 h2o_c + 1 c226coa_c
+1 coa_c + 1 h_c + 1 lnlncg_c <==> 1 h2o_c + 1 lnlncgcoa_c
+1 coa_c + 1 h_c + 1 MNXM5607_c <==> 1 dlnlcgcoa_c + 1 h2o_c
+1 coa_c + 1 arachd_c + 1 h_c <==> 1 h2o_c + 1 arachdcoa_c
+1 MNXM10780_c + 1 h2o_c <==> 1 coa_c + 1 h_c + 1 MNXM7102_c
+1 coa_c + 1 h_c + 1 lgnc_c <==> 1 lgnccoa_c + 1 h2o_c
+1 MNXM11852_c + 1 h2o_c <==> 1 coa_c + 1 h_c + 1 MNXM7404_c
+1 MNXM11430_c + 1 h2o_c <==> 1 MNXM11520_c + 1 coa_c + 1 h_c
+1 coa_c + 1 h_c + 1 nrvnc_c <==> 1 MNXM13000_c + 1 h2o_c
+1 coa_c + 1 h_c + 1 clpnd_c <==> 1 h2o_c + 1 clpndcoa_c
+1 MNXM11473_c + 1 coa_c + 1 h_c <==> 1 h2o_c + 1 MNXM6496_c
+1 coa_c + 1 h_c + 1 adrn_c <==> 1 h2o_c + 1 adrncoa_c
+1 coa_c + 1 h_c + 1 MNXM8271_c <==> 1 h2o_c + 1 MNXM6497_c
+1 h_c + 1 h2o_c + 1 MNXM6115_c <==> 1 MNXM6908_c + 1 nh4_c
+1 h_c + 1 aflburppa_c <==> 1 h2o_c + 1 56dh5flura_c
+1 ppi_c + 1 5flurimp_c <==> 1 5flura_c + 1 prpp_c
+1 coa_c + 1 h_c + 1 MNXM9691_c <==> 1 h2o_c + 1 MNXM9382_c
+1 MNXM10616_c + 1 nad_c <==> 1 nadh_c + 1 h_c + 1 MNXM2968_c
+1 nadh_c + 1 h_c + 1 MNXM3835_c <==> 1 MNXM6074_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM6125_c <==> 1 MNXM6882_c + 1 nad_c
+1 amet_c + 1 hpglu_c --> 1 ahcys_c + 1 h_c + 1 5mthglu_c
+1 amet_c + 1 MNXM5555_c --> 1 ahcys_c + 1 q8_c
+2 h_c + 2 h2o2_c + 2 o2s_c + 1 MNXM7176_c <==> 2 3hanthrn_c + 4 o2_c
+1 ppi_c + 1 MNXM53112_c <-- 1 hepdp_c + 1 ipdp_c
+1 trnagln_c + 1 h2o_c + 1 MNXM8973_c <==> 1 MNXM3335_c + 2 ACP_c
+1 MNXM1596_c + 1 MNXM3335_c <==> 1 trnagln_c + 1 MNXM2292_c + 1 h2o_c
+1 h_c + 1 betald_c + 1 nadph_c <==> 1 nadp_c + 1 chol_c
+1 co2_c + 1 ac_c <-- 1 h_c + 1 malon_c
+1 2omph_c + 1 o2_c --> 1 2ombz_c + 1 h2o_c
+1 h_c + 1 4ppan_c + 1 adp_c <==> 1 pnto__R_c + 1 atp_c
+1 ppi_c + 1 amp_c + 1 h_c + 1 4ppcys_c <-- 1 atp_c + 1 4ppan_c + 1 cys__L_c
+1 MNXM01_e + 1 4hbz_e --> 1 MNXM01_c + 1 4hbz_c
+1 h2o_c + 1 MNXM40494_c <==> 1 ala__L_c + 1 asp__L_c
+1 gly_c + 1 glu__L_c <==> 1 h2o_c + 1 MNXM55454_c
+1 gly_c + 1 met__L_c <==> 1 h2o_c + 1 MNXM55287_c
+1 h_c + 1 h2o_c + 1 MNXM8868_c <==> 1 ala__L_c + 1 met__L_c
+1 gly_c + 1 asp__L_c <==> 1 h2o_c + 1 MNXM55269_c
+1 pro__L_c + 1 gly_c <-- 1 h2o_c + 1 MNXM8670_c
+1 h2o_c + 1 MNXM40495_c <==> 1 ala__L_c + 1 gln__L_c
+1 h2o_c + 1 MNXM8263_c <==> 1 ala__L_c + 1 glu__L_c
+1 MNXM15783_c + 1 h2o_c <==> 1 gly_c + 1 ala__L_c
+1 his__L_c + 1 ala__L_c <==> 1 h2o_c + 1 MNXM40496_c
+1 leu__L_c + 1 ala__L_c <-- 1 MNXM15786_c + 1 h2o_c
+1 thr__L_c + 1 ala__L_c <==> 1 h2o_c + 1 MNXM8264_c
+1 asn__L_c + 1 gly_c <==> 1 h2o_c + 1 MNXM55268_c
+1 gly_c + 1 gln__L_c <==> 1 h2o_c + 1 MNXM55276_c
+1 MNXM12236_e --> 1 MNXM12236_c
+1 gly_c + 1 cys__L_c <==> 1 h2o_c + 1 MNXM8666_c
+1 MNXM126241_c + 1 h2o_c <==> 1 leu__L_c + 1 gly_c
+1 gly_c + 1 phe__L_c <==> 1 h2o_c + 1 MNXM8669_c
+1 gly_c + 1 tyr__L_c <==> 1 h2o_c + 1 MNXM8671_c
+1 MNXM12236_c + 1 ahcys_c + 1 h_c --> 1 amet_c + 1 MNXM715_c
+1 MNXM78334_c <-- 1 MNXM78334_BOUNDARY
+1 MNXM51417_c <-- 1 MNXM51417_BOUNDARY
+1 MNXM81014_c <-- 1 MNXM81014_BOUNDARY
+1 co2_c + 1 meoh_c + 1 pyphphbda_c <==> 1 h2o_c + 1 phphbda_c
+1 h_c + 1 acgam1p_c + 1 adp_c <==> 1 MNXM2138_c + 1 atp_c
+1 nadh_c + 1 h_c + 1 MNXM5312_c <==> 1 MNXM6087_c + 1 nad_c
+1 nadh_c + 1 h_c + 1 MNXM6216_c <==> 1 MNXM5676_c + 1 nad_c
+1 ppi_c + 1 MNXM4827_c <==> 1 dmpp_c + 1 MNXM2250_c
+1 man_c + 1 trnagln_c <==> 1 h2o_c + 1 MNXM7125_c
+1 ppi_c + 1 MNXM3403_c <==> 1 frdp_c
+1 taur_c + 1 arg__L_c <==> 1 MNXM3363_c + 1 orn_c

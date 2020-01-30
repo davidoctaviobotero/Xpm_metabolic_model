@@ -1,0 +1,331 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Xam_Proteome.fasta
+           4,337 sequences; 1,317,730 total letters
+
+
+
+Query= tr|Q8PJD8|Q8PJD8_XANAC Transport protein OS=Xanthomonas axonopodis
+pv. citri (strain 306) GN=suc1 PE=4 SV=1
+
+Length=492
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  lcl|xanmn_chr08_0051-xanmn_chr08_0051 acc=xanmn_chr08_0051 locu...  940     0.0  
+  lcl|suxC-xanmn_chr11_0212 acc=xanmn_chr11_0212 locus_tag=xanmn_...  243     3e-76
+  lcl|xylP-xanmn_chr15_0244 acc=xanmn_chr15_0244 locus_tag=xanmn_...  40.4    2e-04
+  lcl|xanmn_chr15_0192-xanmn_chr15_0192 acc=xanmn_chr15_0192 locu...  37.7    0.001
+  lcl|xanmn_chr13_0280-xanmn_chr13_0280 acc=xanmn_chr13_0280 locu...  31.6    0.069
+  lcl|xanmn_chr15_0285-xanmn_chr15_0285 acc=xanmn_chr15_0285 locu...  31.2    0.17 
+  lcl|xanmn_chr04_0115-xanmn_chr04_0115 acc=xanmn_chr04_0115 locu...  26.2    5.5  
+  lcl|pstA-xanmn_chr04_0293 acc=xanmn_chr04_0293 locus_tag=xanmn_...  25.8    6.6  
+  lcl|xanmn_chr15_0263-xanmn_chr15_0263 acc=xanmn_chr15_0263 locu...  25.8    7.0  
+  lcl|xanmn_chr04_0250-xanmn_chr04_0250 acc=xanmn_chr04_0250 locu...  25.8    8.3  
+  lcl|xanmn_chr11_0150-xanmn_chr11_0150 acc=xanmn_chr11_0150 locu...  25.8    8.4  
+
+
+> lcl|xanmn_chr08_0051-xanmn_chr08_0051 acc=xanmn_chr08_0051 locus_tag=xanmn_chr08_0051 
+len=492 sp=xanmn type=protein begin=50414 
+end=51892 strand=- chr=xanmn_chr08 def=glycoside-pentoside-hexuronide:cation 
+symporter family protein 
+Length=492
+
+ Score = 940 bits (2430),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 474/492 (96%), Positives = 482/492 (98%), Gaps = 0/492 (0%)
+
+Query  1    MTAKPRLDFWQIWNMCFGFLGIQFGFALQNANASRIFQTLGAQVDDVPGLWIAAPLTGLV  60
+            MT KPRL+FWQIWNMCFGFLGIQFGFALQNANASRIFQTLGAQVDDVPGLWIAAPLTGL+
+Sbjct  1    MTVKPRLNFWQIWNMCFGFLGIQFGFALQNANASRIFQTLGAQVDDVPGLWIAAPLTGLI  60
+
+Query  61   VQPVIGYLSDRTWTPWGRRRPYFMVGAVFTTLALLVMPNAPMLWVAAGTLWVLDASINIS  120
+            VQPVIGYLSDRTWTPWGRRRPYFMVGAVFTTLALLVMPNAPMLWVAAGTLW+LDASINIS
+Sbjct  61   VQPVIGYLSDRTWTPWGRRRPYFMVGAVFTTLALLVMPNAPMLWVAAGTLWLLDASINIS  120
+
+Query  121  MEPFRALVGDQLPPSQRPTGYAMQSFFIGIGAIVASFLPWLLTHWGIANTAPPGQLPDSV  180
+            MEPFRALVGDQLPPSQRPTGYAMQSFFIGIGAIVASFLPWLLTHWGIANTAPPGQLPDSV
+Sbjct  121  MEPFRALVGDQLPPSQRPTGYAMQSFFIGIGAIVASFLPWLLTHWGIANTAPPGQLPDSV  180
+
+Query  181  RYAFYLGAAVLFLSITWTVLRTREYSPEQLAGFDDAHPPLAQAVSTGMVPTSMASVLWCG  240
+            RYAFYLGAAVLFLSITWTVLRTREYSP QLAGFDDAHPPLAQ  STGM PT +A +LWCG
+Sbjct  181  RYAFYLGAAVLFLSITWTVLRTREYSPAQLAGFDDAHPPLAQVASTGMAPTLLAGMLWCG  240
+
+Query  241  LGVLLAAAIAWQHGDRMLYVLAGLCFAYGVLLALARMLPATSMLVAIVQDVRSMPMTMRR  300
+            LGVLLAAAIAWQHGDRMLYVLAGLCFAYGVLLALARMLPATSMLVAIVQDVRSMP TMRR
+Sbjct  241  LGVLLAAAIAWQHGDRMLYVLAGLCFAYGVLLALARMLPATSMLVAIVQDVRSMPATMRR  300
+
+Query  301  LAWVQFFSWFALFAMWIYTTAAVTQVHFGASDTASAAYNDGANWVGVLFGAYNGFAALAA  360
+            L WVQFFSWFALFAMWIYTTAAVTQVHFGA+DTASA YNDGANWVGVLFGAYNGFAALAA
+Sbjct  301  LTWVQFFSWFALFAMWIYTTAAVTQVHFGANDTASATYNDGANWVGVLFGAYNGFAALAA  360
+
+Query  361  VVIPLLVRAIGLRWSHLCNLWLGAAGLLSMLVIRDPQWLLLSMLGVGFAWASILSLPYAL  420
+            VVIPLLVRAIGLRWSHLCNLWLGAAGLLSMLVIRDPQWLLLSM+GVGFAWASILSLPYAL
+Sbjct  361  VVIPLLVRAIGLRWSHLCNLWLGAAGLLSMLVIRDPQWLLLSMVGVGFAWASILSLPYAL  420
+
+Query  421  LSDSVPAPKMGVYMGIFNFFIVIPQLVAASALGFVLRVWLGGQPIYALAIGGLSLLIAGV  480
+            LSDSVPAPKMGVYMGIFNFFIVIPQLVAASALGFVLR+WLGGQPIYALAIGGLSLLIAGV
+Sbjct  421  LSDSVPAPKMGVYMGIFNFFIVIPQLVAASALGFVLRMWLGGQPIYALAIGGLSLLIAGV  480
+
+Query  481  CVVRVPVASGGQ  492
+            CVVRVPVASGGQ
+Sbjct  481  CVVRVPVASGGQ  492
+
+
+> lcl|suxC-xanmn_chr11_0212 acc=xanmn_chr11_0212 locus_tag=xanmn_chr11_0212 
+len=439 sp=xanmn type=protein begin=243211 end=244530 
+strand=- chr=xanmn_chr11 def=sucrose transporter, MFS 
+family 
+Length=439
+
+ Score = 243 bits (620),  Expect = 3e-76, Method: Compositional matrix adjust.
+ Identities = 163/461 (35%), Positives = 228/461 (49%), Gaps = 59/461 (13%)
+
+Query  5    PRLDFWQIWNMCFGFLGIQFGFALQNANASRIFQTLGAQVDDVPGLWIAAPLTGLVVQPV  64
+            P L F +I  +  GF G+Q+ F LQ +N S I+  LGA   ++P LW+A P+TGLV+QP 
+Sbjct  6    PPLSFARILALNAGFFGVQYSFGLQQSNMSPIYNYLGADHANLPYLWLAGPITGLVLQPF  65
+
+Query  65   IGYLSDRTWTPWGRRRPYFMVGAVFTTLALLVMPNAPMLWVAAGTLWVLDASINISMEPF  124
+            +G  SDR+ T WGRR PY ++GA+  +L LL MP +  LW+A   LWVLDA+ N++MEP+
+Sbjct  66   VGAWSDRSVTRWGRRMPYMVLGALVCSLCLLAMPFSTALWMAVCLLWVLDAANNVAMEPY  125
+
+Query  125  RALVGDQLPPSQRPTGYAMQSFFIGIGAIVASFLPWLLTHWGI-ANTAPPGQLPDSVRYA  183
+            RALV D L P QRP GY  QS F G+   +A   P LL   G+  + A    +P     A
+Sbjct  126  RALVSDVLAPPQRPLGYLTQSAFTGLAQTLAYLTPPLLVWLGMNQDAANAHHIPYVTIAA  185
+
+Query  184  FYLGAAVLFLSITWTVLRTREYSPEQLAGFDDAHPPLAQAVSTGMVPTSMASVLWCGLGV  243
+            F +GA     SI  T    RE                       + P  +A +   G G+
+Sbjct  186  FVIGAGFSAGSILLTARSVRE---------------------PAIAPAEIARIRQSGAGL  224
+
+Query  244  LLAAAIAWQHGDRMLYVLAGLCFAYGVLLALARMLPATSMLVAIVQDVRSMPMTMRRLAW  303
+                A   + G                  AL +M                 P TMR+LA 
+Sbjct  225  ---GATVREIGS-----------------ALRQM-----------------PPTMRQLAP  247
+
+Query  304  VQFFSWFALFAMWIYTTAAVTQVHFGASDTASAAYNDGANWVGVLFGAYNGFAALAAVVI  363
+            V  F W+A+F  W Y   +++   FG +D  S  + +     G + G YN  A LAA  +
+Sbjct  248  VMLFQWYAIFCYWQYIVLSLSTTLFGTTDPTSHGFREAGLVNGQIGGFYNFVAFLAAFAM  307
+
+Query  364  PLLVRAIGLRWSHLCNLWLGAAGLLSMLVIRDPQWLLLSMLGVGFAWASILSLPYALLSD  423
+              +VR  G +++H   L     G+  +  I +   +LL M+G+G AWAS++  PY +L+D
+Sbjct  308  VPVVRRFGPKYTHAACLVAAGIGMWLLPGIENRWLMLLPMIGIGLAWASMMGNPYLMLAD  367
+
+Query  424  SVPAPKMGVYMGIFNFFIVIPQLVAASALGFVLRVWLGGQP  464
+            S+P  + GVYMG+FN FIV+P L+    L       L G P
+Sbjct  368  SIPPERTGVYMGLFNLFIVLPMLIQIVTLPLYYEHVLHGDP  408
+
+
+> lcl|xylP-xanmn_chr15_0244 acc=xanmn_chr15_0244 locus_tag=xanmn_chr15_0244 
+len=495 sp=xanmn type=protein begin=328248 end=329735 
+strand=+ chr=xanmn_chr15 def=glycoside-pentoside-hexuronide:cation 
+symporter family protein 
+Length=495
+
+ Score = 40.4 bits (93),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 33/95 (35%), Positives = 48/95 (51%), Gaps = 15/95 (16%)
+
+Query  23   QFGFALQNANASRIFQTL-------GAQVDDVPG------LWIAAPLTGLVVQPVIGYLS  69
+            + G++L +  A+ IFQTL          V  +P       +++   L   V  PVIG L+
+Sbjct  13   KIGYSLGDLAANLIFQTLVTFLAFFYTDVFRIPASVAATLIFVVGMLGAFVFTPVIGILA  72
+
+Query  70   DRTWTPWGRRRPYFMVGAV-FTTLALLVMPNAPML  103
+            DRT T WG+ RP+ +  A+ F  L+L    N PML
+Sbjct  73   DRTRTRWGKFRPWILWTALPFGALSLAAF-NTPML  106
+
+
+> lcl|xanmn_chr15_0192-xanmn_chr15_0192 acc=xanmn_chr15_0192 locus_tag=xanmn_chr15_0192 
+len=460 sp=xanmn type=protein begin=243401 
+end=244783 strand=- chr=xanmn_chr15 def=glycoside-pentoside-hexuronide:cation 
+symporter family protein 
+Length=460
+
+ Score = 37.7 bits (86),  Expect = 0.001, Method: Compositional matrix adjust.
+ Identities = 64/249 (26%), Positives = 95/249 (38%), Gaps = 36/249 (14%)
+
+Query  13   WNMCFGFLGIQFGFALQNANASRIFQTLGAQVDDVPG-----LWIAAPLTGLVVQPVIGY  67
+            W    G+     G  L  AN S            +P      + +   +   +  P +G 
+Sbjct  16   WREKLGYGAGDLGLNLYWANISAFLLIFYTDTMHLPAAAVGTMILLTKIADAIADPAMGA  75
+
+Query  68   LSDRTWTPWGRRRPYFMVGAVFTTLALLVMPNAPML------WVAAGTLWVLDASINISM  121
+            L+DRT +  G+ RPY + GA+    A ++    P L      W A  T  V+  +  +  
+Sbjct  76   LADRTRSRLGKFRPYLLWGALPMAAAGVLAYTTPDLDQHGRMWWATITFLVMMLAYTVVS  135
+
+Query  122  EPFRALVGDQLPPSQRPTGYAMQSFFIG--IGAIVASFLPWLLTHW-GIANTAPPGQLPD  178
+             P+ AL G     SQ+ TG  +   FIG   G  + ++    L  W G  N A   Q   
+Sbjct  136  IPYSALSGVITADSQQRTGL-ISLRFIGAFAGTTLVNYFTMDLVRWFGAGNDALGWQ---  191
+
+Query  179  SVRYAFYLGAAVLFLSITWTVLRTREY---SPEQLAGFDDAHPPLAQAVSTGMVPTSMAS  235
+              R     GA  L L +T   L TRE     P+Q       H P+ + ++       + +
+Sbjct  192  --RTMMLYGAVALALFVT-VALTTRERVQPPPQQ-------HTPIRRDIA-----DLLQN  236
+
+Query  236  VLWCGLGVL  244
+              WC L VL
+Sbjct  237  KPWCVLFVL  245
+
+
+ Score = 26.9 bits (58),  Expect = 3.8, Method: Compositional matrix adjust.
+ Identities = 51/200 (26%), Positives = 77/200 (39%), Gaps = 25/200 (13%)
+
+Query  232  SMASVLWCGLGVLLAAAIAWQHGDRMLYVLAGLCFAYGVLLALARMLPATSMLVAIVQDV  291
+            +M  V W G G     A+ WQ    +   +A   F    L    R+ P       I +D+
+Sbjct  174  TMDLVRWFGAG---NDALGWQRTMMLYGAVALALFVTVALTTRERVQPPPQQHTPIRRDI  230
+
+Query  292  RSMPMTMRRLAWVQFFSWFALFAMWIYTTAAVTQVHFGASDTASAAYNDGANWVGVLFGA  351
+              +         +Q   W  LF + +     +T +  GA       Y    + VG+  G+
+Sbjct  231  ADL---------LQNKPWCVLFVLSLIIMITIT-MRGGAGLYYLKYYVQRPDLVGLFLGS  280
+
+Query  352  YNGFAALAAVVIPLLVRAIGLRWSHL-CNLWLGA-AGLLS---MLVIRDPQW--LLLSML  404
+            Y+    + A + PLL R    RW       WL    GLLS     V  D  W   +L+ML
+Sbjct  281  YSVALGVGAAITPLLTR----RWDKRQLMFWLMVLVGLLSCAMFFVPADAVWAVFVLNML  336
+
+Query  405  GVGFAWASILSLPYALLSDS  424
+             +G A      L +++ +DS
+Sbjct  337  -IGLALGPKSPLAFSMYADS  355
+
+
+> lcl|xanmn_chr13_0280-xanmn_chr13_0280 acc=xanmn_chr13_0280 locus_tag=xanmn_chr13_0280 
+len=191 sp=xanmn type=protein begin=275526 
+end=276101 strand=- chr=xanmn_chr13 def=conserved hypothetical 
+protein 
+Length=191
+
+ Score = 31.6 bits (70),  Expect = 0.069, Method: Compositional matrix adjust.
+ Identities = 16/40 (40%), Positives = 21/40 (53%), Gaps = 0/40 (0%)
+
+Query  31   ANASRIFQTLGAQVDDVPGLWIAAPLTGLVVQPVIGYLSD  70
+            A   +++Q LG + D V  LWI AP  GL   P +  L D
+Sbjct  100  AELDKVWQLLGHRADKVEVLWIGAPPAGLPPMPALRVLRD  139
+
+
+> lcl|xanmn_chr15_0285-xanmn_chr15_0285 acc=xanmn_chr15_0285 locus_tag=xanmn_chr15_0285 
+len=384 sp=xanmn type=protein begin=385365 
+end=386519 strand=- chr=xanmn_chr15 def=drug:H+ antiporter-1 
+family protein 
+Length=385
+
+ Score = 31.2 bits (69),  Expect = 0.17, Method: Compositional matrix adjust.
+ Identities = 27/95 (28%), Positives = 40/95 (42%), Gaps = 12/95 (13%)
+
+Query  60   VVQPVIGYLSDRTWTPWGRRRPYFMVGAVFTTLALLVMPNA---PMLWVAAGTLWVLDAS  116
+            V  P+ G LSDR       RRP  ++  +   L  ++M  A   PML +A     ++   
+Sbjct  93   VCSPLQGALSDRFG-----RRPVILLSCLGLGLDFVLMALAHSLPMLLLAR----IISGV  143
+
+Query  117  INISMEPFRALVGDQLPPSQRPTGYAMQSFFIGIG  151
+             + S     A + D  PP +R   + M     GIG
+Sbjct  144  CSASFSTANAYIADVTPPDKRAGAFGMLGAAFGIG  178
+
+
+> lcl|xanmn_chr04_0115-xanmn_chr04_0115 acc=xanmn_chr04_0115 locus_tag=xanmn_chr04_0115 
+len=305 sp=xanmn type=protein begin=119297 
+end=120214 strand=+ chr=xanmn_chr04 def=Conserved putative 
+membrane protein 
+Length=305
+
+ Score = 26.2 bits (56),  Expect = 5.5, Method: Compositional matrix adjust.
+ Identities = 19/63 (30%), Positives = 32/63 (51%), Gaps = 3/63 (5%)
+
+Query  245  LAAAIAWQHGDRMLYVLAGLCFAYGVLLALARMLPATSMLVAIVQDVRSMPMTMRRLAWV  304
+            L + +A Q G     V+AG+  +YG    +A +   T + VA  + +R  P+  RR +W+
+Sbjct  44   LRSELAEQKGKSEAEVIAGVASSYGAPEEVAEIYRETEVTVA--RALRP-PVPPRRASWI  100
+
+Query  305  QFF  307
+              F
+Sbjct  101  GTF  103
+
+
+> lcl|pstA-xanmn_chr04_0293 acc=xanmn_chr04_0293 locus_tag=xanmn_chr04_0293 
+len=289 sp=xanmn type=protein begin=315936 end=316805 
+strand=- chr=xanmn_chr04 def=ABC transporter phosphate 
+permease 
+Length=289
+
+ Score = 25.8 bits (55),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 22/73 (30%), Positives = 34/73 (47%), Gaps = 11/73 (15%)
+
+Query  251  WQHGDRMLYVLAGLCFAYGVLLALARMLPATSMLV-----------AIVQDVRSMPMTMR  299
+            W+   ++LY  A      GVLLALAR+   T+ L+            I Q + S+P+ M 
+Sbjct  186  WKVTVQVLYRSASAGIVTGVLLALARISGETAPLLFTAFGNQYWNSNIFQPMASVPVIMN  245
+
+Query  300  RLAWVQFFSWFAL  312
+            + A   + +W  L
+Sbjct  246  QFAGSPYETWQTL  258
+
+
+> lcl|xanmn_chr15_0263-xanmn_chr15_0263 acc=xanmn_chr15_0263 locus_tag=xanmn_chr15_0263 
+len=280 sp=xanmn type=protein begin=354616 
+end=355458 strand=- chr=xanmn_chr15 def=conserved hypothetical 
+protein 
+Length=280
+
+ Score = 25.8 bits (55),  Expect = 7.0, Method: Compositional matrix adjust.
+ Identities = 19/56 (34%), Positives = 24/56 (43%), Gaps = 6/56 (11%)
+
+Query  255  DRMLYVLAGLCFAYGVLLALARMLPATSMLVAIVQDVRSMPMTMRRLAWVQFFSWF  310
+            D + Y  A  CFA G L  LA  LPA         + R  P +    A + FF+ F
+Sbjct  31   DTLRYDAAQRCFARGELPVLAPYLPADGW------ERRHTPGSFTYAAHMAFFAGF  80
+
+
+> lcl|xanmn_chr04_0250-xanmn_chr04_0250 acc=xanmn_chr04_0250 locus_tag=xanmn_chr04_0250 
+len=589 sp=xanmn type=protein begin=264704 
+end=266473 strand=- chr=xanmn_chr04 def=ABC transporter 
+permease and ATP-binding protein 
+Length=589
+
+ Score = 25.8 bits (55),  Expect = 8.3, Method: Compositional matrix adjust.
+ Identities = 21/51 (41%), Positives = 24/51 (47%), Gaps = 2/51 (4%)
+
+Query  151  GAIVASFLPWLLTHWGIANTAPPGQLPDSVRYAFYLGAAVLFLSITWTVLR  201
+            GAIVA    WL  H  IA    PG L   V YA   G +V  L+  W  L+
+Sbjct  264  GAIVAVL--WLGAHDVIAGRMTPGTLGQFVLYAMIGGGSVGALAEVWNELQ  312
+
+
+> lcl|xanmn_chr11_0150-xanmn_chr11_0150 acc=xanmn_chr11_0150 locus_tag=xanmn_chr11_0150 
+len=693 sp=xanmn type=protein begin=162061 
+end=164142 strand=+ chr=xanmn_chr11 def=putative membrane-associated 
+phospholipid phosphatase 
+Length=693
+
+ Score = 25.8 bits (55),  Expect = 8.4, Method: Compositional matrix adjust.
+ Identities = 21/55 (38%), Positives = 30/55 (55%), Gaps = 3/55 (5%)
+
+Query  347  VLFGAYNGFAALAA---VVIPLLVRAIGLRWSHLCNLWLGAAGLLSMLVIRDPQW  398
+            VL  AY+  AA+A    VV+ LL   IGL W+ +   +  +AG L  L+ R  +W
+Sbjct  164  VLGTAYDAVAAVAGRLFVVVALLAAVIGLAWAVVLYSYRWSAGHLDALLARLLEW  218
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.140    0.462    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 380866455
+
+
+  Database: Xam_Proteome.fasta
+    Posted date:  Mar 2, 2017  5:23 PM
+  Number of letters in database: 1,317,730
+  Number of sequences in database:  4,337
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

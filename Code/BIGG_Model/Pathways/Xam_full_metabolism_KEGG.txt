@@ -1,0 +1,557 @@
+Acetoin, butanediol metabolism
+Acetyl-CoA fermentation to Butyrate
+Acetyl-CoA fermentation to Butyrate
+Acetyl-CoA fermentation to Butyrate
+Acetyl-CoA fermentation to Butyrate
+Alanine biosynthesis
+Alanine biosynthesis
+Alanine biosynthesis
+Alginate metabolism
+Alginate metabolism
+Alginate metabolism
+Allantoin Utilization
+Ammonia assimilation
+Ammonia assimilation
+Arginine Biosynthesis extended
+Arginine Biosynthesis extended
+Arginine Biosynthesis extended
+Arginine Biosynthesis extended
+Arginine Biosynthesis extended
+Arginine Biosynthesis extended
+Arginine Biosynthesis extended
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Arginine and Ornithine Degradation
+Aromatic amino acid degradation
+Aromatic amino acid degradation
+Aromatic amino acid degradation
+Aromatic amino acid degradation
+Aromatic amino acid degradation
+Aromatic amino acid degradation
+Biotin biosynthesis
+Biotin biosynthesis
+Biotin biosynthesis
+Biotin biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Branched-Chain Amino Acid Biosynthesis
+Calvin-Benson cycle
+Calvin-Benson cycle
+Calvin-Benson cycle
+Calvin-Benson cycle
+Calvin-Benson cycle
+Calvin-Benson cycle
+Calvin-Benson cycle
+Calvin-Benson cycle
+Catechol branch of beta-ketoadipate pathway
+Central meta-cleavage pathway of aromatic compound degradation
+Chitin and N-acetylglucosamine utilization
+Chitin and N-acetylglucosamine utilization
+Choline and Betaine Uptake and Betaine Biosynthesis
+Choline and Betaine Uptake and Betaine Biosynthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Chorismate Synthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme A Biosynthesis
+Coenzyme B12 biosynthesis
+Coenzyme B12 biosynthesis
+Coenzyme B12 biosynthesis
+Coenzyme B12 biosynthesis
+Coenzyme B12 biosynthesis
+Coenzyme B12 biosynthesis
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)
+Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)
+Cyanate hydrolysis
+D-Galacturonate Utilization
+D-Galacturonate Utilization
+D-Galacturonate Utilization
+D-Sorbitol(D-Glucitol) and L-Sorbose Utilization
+D-Tagatose and Galactitol Utilization
+D-galactarate, D-glucarate and D-glycerate catabolism
+D-galactarate, D-glucarate and D-glycerate catabolism
+D-galactonate catabolism
+D-galactonate catabolism
+D-galactonate catabolism
+D-gluconate and ketogluconates metabolism
+De Novo Purine Biosynthesis
+De Novo Purine Biosynthesis
+De Novo Purine Biosynthesis
+De Novo Purine Biosynthesis
+De Novo Purine Biosynthesis
+De Novo Purine Biosynthesis
+De Novo Pyrimidine Synthesis
+De Novo Pyrimidine Synthesis
+De Novo Pyrimidine Synthesis
+De Novo Pyrimidine Synthesis
+De Novo Pyrimidine Synthesis
+De Novo Pyrimidine Synthesis
+Deoxyribose and Deoxynucleoside Catabolism
+Di-Inositol-Phosphate biosynthesis
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Entner-Doudoroff Pathway
+Ethanolamine utilization
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fatty Acid Biosynthesis FASII
+Fermentations
+Fermentations
+Fermentations
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Folate Biosynthesis
+Formate hydrogenase
+Gamma-aminobutyrate (GABA) shunt
+Gamma-aminobutyrate (GABA) shunt
+Gamma-aminobutyrate (GABA) shunt
+Gamma-aminobutyrate (GABA) shunt
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis
+Glutathione Redox Metabolism
+Glycerol and Glycerol-3-phosphate Uptake and Utilization
+Glycerol and Glycerol-3-phosphate Uptake and Utilization
+Glycerol and Glycerol-3-phosphate Uptake and Utilization
+Glycerol and Glycerol-3-phosphate Uptake and Utilization
+Glycerol and Glycerol-3-phosphate Uptake and Utilization
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+Glycerolipid and Glycerophospholipid Metabolism in Bacteria
+Glycine cleavage system
+Glycine cleavage system
+Glycine cleavage system
+Glycolate, glyoxylate interconversions
+Glycolate, glyoxylate interconversions
+Glycolate, glyoxylate interconversions
+Glycolate, glyoxylate interconversions
+Glycolate, glyoxylate interconversions
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glycolysis and Gluconeogenesis
+Glyoxylate bypass
+Glyoxylate bypass
+Glyoxylate bypass
+Glyoxylate bypass
+Glyoxylate bypass
+Glyoxylate bypass
+Glyoxylate bypass
+Glyoxylate bypass
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Heme and Siroheme Biosynthesis
+Histidine Biosynthesis
+Histidine Biosynthesis
+Histidine Biosynthesis
+Histidine Biosynthesis
+Histidine Biosynthesis
+Histidine Biosynthesis
+Histidine Biosynthesis
+Histidine Biosynthesis
+Histidine Degradation
+Histidine Degradation
+Histidine Degradation
+Histidine Degradation
+Histidine Degradation
+Histidine Degradation
+Inorganic Sulfur Assimilation
+Inorganic Sulfur Assimilation
+Inorganic Sulfur Assimilation
+Inorganic Sulfur Assimilation
+Inorganic Sulfur Assimilation
+Inorganic Sulfur Assimilation
+Inositol catabolism
+Inositol catabolism
+Inositol catabolism
+Inositol catabolism
+Inositol catabolism
+Isoleucine degradation
+Isoleucine degradation
+Isoleucine degradation
+Isoprenoid Biosynthesis
+Isoprenoid Biosynthesis
+Isoprenoid Biosynthesis
+Isoprenoid Biosynthesis
+Isoprenoid Biosynthesis
+Isoprenoid Biosynthesis
+Isoprenoid Biosynthesis
+Isoprenoid Biosynthesis
+KDO2-Lipid A biosynthesis
+KDO2-Lipid A biosynthesis
+KDO2-Lipid A biosynthesis
+KDO2-Lipid A biosynthesis
+KDO2-Lipid A biosynthesis
+KDO2-Lipid A biosynthesis
+KDO2-Lipid A biosynthesis
+L-ascorbate utilization (and related gene clusters)
+L-fucose utilization
+L-rhamnose utilization
+LOS core oligosaccharide biosynthesis
+LOS core oligosaccharide biosynthesis
+LOS core oligosaccharide biosynthesis
+Lactose and Galactose Uptake and Utilization
+Leucine Degradation and HMG-CoA Metabolism
+Leucine Degradation and HMG-CoA Metabolism
+Leucine Degradation and HMG-CoA Metabolism
+Leucine Degradation and HMG-CoA Metabolism
+Leucine Degradation and HMG-CoA Metabolism
+Leucine Degradation and HMG-CoA Metabolism
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway
+Lysine Biosynthesis DAP Pathway
+Lysine degradation
+Lysine degradation
+Maltose and Maltodextrin Utilization
+Mannose Metabolism
+Mannose Metabolism
+Mannose Metabolism
+Mannose Metabolism
+Menaquinone and Phylloquinone Biosynthesis
+Menaquinone and Phylloquinone Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Biosynthesis
+Methionine Salvage
+Methionine Salvage
+Methionine Salvage
+Methionine Salvage
+Methylcitrate cycle
+Methylcitrate cycle
+Methylcitrate cycle
+Methylcitrate cycle
+Methylglyoxal Metabolism
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+NAD and NADP cofactor biosynthesis global
+Nitrate and nitrite ammonification
+Nitrate and nitrite ammonification
+One-carbon metabolism by tetrahydropterines
+One-carbon metabolism by tetrahydropterines
+One-carbon metabolism by tetrahydropterines
+One-carbon metabolism by tetrahydropterines
+One-carbon metabolism by tetrahydropterines
+One-carbon metabolism by tetrahydropterines
+Pentose phosphate pathway
+Pentose phosphate pathway
+Pentose phosphate pathway
+Pentose phosphate pathway
+Pentose phosphate pathway
+Pentose phosphate pathway
+Pentose phosphate pathway
+Peptidoglycan Biosynthesis 2
+Peptidoglycan Biosynthesis 2
+Peptidoglycan Biosynthesis 2
+Peptidoglycan Biosynthesis 2
+Peptidoglycan Biosynthesis 2
+Peptidoglycan Biosynthesis 2
+Peptidoglycan Biosynthesis 2
+Peptidoglycan Biosynthesis 2
+Phenylalanine and Tyrosine Branches from Chorismate
+Phenylalanine and Tyrosine Branches from Chorismate
+Phenylalanine and Tyrosine Branches from Chorismate
+Phenylpropionate Degradation
+Phosphate metabolism
+Phosphate metabolism
+Phosphate metabolism
+Polyamine Metabolism
+Polyamine Metabolism
+Polyamine Metabolism
+Polyamine Metabolism
+Polyamine Metabolism
+Polyamine Metabolism
+Polyhydroxybutyrate metabolism
+Polyhydroxybutyrate metabolism
+Polyhydroxybutyrate metabolism
+Polyhydroxybutyrate metabolism
+Proline Synthesis
+Proline Synthesis
+Proline Synthesis
+Proline Synthesis
+Proline Synthesis
+Proline, 4-hydroxyproline uptake and utilization
+Proline, 4-hydroxyproline uptake and utilization
+Proline, 4-hydroxyproline uptake and utilization
+Proline, 4-hydroxyproline uptake and utilization
+Protocatechuate branch of beta-ketoadipate pathway
+Protocatechuate branch of beta-ketoadipate pathway
+Protocatechuate branch of beta-ketoadipate pathway
+Protocatechuate branch of beta-ketoadipate pathway
+Purine Utilization
+Purine Utilization
+Purine Utilization
+Purine Utilization
+Purine Utilization
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Purine conversions
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyridoxin (Vitamin B6) Biosynthesis
+Pyrimidine utilization
+Pyruvate Alanine Serine Interconversions
+Pyruvate Alanine Serine Interconversions
+Pyruvate Alanine Serine Interconversions
+Pyruvate Alanine Serine Interconversions
+Pyruvate Alanine Serine Interconversions
+Pyruvate metabolism I
+Pyruvate metabolism I
+Pyruvate metabolism I
+Pyruvate metabolism I
+Pyruvate metabolism I
+Pyruvate metabolism II
+Pyruvate metabolism II
+Pyruvate metabolism II
+Pyruvate metabolism II
+Quinate degradation
+Quinate degradation
+Respiratory dehydrogenases 1
+Ribitol, Xylitol, Arabitol, Mannitol and Sorbitol utilization
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Riboflavin, FMN and FAD metabolism
+Ribonucleotide reduction
+Ribonucleotide reduction
+Ribonucleotide reduction
+Ribonucleotide reduction
+Serine Biosynthesis
+Serine Biosynthesis
+Serine Biosynthesis
+Serine Biosynthesis
+Sialic Acid Metabolism
+Stringent Response, (p)ppGpp metabolism
+Stringent Response, (p)ppGpp metabolism
+Succinate dehydrogenase
+TCA Cycle
+TCA Cycle
+TCA Cycle
+TCA Cycle
+TCA Cycle
+TCA Cycle
+TCA Cycle
+TCA Cycle
+TCA Cycle
+The Tartronate Semialdehyde Hub
+The Tartronate Semialdehyde Hub
+The Tartronate Semialdehyde Hub
+The Tartronate Semialdehyde Hub
+Thiamin biosynthesis
+Thiamin biosynthesis
+Thiamin biosynthesis
+Thioredoxin-disulfide reductase
+Threonine anaerobic catabolism gene cluster
+Threonine and Homoserine Biosynthesis
+Threonine and Homoserine Biosynthesis
+Threonine and Homoserine Biosynthesis
+Threonine and Homoserine Biosynthesis
+Threonine and Homoserine Biosynthesis
+Threonine and Homoserine Biosynthesis
+Threonine and Homoserine Biosynthesis
+Threonine degradation
+Threonine degradation
+Threonine degradation
+Threonine degradation
+Trehalose Biosynthesis
+Trehalose Biosynthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+Tryptophan synthesis
+UDP-N-acetylmuramate from Fructose-6-phosphate Biosynthesis
+UDP-N-acetylmuramate from Fructose-6-phosphate Biosynthesis
+UDP-N-acetylmuramate from Fructose-6-phosphate Biosynthesis
+Ubiquinone Biosynthesis
+Ubiquinone Biosynthesis
+Ubiquinone Biosynthesis
+Urea decomposition
+Valine degradation
+Valine degradation
+Valine degradation
+Valine degradation
+Xylose utilization
+Xylose utilization
+dTDP-rhamnose synthesis
+dTDP-rhamnose synthesis
+dTDP-rhamnose synthesis
+dTDP-rhamnose synthesis
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions
+pyrimidine conversions

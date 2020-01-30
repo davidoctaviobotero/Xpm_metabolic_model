@@ -1,0 +1,93 @@
+>> iMAT_Xam_model_rpfCGH = createTissueSpecificModel(Xam, options)
+Academic license - for non-commercial use only
+Optimize a model with 2037 rows, 2066 columns and 7910 nonzeros
+Variable types: 1556 continuous, 510 integer (510 binary)
+Coefficient statistics:
+  Matrix range     [3e-03, 1e+03]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e+03, 1e+03]
+Presolve removed 1695 rows and 1544 columns
+Presolve time: 0.01s
+Presolved: 342 rows, 522 columns, 2086 nonzeros
+Variable types: 375 continuous, 147 integer (147 binary)
+
+Root relaxation: objective 1.477263e+02, 461 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  147.72626    0   61          -  147.72626      -     -    0s
+H    0     0                      91.0000000  147.72626  62.3%     -    0s
+H    0     0                      93.0000000  147.72626  58.8%     -    0s
+     0     0  103.86891    0   28   93.00000  103.86891  11.7%     -    0s
+     0     0  103.74434    0   30   93.00000  103.74434  11.6%     -    0s
+     0     0  103.57327    0   24   93.00000  103.57327  11.4%     -    0s
+     0     0  103.37029    0   24   93.00000  103.37029  11.2%     -    0s
+     0     0  103.33725    0   24   93.00000  103.33725  11.1%     -    0s
+     0     0  103.33725    0   26   93.00000  103.33725  11.1%     -    0s
+     0     0  103.33725    0   28   93.00000  103.33725  11.1%     -    0s
+     0     0  103.33725    0   26   93.00000  103.33725  11.1%     -    0s
+     0     0  103.33725    0   13   93.00000  103.33725  11.1%     -    0s
+H    0     0                      95.0000000  103.33725  8.78%     -    0s
+H    0     2                      96.0000000  103.33725  7.64%     -    0s
+     0     2  103.33725    0   11   96.00000  103.33725  7.64%     -    0s
+H    1     4                      99.0000000  103.28553  4.33%  14.0    0s
+H    5     6                     100.0000000  103.14750  3.15%   8.0    0s
+*   23    13               8     101.0000000  103.14310  2.12%   5.2    0s
+
+Cutting planes:
+  Learned: 39
+  Gomory: 8
+  Cover: 1
+  Implied bound: 4
+  MIR: 2
+  StrongCG: 1
+
+Explored 59 nodes (955 simplex iterations) in 0.50 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 101 100 99 ... 91
+
+Optimal solution found (tolerance 1.00e-12)
+Best objective 1.010000000000e+02, best bound 1.010000000000e+02, gap 0.0000%
+
+iMAT_Xam_model_rpfCGH = 
+
+           mets: {614x1 cell}
+       metNames: {614x1 cell}
+    metFormulas: {614x1 cell}
+          genes: {890x1 cell}
+        grRules: {679x1 cell}
+           rxns: {679x1 cell}
+       rxnNames: {679x1 cell}
+     subSystems: {679x1 cell}
+         csense: 'EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...'
+              S: [614x679 double]
+             lb: [679x1 double]
+             ub: [679x1 double]
+              b: [614x1 double]
+              c: [679x1 double]
+            rev: [679x1 int64]
+    description: 'Xam'
+          rules: {1x1556 cell}
+
+>> FBAaerobic = optimizeCbModel (iMAT_Xam_model_rpfCGH, 'max')
+
+FBAaerobic = 
+
+         full: [679x1 double]
+          obj: 0.0986
+        rcost: [679x1 double]
+         dual: [614x1 double]
+       solver: 'gurobi'
+    algorithm: 'default'
+         stat: 1
+     origStat: 'OPTIMAL'
+         time: 0.0173
+        basis: [1x1 struct]
+            x: [679x1 double]
+            f: 0.0986
+            y: [614x1 double]
+            w: [679x1 double]
+            v: [679x1 double]
