@@ -1,5 +1,5 @@
 # *Xanthomonas phaseoli* pv. *manihotis* Metabolic Model
-This is the repository of *Xanthomonas phaseoli* pv. *manihotis* (*Xpm*) metabolic models (*Xpm* M-model), maps (constructed in [Escher](https://escher.github.io/#/)) and code. This repository in three folders:
+This is the repository of *Xanthomonas phaseoli* pv. *manihotis* (*Xpm*) metabolic models (*Xpm* M-model), maps (constructed in [Escher](https://escher.github.io/#/)) and code used for analyses. This repository is divided in three folders:
 
 ## Code Folder
 This folder includer four subfolders, each one with a jupyter notebook and the corresponding input files to run the code. Results are included into the folders. The code was run in pyhton 3.6 and the last version of pyCOBRA.The analyses included are:
