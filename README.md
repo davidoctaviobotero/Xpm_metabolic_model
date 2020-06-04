@@ -1,4 +1,4 @@
-# Xpm_metabolic_model
+# Xpm Metabolic Model
 This is the repository of *Xanthomonas phaseoli* pv. *manihotis* (*Xpm*) metabolic models (*Xpm* M-model), maps (constructed in [Escher](https://escher.github.io/#/)) and code. This repository in three folders:
 
 ## Code Folder
